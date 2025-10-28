@@ -1,0 +1,2123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Symons-Castle-Export-07-Castle-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes to The Castle of Love</title>
+        <author>Symons, Dana M.</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2024-11" to="2025-01">Checked and corrected bibliographic references</resp>
+          <resp from="2025-01" to="2025-01">Collated and entered corrections</resp>
+          <resp from="2025-01" to="2025-01">Copyedited and proofread</resp>
+          <resp from="2024-11" to="2025-01">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-11" to="2025-01">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Fein, Susanna</persName>
+          <resp from="2024-05" to="2024-06">Copyedited and proofread</resp>
+          <resp from="2024-05" to="2024-06">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-05" to="2024-06">Reviewed and suggested explanatory notes</resp>
+          <resp from="2024-05" to="2024-06">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-05" to="2024-06">Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2024-11" to="2025-01">Checked and corrected bibliographic references</resp>
+          <resp from="2025-08" to="2025-08">Collected metadata</resp>
+          <resp from="2024-11" to="2025-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-08" to="2025-08">Entered corrections for digital edition</resp>
+          <resp from="2024-11" to="2025-08">Entered corrections for print edition</resp>
+          <resp from="2025-08" to="2025-08">Formatted for print edition</resp>
+          <resp from="2025-08" to="2025-08">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2024-04" to="2024-05">Copyedited and proofread</resp>
+          <resp from="2024-04" to="2024-05">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-04" to="2024-05">Reviewed and suggested explanatory notes</resp>
+          <resp from="2024-04" to="2024-05">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-04" to="2024-05">Reviewed edition for content and scholarship</resp>
+          <resp from="2024-04" to="2024-05">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2025-04" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-04" to="2025-04">Entered corrections for print edition</resp>
+          <resp from="2025-04" to="2025-04">Formatted for print edition</resp>
+          <resp from="2025-04" to="2025-04">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2025-03" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-03" to="2025-03">Checked and corrected bibliographic references</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2024-04" to="2025-03">Copyedited and proofread</resp>
+          <resp from="2025-10" to="2025-10">Encoded TEI</resp>
+          <resp from="2024-04" to="2025-03">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-04" to="2024-05">Reviewed and suggested explanatory notes</resp>
+          <resp from="2024-04" to="2025-03">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-04" to="2024-05">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-10" to="2025-10">Uploaded / Published digital edition</resp>
+          <resp from="2024-04" to="2025-03">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Nick Anderson</persName>
+          <orgName>nander13@u.rochester.edu</orgName>
+          <resp>University of Rochester, Staff Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lindy Brady</persName>
+          <orgName>bradyli@edgehill.ac.uk</orgName>
+          <resp>Edge Hill University (UK), Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>tcoletti@umd.edu</orgName>
+          <resp>University of Maryland, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>rcopelan@sas.upenn.edu</orgName>
+          <resp>University of Pennsylvania, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>steffidelcourt@gmail.com</orgName>
+          <resp>University of Rochester, Digital Publishing Specialist</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Dewees</persName>
+          <orgName>john.dewees@rochester.edu</orgName>
+          <resp>University of Rochester, Digital Asset Management Lead</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>mdull@library.rochester.edu</orgName>
+          <resp>University of Rochester, Director of Metadata Strategies</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Juan Espinosa</persName>
+          <orgName>jespino5@ur.rochester.edu</orgName>
+          <resp>University of Rochester, Staff Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>sfein@kent.edu</orgName>
+          <resp>Kent State University, Associate Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John A. Geck</persName>
+          <orgName>jgeck@mun.ca</orgName>
+          <resp>Memorial University of Newfoundland, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>alexandra.gillespie@utoronto.ca</orgName>
+          <resp>University of Toronto, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Richard Godden</persName>
+          <orgName>rgodden1@lsu.edu</orgName>
+          <resp>Louisiana State University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>tgoodmann@miami.edu</orgName>
+          <resp>University of Miami, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>thomas.hahn@rochester.edu</orgName>
+          <resp>University of Rochester, General Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Carissa Harris</persName>
+          <orgName>carissa.harris@temple.edu</orgName>
+          <resp>Temple University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Daniel Kephart</persName>
+          <orgName>dkephart@ur.rochester.edu</orgName>
+          <resp>University of Rochester, Senior Staff Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>lawtonda@gmail.com</orgName>
+          <resp>Washington University in St. Louis, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sierra Lomuto</persName>
+          <orgName>lomuto@rowan.edu</orgName>
+          <resp>Rowan University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>alupack@library.rochester.edu</orgName>
+          <resp>University of Rochester, Associate Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Tamsyn Mahoney-Steel</persName>
+          <orgName>TMahoney-Steel@uclan.ac.uk</orgName>
+          <resp>University of Central Lancashire, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bradley Martin</persName>
+          <orgName>bmartin@library.rochester.edu</orgName>
+          <resp>University of Rochester, IT Support Specialist</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kara McShane</persName>
+          <orgName>klmcshane@gmail.com</orgName>
+          <resp>Ursinus College, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>James Norris</persName>
+          <orgName>mnorris9@u.rochester.edu</orgName>
+          <resp>University of Rochester, Staff Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>kpapas@library.rochester.edu</orgName>
+          <resp>University of Rochester, Section Supervisor, The Robbins Library</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>eprice8@u.rochester.edu</orgName>
+          <resp>Eastman School of Music at the University of Rochester, Senior Staff Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>draybin@eiu.edu</orgName>
+          <resp>Eastern Illinois University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steven Rozenski</persName>
+          <orgName>srozensk@ur.rochester.edu</orgName>
+          <resp>University of Rochester, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>eve.salisbury@wmich.edu</orgName>
+          <resp>Western Michigan University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>annasiebachlarsen@rochester.edu</orgName>
+          <resp>University of Rochester, Executive Director</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>lstaley@colgate.edu</orgName>
+          <resp>Colgate University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>jsuszczynski@library.rochester.edu</orgName>
+          <resp>Univeristy of Rochester, Web Applications Programmer</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>dwallace@english.upenn.edu</orgName>
+          <resp>University of Pennsylvania, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>bwheeler@mail.smu.edu</orgName>
+          <resp>Southern Methodist University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>pyee@ur.rochester.edu</orgName>
+          <resp>University of Rochester, Managing Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <author>Grosseteste, Robert</author>
+            <editor>Symons, Dana M.</editor>
+            <editor role="translator">Symons, Dana M.</editor>
+            <title>The Middle English Castle of Love and Robert Grosseteste's Anglo-Norman Original,
+              Le chasteau d'amour</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2025</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/symons-castle/blob/main/symons-castle-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Symons-Castle-Export-07-Castle-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">Incipit<space rend="indent1"/><p><hi rend="italic">Her byginnet . .
+              . mennes byhove</hi>. The four-line incipit, though not part of the poem, is an
+            adjunct to the poem’s prologue section in that it identifies the source of the poem and
+            gives it a title. The incipit is a quatrain rhyming <hi rend="italic">abab</hi>, as
+            distinct from the poem, which is in rhyming couplets. (For discussion of the poem’s
+            title, see the section Title of the Poem in the Introduction to this volume, pp. 3–4.)
+            Dearnley’s study <hi rend="italic">Translators and </hi><hi rend="italic">Their
+              Prologues in Medieval England</hi> offers a detailed analysis of prologues in English
+            translations, including a chapter focused on the four ME adaptations of the AN <hi
+              rend="italic">Chasteau d’amour</hi> to understand the development of prologues from
+            French to English (pp. 63–96). Dearnley identifies eleven discrete tropes used in
+            English prologues, including that of identifying sources, used here (p. 64). Prologues
+            to English works in general (not just translators’ prologues) molded perceptions of the
+            vernacular (for more on this topic, see explanatory note to lines 35–38, below); for
+            examples and analysis of prologues from numerous medieval English works dating from 1280
+            to 1520, see the anthology edited by Wogan-Browne and colleagues, <hi rend="italic">The
+              Idea of the Vernacular</hi>.</p></note>
+        <note type="enote" n="2">1–6<space rend="indent1"/><p><hi rend="italic">That good
+              thenketh</hi><hi rend="italic"> . . . the beginnyng</hi>. Compare Matthew 12:35: “A
+            good man out of a good treasure bringeth forth good things: and an evil man out of an
+            evil treasure bringeth forth evil things,” and Luke 6:45: “A good man out of the good
+            treasure of his heart bringeth forth that which is good: and an evil man out of the evil
+            treasure bringeth forth that which is evil. For out of the abundance of the heart the
+            mouth speaketh.” Thomas Aquinas expounds on these issues of intention in <hi
+              rend="italic">Summa Theologica</hi>, “Of the Goodness of the Interior Act of the Will”
+            (trans. Shapcote, ed. and rev. The Aquinas Institute, I–II, q. 19). Although not
+            mentioned in Whiting, the <hi rend="italic">MED</hi> identifies proverbial language in
+            lines 1 (<hi rend="italic">mouen</hi> [v.3], sense 2b [b]) and 3–4 (<hi rend="italic"
+              >thought</hi> [n.], sense 6a).</p></note>
+        <note type="enote" n="3">7–10<space rend="indent1"/><p><hi rend="italic">God, Fader and Sone
+              . . . </hi><hi rend="italic">in onhod</hi>. This passage states the doctrine of the
+            Trinity, the idea that God comprises the Father, Son, and Holy Spirit. For an in-depth
+            discussion of the Trinitarian doctrine as it developed at the Council of Nicaea (325
+            CE), see Ayres, <hi rend="italic">Nicaea and Its Legacy</hi>. The poem’s articulation of
+            the doctrine of the Trinity in the phrases <hi rend="italic">o </hi><hi rend="italic"
+              >God art and Thrillihod / And threo Persones in onhod</hi> (repeated in variations
+            throughout the poem) may be a direct allusion to lines from the Athanasian Creed: “unum
+            Deum in Trinitate, et Trinitatem in unitate veneremur” [we worship one God in Trinity,
+            and Trinity in unity] (ed. and trans. Schaff, <hi rend="italic">Greek </hi><hi
+              rend="italic">and Latin Creeds</hi>, p. 66, no. 3). Grosseteste’s language in <hi
+              rend="italic">Dictum 60</hi> is similar, where he asserts that “the smallest and most
+            insignificant object in the universe, a speck of dust” might be understood as “a mirror
+            of the Creator in its unity and trinity” (trans. Southern, p. 216; see also Grosseteste,
+            “Grosseteste’s <hi rend="italic">Dicta</hi>,” ed. Westermann and Goering, <hi
+              rend="italic">Ordered Universe</hi>). Such Trinitarian statements stand against
+            heresies that denied Christ’s divinity (see explanatory note to lines 559–60, below), as
+            well as against those that were concerned with the unity of God and explicitly denied
+            the Trinity. These included Adoptionism or Dynamic Monarchianism (which also denied
+            Christ’s divinity) and Sabellianism, which held that God was not three Persons in one
+            but rather “revealed himself in three ways, or modes” in succession (Boer, <hi
+              rend="italic">Short History of the Early Church</hi>, p. 112). Augustine’s treatise on
+            the topic, <hi rend="italic">De Trinitate</hi>, was influential in the Middle Ages (see
+            Augustine, <hi rend="italic">Trinity</hi>, trans. McKenna; Augustine, <hi rend="italic"
+              >On the Trinity</hi>, ed. Matthews, trans. McKenna; Ayres, <hi rend="italic">Augustine
+              and the Trinity</hi>). The doctrine of the Trinity was an important topic among
+            medieval theologians; for example, Thomas Aquinas, writing some thirty or forty years
+            after the probable composition date of <hi rend="italic">Le chasteau d’amour</hi> (but a
+            century or more before the surviving ME adaptations), discusses the Trinity in <hi
+              rend="italic">Summa Theologiae</hi> I, questions 27–43 (trans. Shapcote, ed. and rev.
+            The Aquinas Institute). For the development of medieval Christian thought on the Trinity
+            in the century after Grosseteste’s death, see Friedman, <hi rend="italic">Medieval
+              Trinitarian Thought</hi>.</p></note>
+        <note type="enote" n="4">12–16<space rend="indent1"/><p><hi rend="italic">To Whom . . . we
+              here</hi><hi rend="italic"> iseoth</hi>. A paraphrase from Romans 11:36: “For of him,
+            and by him, and in him, are all things: to him be glory for ever.” Compare the
+            Eucharistic doxology (said by the celebrant when raising the Host): “Per ipsum, et cum
+            ipso, et in ipso, est tibi Deo Patri omnipotenti, in unitate Spiritus Sancti, omnis
+            honor, et gloria” [Through whom, and with whom, and in whom, be unto Thee O God the
+            Father almighty, in the unity of the Holy Spirit, all honour and glory] (Botte and
+            Morhmann, <hi rend="italic">L’Ordinaire</hi>, quoted in Pickstock, <hi rend="italic"
+              >After Writing</hi>, p. 243; trans. Pickstock, p. 243n52).</p></note>
+        <note type="enote" n="5">19<space rend="indent1"/><p><hi rend="italic">Alle we habbeth to
+              help neode</hi>. I base my gloss, “We all need help,” on <hi rend="italic">MED</hi>,
+              <hi rend="italic">ned(e)</hi> (n.1), sense 1d: “haven ~ of (on, to, unto), haven ~, to
+            need (sth.).” Unfortunately, staining obscures much of the line in H (<hi rend="italic"
+              >Alle we to h . . .</hi>), but Halliwell records the line as <hi rend="italic">Alle we
+              to have helpe we nede</hi> (p. 2), which, if correct, would support this
+            interpretation (although it is problematic to accept Halliwell’s readings at face value;
+            see explanatory note to lines 28–35, below). Sajavaara rejects the interpretation “we
+            need help” (p. 374n20), glossing the phrase instead as “we must help,” based on the
+            corresponding line in the AN poem, where he interprets <hi rend="italic">mester</hi> to
+            mean Modern French <hi rend="italic">métier</hi> [job; work] (p. 374n19). Sajavaara
+            seems to have misinterpreted, however. The AN verse reads, “Tuz avums mester de Deu aÿe”
+            [We all have need of God’s help] (Appendix, line 15). The AN noun <hi rend="italic"
+              >mester</hi> can mean “need,” (see <hi rend="italic">AND</hi>, <hi rend="italic"
+              >mester</hi><hi rend="superscript">1</hi> [n.], sense 3) and the phrase <hi
+              rend="italic">aver mester</hi> means “to need, to be in need” (<hi rend="italic"
+              >AND</hi>, <hi rend="italic">mester</hi><hi rend="superscript">1</hi>, <hi
+              rend="italic">aver mester</hi>).</p></note>
+        <note type="enote" n="6">20–27<space rend="indent1"/><p><hi rend="italic">That we . . .
+              derworthé Drihte</hi>. The prologue’s discussion of world peoples and languages sets
+            up the later discussion of the purpose of translating the poem into English (lines
+            35–38) and the relatively low status of the English language (lines 71–82), topoi of
+            anxiety about writing in the vernacular common in medieval literature (Wogan-Browne et
+            al., <hi rend="italic">Idea of the Vernacular</hi>, p. 19). See also explanatory notes
+            to lines 35–38 and 71–82, below. The AN poem mentions only Hebrew, Greek, and Latin (“De
+            ebreu, de greu, e de latin,” Appendix, line 18).</p></note>
+        <note type="enote" n="7">31–33<space rend="indent1"/><p><hi rend="italic">No monnes mouth .
+              . . To serven</hi><hi rend="italic"> his God</hi>. These lines, based on the AN poem
+            (Appendix, lines 20–22), are an allusion to Esther 13:17: “shut not the mouths of them
+            that sing to thee [i.e., God].”</p></note>
+        <note type="enote" n="8">28–35<space rend="indent1"/><p><hi rend="italic">As uche </hi><hi
+              rend="italic">mon . . . mi resun schowen</hi>. The scribe for H appears to have had
+            difficulty interpreting these lines, and the passage makes little sense in H. Below is
+            the whole passage in H (brackets signify reconstructed portions, as some parts are
+            illegible due to staining):</p><quote><lg>
+              <l>Uche mon awght with all is myȝt<space rend="indent1"/><hi rend="italic">Each person
+                  ought; his might</hi></l>
+              <l>Loovyng to synge to good full ȝorne<space rend="indent1"/><hi rend="italic">To sing
+                  love to God (or </hi><hi rend="italic">good); eagerly</hi></l>
+              <l>With syche speche a[s] he con lorne<space rend="indent1"/><hi rend="italic">such;
+                  can learn</hi></l>
+              <l>Ne mones ay to [be]n adrede<space rend="indent1"/><hi rend="italic">Nor people
+                  always; be fearful</hi></l>
+              <l>Ne his ledone shall not be hed<space rend="indent1"/><hi rend="italic">speech;
+                  withheld (hid)</hi></l>
+              <l>To herien is god þat hym haþ wrowght<space rend="indent1"/><hi rend="italic">praise
+                  his God; has made</hi></l>
+              <l>And made [þys] world of nowghte<space rend="indent1"/><hi rend="italic">this; [out]
+                  of nothing</hi></l>
+              <l>On en[glysshe] I my reson showe.<space rend="indent1"/><hi rend="italic">In
+                  English; argument explain</hi></l>
+            </lg></quote>
+          <p style="enote-noindent"><space rend="indent1"/>Weymouth suggests the difficulty of the
+            passage stems from the copyist’s lack of familiarity with <hi rend="italic"
+              >Loftsong</hi> from line 29, referring to the lines as “absolute nonsense” (“Robert
+            Grosseteste’s <hi rend="italic">Castle</hi>,” p. 52). Halliwell’s text might not
+            accurately reflect the MS readings, however, since the first few pages were so damaged
+            that he resorted to guesswork to supply the gaps (Weymouth, “Robert Grosseteste’s <hi
+              rend="italic">Castle</hi>,” p. 52n1). Previous editors may have accepted at face value
+            portions of Halliwell’s transcription where the manuscript is now illegible, but
+            Weymouth’s assessment of the scribe’s difficulty remains valid.</p>
+          <p style="enote-indent">The ME text in V and A is closer to the corresponding AN passage,
+            though the translator elaborated and rearranged the material, as is typical:</p>
+          <quote type="columns">
+            <lg type="columns" n="1">
+              <l>De bouche de chauntur,</l>
+              <l>Ke ne seit close pur Deu loer</l>
+              <l>E sun seint nun pronuncier;</l>
+              <l>Ke chescun en sun langage</l>
+              <l>Le conusse, sanz folage,</l>
+              <l>Sun Deu e sa redempcion,</l>
+              <l>En romance comence ma raysun.</l>
+              <l>(Appendix, lines 20–26)</l>
+            </lg>
+            <lg type="columns" n="2">
+              <l>As regards the mouth of the singer,</l>
+              <l>Let it not be blocked from praising God</l>
+              <l>And His holy name proclaiming;</l>
+              <l>So that each one in his language</l>
+              <l>May know, without foolishness,</l>
+              <l>His God and his redemption,</l>
+              <l>In French I begin my narrative.</l>
+            </lg></quote>
+        </note>
+        <note type="enote" n="9">35–38<space rend="indent1"/><p><hi rend="italic">On Englisch . . .
+              ischulle tellen him</hi>. The narrator announces the intention to make the poem
+            accessible by writing in English for an unlearned audience unfamiliar with French and
+            Latin. For discussion of this topic, see the section on Date, Audiences, and Language in
+            the Introduction (pp. 5–12). The narrator revisits the topic in lines 71–82. The last
+            line, <hi rend="italic">On </hi><hi rend="italic">Englisch ischulle tellen him . . .
+            </hi>, illustrates how the prologue “moves between discussion of the poem’s use of
+            English and its subject matter” (Dearnley, <hi rend="italic">Translators and Their
+              Prologues</hi>, p. 92) For a detailed discussion of the prologues of the different
+            English translations of the <hi rend="italic">Chasteau d’amour</hi>, see Dearnley (<hi
+              rend="italic">Translators and</hi><hi rend="italic"> Their Prologues</hi>, pp.
+            91–94).</p></note>
+        <note type="enote" n="10">39–40<space rend="indent1"/><p><hi rend="italic">the</hi><hi
+              rend="italic"> world was iwrouht . . . he</hi>. As Sajavaara points out, <hi
+              rend="italic">he</hi> in line 40 refers to <hi rend="italic">world</hi>, which is
+            grammatically masculine in French (p. 374n40).</p></note>
+        <note type="enote" n="11">49<space rend="indent1"/><p><hi rend="italic">His sustren</hi>.
+            The “sisters” referred to here are the four virtues, Mercy, Truth, Justice, and Peace,
+            personified in the poem as the Four Daughters of the King (i.e., God). See explanatory
+            note to line 289, below.</p></note>
+        <note type="enote" n="12">53–55<space rend="indent1"/><p><hi rend="italic">to whuche a
+              castel He alihte . . . That </hi><hi rend="italic">the Marie bodi wes</hi>. The idea
+            of Mary’s body as a castle protecting Jesus is longstanding and originated in part from
+            Jerome’s use in Luke 10:38 of <hi rend="italic">castellum</hi> [village] in the Latin
+            Vulgate Bible (Cornelius, “Figurative Castle,” pp. 37–38; Sajavaara, p. 91; Mann,
+            “Allegorical Buildings,” p. 198). There is a more general allegory where the five senses
+            guard the soul (see Cornelius’s chapter, “The Castle and the Wardens of the Soul,” pp.
+            20–36). Sajavaara discusses the allegory of the Castle of Love at length (pp. 90–101).
+            The castle motif in medieval literature has been explored in depth by Cornelius,
+            “Figurative Castle”; Mann, “Allegorical Buildings”; Wheatley, <hi rend="italic">Idea of
+              </hi><hi rend="italic">the Castle</hi>; and Whitehead, “A Fortress and a Shield” and
+              <hi rend="italic">Castles of the Mind</hi>. Boklund-Lagopoulou discusses additional
+            uses of the castle or fortress and other metaphors in early ME religious works in “<hi
+              rend="italic">Yate of Heven</hi>” (p. 142). See the Allegory of the Castle of Love
+            section in the Introduction to this volume (pp. 15–18) for further
+          discussion.</p></note>
+        <note type="enote" n="13">55<space rend="indent1"/><p><hi rend="italic">That the</hi><hi
+              rend="italic"> Marie bodi wes</hi>. The phrase <hi rend="italic">Marie bodi</hi> is an
+              <hi rend="italic">s</hi>-less genitive meaning “Mary’s body.” This form of the
+            genitive is common in the poem, occurring at lines 113, <hi rend="italic">hevene
+              blisse</hi>; 164, <hi rend="italic">hevene blis</hi>; 225, <hi rend="italic">hevene
+              Driht</hi>; 366, <hi rend="italic">suster</hi><hi rend="italic"> wilnyng</hi>; 378,
+              <hi rend="italic">Merci herte</hi>; 961, <hi rend="italic">Merci bihove</hi>; 1343,
+              <hi rend="italic">Helle gates</hi>; 1430, <hi rend="italic">Thomas
+            misbilevenesse</hi>; 1569, <hi rend="italic">hevyn blys</hi>. Sajavaara follows
+            Mustanoja’s suggestion that this structure is due “to Latin influence” (Sajavaara, p.
+            375n55). Rosenbach, summarizing earlier research on this construction and offering
+            examples from her own corpus, however, explains that this type of genitive was a regular
+            occurrence alongside the <hi rend="italic">s</hi>-genitive in ME and persisted into the
+            Early Modern period (<hi rend="italic">Genitive Variation in English</hi>, pp.
+            205–07).</p></note>
+        <note type="enote" n="14">63<space rend="indent1"/><p><hi rend="italic">Mihtful</hi>. Though
+            the literal meaning is “mighty,” the sense here is “possessing supernatural powers.” See
+              <hi rend="italic">MED</hi>, <hi rend="italic">mightful</hi> (adj.), sense 1a, where
+            this line from the poem is cited.</p></note>
+        <note type="enote" n="15">57–66<space rend="indent1"/><p><hi rend="italic">And tellen . . .
+              </hi><hi rend="italic">All theos nomen</hi>. The paraphrase is from Isaias 9:6: “For a
+            child is born to us, and a son is given to us, and the government is upon his shoulder:
+            and his name shall be called, Wonderful, Counsellor, God the Mighty, the Father of the
+            world to come, the Prince of Peace.” See also lines 606–14. A good portion of the poem
+            is structured around an extended discussion of how Jesus fits each of the qualities
+            named in the biblical passage and how their significance should be understood. Southern
+            (p. 226); Mackie (“Scribal Intervention,” p. 64); and Jahner (<hi rend="italic"
+              >Literature and </hi><hi rend="italic">Law</hi>, p. 167) each discuss this aspect of
+            the <hi rend="italic">Chasteau</hi>, but the same organization holds true for the ME
+            poem, save that the section describing the Counselor is missing (see explanatory note to
+            line 938, below).</p></note>
+        <note type="enote" n="16">78<space rend="indent1"/><p><hi rend="italic">hony of the harde
+              ston souken</hi>. An allusion to Deuteronomy 32:13: “[The Lord] set him upon high
+            land: that he might eat the fruits of the fields, that he might suck honey out of the
+            rock, and oil out of the hardest stone.” Rhodes argues that the translator uses the
+            allusion to show confidence “that English is an excellent medium for poetry and adequate
+            for him to be able to communicate what is essential for an understanding of the
+            Christian faith,” suggesting, “For the narrator, reading this poem becomes another form
+            of sucking honey from a stone” (<hi rend="italic">Poetry Does Theology</hi>, p.
+          54).</p></note>
+        <note type="enote" n="17">38–82<space rend="indent1"/><p><hi rend="italic">On Englisch . . .
+              to His </hi><hi rend="italic">monhede</hi>. These lines loosely translate the Latin
+            prologue included in some copies of the AN poem. The purpose is similar to a table of
+            contents in that it gives an outline of the poem’s story of salvation history, a popular
+            theme in the Middle Ages (see the Synopsis in the Introduction to this volume for more
+            details [pp. 4–5]). The topical overview mentions God’s creation of the world (Genesis
+            1), which he gives to Adam (Genesis 2); the loss of the world through sin (Genesis 3);
+            the debate over the “prisoner” (Adam) by the Four Daughters of God; Jesus’s redemption
+            of humanity through the Incarnation, with specific mention of Mary’s body as a “castle”;
+            Judgment Day; and what people will experience in heaven and hell.</p></note>
+        <note type="enote" n="18">47–82<space rend="indent1"/><p><hi rend="italic">Thorw . . . to
+              His monhede</hi>. These lines are an interpolated passage added between lines 36–37 of
+            the AN poem (see Appendix) and based on the Latin prologue included in most of the AN
+            exemplars (Sajavaara, p. 374n47–82). For the Latin prologue, see the textual note to the
+            AN rubric.</p></note>
+        <note type="enote" n="19">71–82<space rend="indent1"/><p><hi rend="italic">Thauh hit on
+              </hi><hi rend="italic">Englisch . . . to His monhede</hi>. The translator’s comments
+            about English in this section of the prologue form one of the “English prologue motifs”
+            identified by Dearnley (<hi rend="italic">Translators and Their Prologues</hi>, p. 64).
+            For discussion of the issues about language raised in this passage and in lines 35–38,
+            see the section on Date, Audiences, and Language in the Introduction to this volume (pp.
+            5–12).</p></note>
+        <note type="enote" n="20">83–90<space rend="indent1"/><p><hi rend="italic">Ofte ye . . .
+              reste </hi><hi rend="italic">and ro</hi>. The narrator alludes to God’s creation of
+            the world as detailed in Genesis 1.</p></note>
+        <note type="enote" n="21">99<space rend="indent1"/><p><hi rend="italic">then eni tonge mai
+              </hi><hi rend="italic">telle</hi>. Proverbial, though not mentioned in Whiting, whose
+            closest entry is “To be gladder than Tongue can tell” (T379). See explanatory note to
+            lines 690–92, below.</p></note>
+        <note type="enote" n="22">97–100<space rend="indent1"/><p><hi rend="italic">Lucifer . . .
+              to</hi><hi rend="italic"> helle</hi>. The recounting of Lucifer’s fall due to pride is
+            an allusion to Isaias 14:12–15; see also Luke 10:18. This does not have a counterpart in
+            the AN poem, though the poem alludes slightly later to the fall of the angels (see
+            explanatory note to lines 152–54, below, for details). Sajavaara notes the importance of
+            the allusion in accounting for “the jealousy felt by the Devil (an addition by the
+            translator)” (p. 376n97–100). The envy of the devils in hell is mentioned explicitly in
+            lines 211–12; see explanatory note to lines 209–22, below.</p></note>
+        <note type="enote" n="23">101–09<space rend="indent1"/><p><hi rend="italic">And yit . . .
+              the</hi><hi rend="italic"> world forles</hi>. This passage paraphrases Isaias 30:26:
+            “And the light of the moon shall be as the light of the sun, and the light of the sun
+            shall be sevenfold, as the light of seven days: in the day when the Lord shall bind up
+            the wound of his people, and shall heal the stroke of their wound.”</p></note>
+        <note type="enote" n="24">123<space rend="indent1"/><p><hi rend="italic">breer</hi>. The dog
+            rose (<hi rend="italic">rosa canina</hi>) or sweet briar or bramble is “a chiefly
+            European wild rose” (<hi rend="italic">MW</hi>, dog rose [n.]). The OF translation for
+            the dog rose is <hi rend="italic">eglantine</hi>, and the flower (along with roses in
+            general) conveyed erotic symbolism in OF romance, especially the desirability of an
+            inaccessible or unapproachable love object (Kendrick, <hi rend="italic">Chaucerian
+              Play</hi>, p. 149; see also <hi rend="italic">Le roman de la Rose</hi>). The AN word
+            appears in the <hi rend="italic">AND</hi> as <hi rend="italic">eglenter</hi> (n.). In
+            Chaucer’s sendup of medieval romance, Sir Thopas, the description of the eponymous hero
+            Thopas as “chaast and no lechour / And sweete as is the brembul flour / That bereth the
+            rede hepe” (<hi rend="italic">CT </hi><hi rend="italic">VII</hi>[B<hi rend="superscript"
+              >2</hi>] 745–47) plays on the usual erotic implications (Gordon, “Sensory Satires,” p.
+            196). See explanatory note to line 719, below.</p></note>
+        <note type="enote" n="25">126–27<space rend="indent1"/><p><hi rend="italic">valeye of Ebron;
+              / Ther He made Adam</hi>. The Valley of Hebron is about thirty kilometers (about
+            nineteen miles) south of Jerusalem (Sajavaara, pp. 376–77n126). Adam was commonly held
+            to have been buried in Hebron, but the poem follows a lesser-known medieval tradition
+            that also locates Adam’s creation there (Murdoch, <hi rend="italic">Apocryphal Adam and
+              Eve</hi>, p. 126).</p></note>
+        <note type="enote" n="26">127–54<space rend="indent1"/><p><hi rend="italic">Ther He made
+              Adam . . . to helle</hi>. The poem discusses God’s creation of Adam and Eve and
+            describes their idyllic prelapsarian lives (compare Genesis 2). For discussion of
+            medieval ideas about the creation of Adam and Eve, see Murdoch, <hi rend="italic">The
+              Medieval Popular Bible</hi> and <hi rend="italic">The Apocryphal Adam and Eve in
+              </hi><hi rend="italic">Medieval Europe</hi>. Boulton notes that “the purpose of the
+            creation of mankind was to make up for the gap in heaven caused by the expulsion of the
+            fallen angels” (p. 63n9).</p></note>
+        <note type="enote" n="27">152–54<space rend="indent1"/><p><hi rend="italic">Othat of hem to
+              . . . Lucifer adoun to helle</hi>. The idea is that Adam and Eve have so many
+            descendants that they equal the number of angels that fell down to hell with Lucifer (as
+            a result of his pride). Compare the AN poem, which in the corresponding lines does not
+            directly mention Lucifer and the angels but instead alludes to them; when speaking of
+            the hypothetical number of Adam’s descendants, the narrator explains that they would be
+            as numerous “[c]ume furent kaun par folie / E par orguil del ciel cheïrent / E en enfern
+            descendirent” [as were those (i.e., angels) that through folly / And through pride fell
+            from heaven / And descended into hell] (Appendix, lines 98–100). See also explanatory
+            notes to lines 97–100, above, and 209–22, below.</p></note>
+        <note type="enote" n="28">169–70<space rend="indent1"/><p><hi rend="italic">That on . . .
+              lawe iset</hi>. The dichotomy in these lines is between natural law (innate moral
+            feeling, arrived at through reason) and positive law (a law, whether divine or human,
+            that is created and imposed). Romans 2:14–16 offers support for the idea of natural law:
+            “For when the Gentiles, who have not the law, do by nature those things that are of the
+            law; these having not the law are a law to themselves: Who shew the work of the law
+            written in their hearts, their conscience bearing witness to them, and their thoughts
+            between themselves accusing, or also defending one another, in the day when God shall
+            judge the secrets of men by Jesus Christ, according to my gospel.” Grosseteste discusses
+            natural and positive laws in detail in <hi rend="italic">On</hi><hi rend="italic"> the
+              Cessation of the Laws</hi> (trans. Hildebrand; see especially 1.4–1.6, pp. 45–49).
+            Grosseteste defines natural law as “actions that are intrinsically just,” where “every
+            rational creature, when it is considered in the state of its first creation uncorrupted
+            by sin . . . could, by a movement of right reason uncorrupted, know the whole natural
+            law, inscribe it immediately on its own mind by reasoning without labor or delay, and
+            retain it inscribed on the tables of the heart without forgetfulness”; in contrast,
+            positive law, “the law of deeds,” is one that must “be dictated to the rational creature
+            from the outside, for it could not know in matters that are indifferent what its Creator
+            wants it to do unless he tells it” (<hi rend="italic">Cessation of the Laws</hi>, trans.
+            Hildebrand, p. 45). Grosseteste sees positive laws commanded by God as necessary, since
+            “the fullest and most humble obedience consists in observing the law of deeds, or the
+            positive law” (p. 47). In fact, Grosseteste holds that it is possible to act with
+            perfect obedience only through the addition of positive law precisely because it cannot
+            be arrived at rationally: “the rationality of testing and achieving perfect obedience
+            consists in the observance of indifferent mandates that of themselves lack rationality”
+            (p. 48). One such mandate is that mentioned in lines 174–76 of <hi rend="italic"
+              >The</hi><hi rend="italic"> Castle of Love</hi>: <hi rend="italic">“Of the appel yow
+              never ne </hi><hi rend="italic">et, / Of the tre that is forbode,” / So He seide</hi>
+            (see explanatory note to lines 174–78, below). For an in-depth examination of the topic
+            of natural law, see the edited collection by Jacobs, <hi rend="italic">Reason, Religion,
+              and Natural Law</hi>, particularly the sections on medieval Jewish philosophy (pp.
+            81–129) and medieval Christian philosophy (pp. 131–97). For contextualization of
+            Grosseteste’s <hi rend="italic">On </hi><hi rend="italic">the Cessation of the
+            Laws</hi>, including other related works, his probable audience, and an outline of the
+            work, see Hildebrand’s introduction to the translation (pp. 3–24). Hoskin discusses
+            natural and positive law in relation to Grosseteste’s theories about pastoral work (<hi
+              rend="italic">Robert Grosseteste and the 13th-Century Diocese of </hi><hi
+              rend="italic">Lincoln</hi>, pp. 71–78).</p></note>
+        <note type="enote" n="29">174–78<space rend="indent1"/><p><hi rend="italic">Of the appel . .
+              . lyf forlete</hi>. These lines paraphrase Genesis 2:16–17: “And he commanded him,
+            saying: Of every tree of paradise thou shalt eat: But of the tree of knowledge of good
+            and evil, thou shalt not eat. For in what day soever thou shalt eat of it, thou shalt
+            die the death.” Grosseteste explains, “the Lord gave him [i.e., man] a positive law . .
+            . namely, that he not eat of the tree of the knowledge of good and evil, which was in
+            the middle of paradise” (<hi rend="italic">Cessation of the Laws</hi>, trans.
+            Hildebrand, p. 47). The <hi rend="italic">tre</hi><hi rend="italic"> that is
+              forbode</hi> (line 175) thus refers to the tree of the knowledge of good and
+            evil.</p><p style="enote-indent">The biblical story in Genesis does not identify the
+            fruit growing on the tree of the knowledge of good and evil. Some early traditions
+            favored the fig as the forbidden fruit, on the assumption that the fruit came from the
+            same tree as the one from which Adam and Eve took leaves to cover their nakedness
+            (Jager, <hi rend="italic">Tempter’s Voice</hi>, p. 67). See Genesis 3:7: “And the eyes
+            of them both were opened: and when they perceived themselves to be naked, they sewed
+            together fig leaves, and made themselves aprons.” Michelangelo, for example, depicted
+            the fruit as a fig in the Sistine Chapel ceiling fresco. <hi rend="italic">Genesis
+              Rabba</hi>, a collection of rabbinic commentary on Genesis, reports a debate among
+            rabbis who variously identify the fruit as grape, wheat, citron, and fig (Shoulson,
+            “Embrace of the Fig Tree,” p. 885). (<hi rend="italic">Genesis Rabba</hi> is the oldest
+            extant collection, dating from the late fourth to early fifth centuries [Menn, <hi
+              rend="italic">Judah and Tamar</hi>, pp. 287–88]).</p>
+          <p style="enote-indent">In ME the word <hi rend="italic">appel</hi> (line 174) can refer,
+            as in Modern English, to an apple (see <hi rend="italic">MED</hi>, <hi rend="italic"
+              >appel, -il, -ul</hi> [n.], sense 2), but <hi rend="italic">appel</hi> also meant
+            “[a]ny kind of fruit growing on a tree, shrub, or vine, such as an apple, crab apple,
+            pear, peach, citron, banana, haw, berry, cucumber; also, a nut, a tuber” (<hi
+              rend="italic">MED</hi>, <hi rend="italic">appel, -il, -ul</hi> [n.], sense 1a).
+            Nevertheless, by the medieval period, the apple was the standard fruit visually (Jager,
+              <hi rend="italic">Tempter’s Voice</hi>, p. 67). Written narratives, whether Latin or
+            vernacular, including the vernacular Bible, likewise identified the apple (Murdoch, <hi
+              rend="italic">Adam’s Grace</hi>, pp. 16–18). The overlap of the Latin words for
+            “apple” (<hi rend="italic">mālum</hi>) and “evil” (<hi rend="italic">mălum</hi>) invited
+            medieval wordplay on the two meanings (Jager, <hi rend="italic">Tempter’s Voice</hi>, p.
+            182; Murdoch, <hi rend="italic">Adam’s Grace</hi>, p. 16) and may have contributed to
+            the long-term identification of the apple as the fruit in question.</p>
+        </note>
+        <note type="enote" n="30">179–80<space rend="indent1"/><p><hi rend="italic">And al the kynde
+              . . . thulke dom</hi>. These lines have no equivalent in the AN poem.</p></note>
+        <note type="enote" n="31">188–208<space rend="indent1"/><p><hi rend="italic">Awei to
+              sone</hi><hi rend="italic"> . . . his owne gult</hi>. These lines describe the Fall of
+            mankind (detailed in the Bible in Genesis 2–3) resulting from Adam’s disobedience to God
+            by eating the <hi rend="italic">appel</hi> (line 191), the action that broke both God’s
+            laws, <hi rend="italic">[t]</hi><hi rend="italic">he kuyndeliche and the set ek</hi>
+            [the natural and the positive also] (line 193; see explanatory note to lines 169–70,
+            above, for details about natural and positive laws). The Fall is framed in legal terms
+            here as a loss of inheritance: Adam had the <hi rend="italic">seisyn</hi> (line 185), or
+            “seisin,” which refers to “possession in freehold, freq. indicated or established by
+            actual or physical possession” (<hi rend="italic">MED</hi>, <hi rend="italic"
+              >seisine</hi>, sense 1a), and then <hi rend="italic">hit forles</hi> [forfeited it]
+            (line 188). Adam <hi rend="italic">[w]as cast</hi><hi rend="italic"> out of his
+              heritage</hi> (line 198) and <hi rend="italic">[o]ut </hi><hi rend="italic">of his
+              heritage he is pult [exiled] / For synne and </hi><hi rend="italic">for his owne
+              gult</hi> (lines 207–08). For detailed discussion of Grosseteste’s use of property and
+            English law in relation to salvation history in the poem, see Jahner (<hi rend="italic"
+              >Literature and </hi><hi rend="italic">Law</hi>, particularly pp. 161–74). The ME poem
+              <hi rend="italic">The Harrowing of </hi><hi rend="italic">Hell</hi> (ca. 1250) uses
+            similar feudal and legal structures, especially as related to the household, to inform
+            the argument between the Devil and Christ over Adam and his descendants (i.e., all the
+            souls in hell at the time of Christ’s Crucifixion) (see Nelson, “Performance of Power,”
+            pp. 60–64).</p></note>
+        <note type="enote" n="32">209–22<space rend="indent1"/><p><hi rend="italic">Lucifer gon wel
+              . . . no forward breke</hi>. These lines in the ME poem are interpolated between lines
+            150–51 of the AN poem, which has no corresponding lines. Here, Lucifer, or the Devil,
+            and his demon cohorts take pleasure that Adam has fallen <hi rend="italic">thorw
+              pruide</hi> (line 213), as they had been envious of Adam’s place in <hi rend="italic"
+              >that blisful londe</hi> (i.e., paradise or Eden, line 212). The Fall additionally
+            caused their power to grow until <hi rend="italic">al the world moste after</hi><hi
+              rend="italic"> hem go</hi> [all the world had to follow their ways] (line 216), with
+            the consequence that people had to go to hell when they died, no matter what good deed
+            they did (lines 217–20); that was the promise God made to Adam, and God would not break
+            a promise (lines 221–22). This view of the whole world having fallen due to Adam’s
+            disobedience lays the foundation for Jesus’s redemption of humanity detailed later in
+            the poem. See explanatory notes to lines 97–100 and 152–54, above.</p></note>
+        <note type="enote" n="33">227–30<space rend="indent1"/><p><hi rend="italic">God </hi><hi
+              rend="italic">ne wrouhte . . . hard and strong</hi>. The difficulty in interpreting
+            these lines stems in part from the ambiguous pronouns <hi rend="italic">his</hi> (line
+            228) and <hi rend="italic">him</hi> (line 229), which Sajavaara interprets as referring
+            to God but I infer (from readings in H and the AN text) must refer to Adam. Differences
+            between ME and Modern English grammar complicate the matter as well. The lines in H and
+            the corresponding passage in the AN text are helpful in interpreting the passage. The AN
+            text reads “Deu ne fist chose si haute / Ke ne abeschast par sa defaute” [God did not
+            make a thing so high / That it was not cast down by his (Adam’s) default] (Appendix,
+            lines 155–56). Compare the readings in V (original, unedited text) and H:</p><quote
+            type="columns">
+            <lg type="columns" n="1">
+              <l>V:</l>
+              <l>God ne wrouhte neuer þat þing</l>
+              <l>Þat out les þorw his wonyng</l>
+              <l>ffor nis no wone on him ilong</l>
+              <l>Ȝif synne nere so hard and strong</l>
+            </lg>
+            <lg type="columns" n="1">
+              <l>[God never made that thing</l>
+              <l>That lost something due to his failing</l>
+              <l>For it is not his fault</l>
+              <l>Save that sin is so harsh and powerful]</l>
+            </lg>
+            <lg type="columns" n="2">
+              <l>H:</l>
+              <l>God whrowght neuer þat þyng</l>
+              <l>But hit peyred þowrgh his wonnyng</l>
+              <l>But for þe wonnyng of him hit was not long</l>
+              <l>Nere þat synne was so harde &amp; strong</l>
+            </lg>
+            <lg type="columns" n="2">
+              <l>[God never made that thing</l>
+              <l>But it deteriorated due to his failing</l>
+              <l>Save for the failing it was not due to him</l>
+              <l>Were [it] not that sin was so harsh and powerful]</l>
+            </lg></quote>
+          <p style="enote-noindent"><space rend="indent1"/>My emendation in line 228 (from <hi
+              rend="italic">That</hi> to <hi rend="italic">But hit</hi>) attempts to solve the same
+            problem Sajavaara addresses by replacing <hi rend="italic">out</hi> with <hi
+              rend="italic">mihte</hi> (see textual note to this line for details); Sajavaara
+            acknowledges the change “improves the line but does not restore the original sense” of
+            the AN (p. 378n228). But the improvement from Sajavaara’s emendation is minimal, since
+              <hi rend="italic">out</hi> is a normal variant of the ME pronoun <hi rend="italic"
+              >ought</hi>, with the phrase “out les” meaning “lost something.” See <hi rend="italic"
+              >MED</hi>, <hi rend="italic">ought</hi> (pron.), sense 1 (a), “Anything” and sense 3
+            (a), “Something.” The implication of the passage is that Adam’s failing causes the Fall
+            of the whole world.</p>
+        </note>
+        <note type="enote" n="34">239<space rend="indent1"/><p><hi rend="italic">kynges court</hi>.
+            The king’s court is “a court presided over by the king or by a judge appointed by him”;
+            see <hi rend="italic">MED</hi>, <hi rend="italic">king</hi> (n.), sense 1b
+          (d).</p></note>
+        <note type="enote" n="35">233–40<space rend="indent1"/><p><hi rend="italic">For sunne . . .
+              thulke selve lay</hi>. In these lines, the poem connects Adam’s sin of disobeying
+            God’s command and eating the forbidden fruit (lines 234–38) with a law enforced every
+            day in the king’s court (lines 239–40). In line 233, which states that <hi rend="italic"
+              >sunne </hi><hi rend="italic">and wone, al is on</hi>, the word <hi rend="italic"
+              >wone</hi> is a “fault,” or “a lack of conformity to a law or legal requirement” (see
+              <hi rend="italic">MED</hi>, <hi rend="italic">wane</hi> [n.1], sense 2b, which quotes
+            this line). In the corresponding lines in the AN poem, the word used is <hi
+              rend="italic">defaute</hi> (Appendix, lines 160–64). See the sections Debate and Legal
+            Language (pp. 20–22) and Relation between <hi rend="italic">Le chasteau d’amour</hi> and
+              <hi rend="italic">The Castle of Love</hi> (pp. 22–26) in the Introduction for
+            discussion of the idea of <hi rend="italic">defaute</hi> in the AN poem and the English
+            translator’s treatment of it.</p></note>
+        <note type="enote" n="36">242<space rend="indent1"/><p><hi rend="italic">Sunnes thral</hi>.
+            The idea of being sin’s slave comes from the Gospel of John 8:34: “Jesus answered them:
+            Amen, amen I say unto you: that whosoever committeth sin, is the servant of
+          sin.”</p></note>
+        <note type="enote" n="37">243<space rend="indent1"/><p><hi rend="italic">freore</hi>. The
+            comparative of <hi rend="italic">MED</hi>, <hi rend="italic">fre</hi> (adj.), sense 1d:
+            “out of the bondage of sin, not subject to the Devil.”</p></note>
+        <note type="enote" n="38">255–62<space rend="indent1"/><p><hi rend="italic">Thenne . . .
+              withouten synne</hi>. Jesus Christ is the other whom Adam must seek to plead his case,
+            as Jesus shares human nature but <hi rend="italic">ne eete of the tre</hi> (line 260)
+            and has kept <hi rend="italic">[t]he threo lawen withouten synne</hi> (line
+          262).</p></note>
+        <note type="enote" n="39">262–67<space rend="indent1"/><p><hi rend="italic">threo lawen . .
+              . sunne</hi>. The laws described as <hi rend="italic">Thulke </hi><hi rend="italic"
+              >two of paradys</hi> refer to obedience to God (<hi rend="italic">Thorw kynde </hi><hi
+              rend="italic">to holden Godes heste</hi>, line 172) and abstaining from the apple (<hi
+              rend="italic">“Of the appel yow never ne et, / Of the</hi><hi rend="italic"> tre that
+              is forbode,” / So He seide</hi>, lines 174–76); the first is the natural law, the
+            second the positive law (see explanatory note to lines 169–70, above). The third law,
+              <hi rend="italic">thulke of the Mount Synays / That to Moyses igiven was</hi> (lines
+            264–65), refers to the Ten Commandments, described in Exodus 20.</p></note>
+        <note type="enote" n="40">283<space rend="indent1"/><p><hi rend="italic">fulnesse</hi>. A
+            theological concept, equivalent to the modern senses of “substance” or “being.” The <hi
+              rend="italic">MED</hi>, <hi rend="italic">fulnes(se)</hi> (n.), sense 3b, glosses this
+            as “totality, completeness; ?perfection.” The AN text uses the word “sustance” in this
+            passage (see Appendix, line 212) and elsewhere where the English text has <hi
+              rend="italic">fulnesse</hi>. The AN word means “substance (of an entity), that which
+            makes a being what it is; being, entity (of the Trinity)” (<hi rend="italic">AND</hi>,
+              <hi rend="italic">substance</hi> [n.], sense 3), implying that in the ME poem <hi
+              rend="italic">fulnesse</hi> means something similar. Below are the lines in the
+            English poem that use <hi rend="italic">fulnesse</hi> with the corresponding lines
+            containing “sustance” in the AN:</p><quote type="columns">
+            <lg type="columns" n="1">
+              <l>ME:</l>
+              <l>He gaf a dole of His fulnesse (291)</l>
+              <l>For of Thi fulnesse icomen ich wes (376)</l>
+              <l>And of Thi fulnesse am I come (460)</l>
+              <l>For We beoth on in one fulnesse (533)</l>
+              <l>In one fulnesse and in no mo (564)</l>
+            </lg>
+            <lg type="columns" n="2">
+              <l>AN:</l>
+              <l>Sun aferant de sustance (219)</l>
+              <l>De ta sustance issui (296)</l>
+              <l>Yssue de ta sustance (374)</l>
+              <l>Un sumes nus en sustance (437)</l>
+              <l>Une sustance e plus nun (466)</l>
+            </lg></quote>
+          <p style="enote-noindent"><space rend="indent1"/>The AN poem includes two additional uses
+            of the word “sustance” (Appendix, lines 223 and 224) that have no correspondence in the
+            ME translation. Similarly, the ME poem includes one mention of <hi rend="italic"
+              >folnesse</hi> (line 294) that has no parallel in the AN (see explanatory note to
+            lines 294–95, below).</p>
+        </note>
+        <note type="enote" n="41">281–84<space rend="indent1"/><p><hi rend="italic">Of on wille . .
+              . of on miht</hi>. These lines refer to the notion that the Father and Son are one.
+            Compare John 10:30, where Jesus says, “I and the Father are one”; and John 14:9, “Jesus
+            saith to him: Have I been so long a time with you; and have you not known me? Philip, he
+            that seeth me seeth the Father also.” See also John 1:1–2. The idea of the Father and
+            Son having “one substance” (compare “une sustance” from line 212 of the AN poem) is
+            expressed in the Nicene Creed: “Lord Jesus Christ, the Son of God, the only-begotten of
+            his Father, of the substance of the Father, God of God, Light of Light, very God of very
+            God, begotten, not made, being of one substance with the Father” (Percival, ed. and
+            trans., “The Nicene Creed”). In arriving at this statement, “the First Nicean Council
+            borrowed Origen’s term <hi rend="italic">homoousios</hi>, that is ‘of the same
+            substance,’ to underscore the truly divine nature of the Son,” but dispute over the term
+            continued even after the Council, because “some asked if ‘of the same substance’ or ‘one
+            in being’ referred to a numerical sameness or oneness or a generic similarity” (S.
+            Brown, “Trinity,” 2:1339). Compare the AN text:</p><quote type="columns">
+            <lg type="columns" n="1">
+              <l>Tut autre tel cum fu le Pere</l>
+              <l>E si est le Fiz en la manere:</l>
+              <l>De un saver e de une pussance,</l>
+              <l>De un voler e de une sustance.</l>
+              <l>(Appendix, lines 209–12)</l>
+            </lg>
+            <lg type="columns" n="2">
+              <l>Fully just the same as was the Father</l>
+              <l>Indeed so is the Son in nature:</l>
+              <l>Of one knowledge and of one power,</l>
+              <l>Of one will and of one substance.</l>
+            </lg></quote>
+        </note>
+        <note type="enote" n="42">285–88<space rend="indent1"/><p><hi rend="italic">Thorw the Sone .
+              . . to ende bringe</hi>. These lines describe the Christian understanding of God’s
+            process of creation. The idea that God the Father created everything through the Son
+            (i.e., Jesus) is supported by numerous New Testament passages. See, for example, John
+            1:3, “All things were made by [i.e., through] him [i.e., the Son]: and without him was
+            made nothing that was made”; Hebrews 1:1–2, “God . . . [i]n these days hath spoken to us
+            by his Son, whom he hath appointed heir of all things, by whom also he made the world”;
+            and Colossians 1:15–16, “[the Son] is the image of the invisible God, the firstborn of
+            every creature: For in him were all things created in heaven and on earth, visible and
+            invisible, whether thrones, or dominations, or principalities, or powers: all things
+            were created by him and in him.” See also John 1:10, 1 Corinthians 8:6, and Romans
+            11:36. Compare lines 213–16 of the AN poem, which describes the process a little
+            differently. For a more detailed discussion of the theological implications, see
+            explanatory note to lines 559–60, below. The narrator also reiterates the idea in lines
+            531 and 650.</p></note>
+        <note type="enote" n="43">289<space rend="indent1"/><p><hi rend="italic">Foure
+            douhtren</hi>. These Four Daughters of God are the personified virtues Mercy (Merci),
+            Truth (Soth), Justice (Riht), and Peace (Pees). The Four Daughters’ dispute forms a
+            significant section of the text (lines 275–520) and was a popular element. The idea of
+            the Four Daughters is an elaboration of Psalm 84:11: “Mercy and truth have met each
+            other: justice and peace have kissed” (see Sajavaara, p. 63; Boulton, p. 65n25). Traver
+            examines the allegory at length in <hi rend="italic">The Four Daughters of God</hi>, as
+            does Sajavaara (pp. 62–90). Murphy’s overview of the tradition includes a list of ME
+            texts with specific locations of the allegory in each work (“Four Daughters of God,” <hi
+              rend="italic">DBTEL</hi>). See the Allegory of the Four Daughters of God section in
+            the Introduction to this volume (pp. 13–14) for discussion.</p></note>
+        <note type="enote" n="44">290–91<space rend="indent1"/><p><hi rend="italic">to</hi><hi
+              rend="italic"> uchone sunderlyng / He gaf a dole of His fulnesse</hi>. Line 290 is the
+            only quotation attested for <hi rend="italic">MED</hi>, <hi rend="italic"
+              >sonderling</hi> (adv.). The idea of the Four Daughters inheriting from their Father
+            (i.e., God) comes from English law, since “women in [Anglo-Norman] England could and did
+            inherit estates that were often considerable” (Boulton, p. 65n26).</p></note>
+        <note type="enote" n="45">294–95<space rend="indent1"/><p><hi rend="italic">yit was al
+              </hi><hi rend="italic">the folnesse on / That to Himself bilay</hi>. In other words,
+            God’s completeness is undiminished and still “one,” or complete, even though he gives
+            some of it to each of the Four Daughters. There is no corresponding passage in the AN
+            text.</p></note>
+        <note type="enote" n="46">330–44<space rend="indent1"/><p><hi rend="italic">I beseche . . .
+              isold to me</hi>. Mercy makes the case that the “<hi rend="italic">wrecche
+              prisoun</hi>” (i.e., Adam; line 331) only disobeyed God and ate the forbidden fruit
+            because his enemies seduced him, causing him to sin; therefore, he should be delivered
+            up to her. This rationale does not appear in sources or analogues to Grosseteste’s
+            allegory, but Mercy’s speech follows Anselm’s position, which “den[ied] the Devil’s
+            right of possession: humanity’s captivity was in itself just because of sin, while the
+            Devil’s possession of the human race was in itself unjust because he had gained power
+            through deception” (Marx, <hi rend="italic">Devil’s Rights</hi><hi rend="italic"> and
+              the Redemption</hi>, p. 69).</p></note>
+        <note type="enote" n="47">360<space rend="indent1"/><p><hi rend="italic">That Riht hedde
+              </hi><hi rend="italic">him idemet</hi>. The ME poem has Justice condemning the
+            prisoner here, but in the AN poem, it is “Verité” [Truth] (Appendix, lines 294 and 298),
+            even though the allegorical figure of Verité is speaking. In both poems the allegorical
+            figures frequently speak of themselves in third person, making it sometimes difficult to
+            distinguish allegorical uses from conceptual ones.</p></note>
+        <note type="enote" n="48">399<space rend="indent1"/><p><hi rend="italic">Ther beth rihte
+              domes mitte</hi>. The word <hi rend="italic">mitte</hi> is a contraction of <hi
+              rend="italic">mid thee</hi>, meaning “with you”; see <hi rend="italic">MED</hi>, <hi
+              rend="italic">mid</hi> (prep.1), sense 7, where this line from the poem is cited as an
+            example of <hi rend="italic">ben mid the</hi>, “are in thee, come from thee, are
+            characteristic of thee; etc.” Compare Apocalypse 16:7: “Yea, O Lord God Almighty, true
+            and just are thy judgments.”</p></note>
+        <note type="enote" n="49">448–52<space rend="indent1"/><p><hi rend="italic">But eighte
+              soulen . . . nas </hi><hi rend="italic">beleved more</hi>. The allusion is to the
+            story of Noah’s Flood, detailed in Genesis 6–9, which God sent to punish the sins of
+            mankind, though in this case the poem treats the Flood “as punishment for Adam’s sin”
+            (Boulton, p. 67n32). The line <hi rend="italic">But eighte soulen that weren </hi><hi
+              rend="italic">iyemed</hi> (line 448) recalls 1 Peter 3:20: “a few, that is, eight
+            souls, were saved by water.”</p></note>
+        <note type="enote" n="50">505<space rend="indent1"/><p><hi rend="italic">nis not</hi><hi
+              rend="italic"> worth an hawe</hi>. A proverbial expression meaning “worthless” (see
+            Whiting H193). A haw is a hawthorn berry, signifying something of very little value; see
+              <hi rend="italic">MED</hi>, <hi rend="italic">haue</hi> (n.2).</p></note>
+        <note type="enote" n="51">507<space rend="indent1"/><p><hi rend="italic">withouten
+              gabbe</hi>. Literally: “without idle talk” or “without deception,” but the sense is
+            “truly”; see <hi rend="italic">MED</hi>, <hi rend="italic">gabbe</hi> (n.), sense
+            1b.</p></note>
+        <note type="enote" n="52">529<space rend="indent1"/><p><hi rend="italic">Thi wisdam me
+              clepeth Me</hi>. Compare 1 Corinthians 1:24: “Christ the power of God, and the wisdom
+            of God.”</p></note>
+        <note type="enote" n="53">531<space rend="indent1"/><p><hi rend="italic">al the world for Me
+              Thou wrouhtest</hi>. The line reiterates the idea that God created everything through
+            Jesus; see explanatory notes to lines 285–88, above, and 559–60, below.</p></note>
+        <note type="enote" n="54">547<space rend="indent1"/><p><hi rend="italic">Nimen Ichulle the
+              thralles weden</hi>. This literal statement about putting on the slave’s clothes
+            alludes to Christ’s birth as Mary’s son Jesus, where he “puts on” human flesh (and human
+            nature). Compare Philippians 2:7: “[Jesus] taking the form of a servant, being made in
+            the likeness of men, and in habit found as a man.” See explanatory note to lines 575–80,
+            below.</p></note>
+        <note type="enote" n="55">549<space rend="indent1"/><p><hi rend="italic">alone Ichul</hi><hi
+              rend="italic"> holde the doom</hi>. This refers to Christ’s willingness to redeem
+            humanity by receiving the punishment for Adam’s sin.</p></note>
+        <note type="enote" n="56">552<space rend="indent1"/><p><hi rend="italic">Pees and Riht
+              cussen</hi>. An allusion to Psalm 84:11: “justice and peace have kissed” (see also
+            explanatory note to line 289, above).</p></note>
+        <note type="enote" n="57">559–60<space rend="indent1"/><p><hi rend="italic">Withoute God . .
+              . al thing wrouht</hi>. The belief that God the Father created everything <hi
+              rend="italic">[t]</hi><hi rend="italic">horw God the Sone</hi> (line 560) is stated in
+            the opening of the Gospel of John, where the Word refers to Jesus: “In the beginning was
+            the Word, and the Word was with God, and the Word was God. The same was in the beginning
+            with God. All things were made by him [i.e., the Word]: and without him was made nothing
+            that was made” (John 1:1–3). John 1:14 explains that “the Word was made flesh, and dwelt
+            among us,” meaning that God’s spoken “Word,” which created everything, refers to Jesus
+            Christ as God incarnate. The narrator restates this in line 650.</p><p
+            style="enote-indent">This idea became part of the Nicene Creed. Intended to combat early
+            heresies that doubted Christ’s double nature as both fully man and fully God, the Nicene
+            Creed was adopted in 325 CE at the First Council of Nicaea and revised in 381 at the
+            Council of Constantinople, though the principal concepts are significantly older (G.
+            Evans, <hi rend="italic">Brief History of Heresy</hi>, pp. 29–30). The Arian heresy
+            (from Arius) was one that both denied the Trinity and held that Jesus “was the first and
+            highest of all created beings” but nevertheless a creation, who was neither divine nor
+            fully human because “Jesus had a human body but not a human soul” (Boer, <hi
+              rend="italic">Short History of the</hi><hi rend="italic"> Early Church</hi>, p. 114).
+            The Apollinarian heresy (from Apollinaris), which similarly denied Jesus’s human nature,
+            nevertheless affirmed his divinity; Apollinarianism was condemned by the Council of
+            Constantinople in 381 (Boer, <hi rend="italic">Short History of the Early Church</hi>,
+            pp. 167–68). For a detailed discussion of the Council of Nicaea, see Ayres, <hi
+              rend="italic">Nicaea and Its Legacy</hi>. See also explanatory note to lines 285–88,
+            above.</p>
+        </note>
+        <note type="enote" n="58">562<space rend="indent1"/><p><hi rend="italic">God the Holigostes
+              miht</hi>. The Holy Ghost or Holy Spirit is the third person of the Trinity. See
+            explanatory note to lines 7–10, above.</p></note>
+        <note type="enote" n="59">563–64<space rend="indent1"/><p>The phrase <hi rend="italic">alle
+              threo beth on</hi> (line 563) refers to the Trinity; see explanatory note to lines
+            7–10, above. For discussion of the theological concept of <hi rend="italic"
+              >fulnesse</hi>, or “substance,” “being” (line 564) in the poem, see explanatory note
+            to line 283, above.</p></note>
+        <note type="enote" n="60">572<space rend="indent1"/><p><hi rend="italic">covryng</hi>. The
+            meaning here is “deliverance from sin” or “redemption” (<hi rend="italic">MED</hi>, <hi
+              rend="italic">coveringe</hi>, <hi rend="italic">cover</hi>- [ger.2], sense 1b), with a
+            play on “covering” as “clothing” (<hi rend="italic">MED</hi>, <hi rend="italic"
+              >coveringe</hi> [ger.1], sense 2b), alluding to Genesis 3:7, “And the eyes of them
+            both (i.e., Adam and Eve) were opened: and when they perceived themselves to be naked,
+            they sewed together fig leaves, and made themselves aprons.” The wordplay here reminds
+            readers that, although Adam and Eve can make clothing to cover their naked bodies, they
+            cannot redeem themselves from sin through their own efforts.</p></note>
+        <note type="enote" n="61">575–80<space rend="indent1"/><p><hi rend="italic">Thenne moste
+              nede . . . </hi><hi rend="italic">the world ibrouht</hi>. These lines emphasize the
+            dual nature of Jesus as divine and human: God became man (line 576) and suffered death
+            as a man before rising from the dead as God (lines 577–78) and redeeming humanity from
+            the consequences of Adam and Eve’s disobedience (i.e., from the sin of eating the
+            forbidden fruit). See Acts 5:30–31; Philippians 2:5–8. Compare line 547.</p></note>
+        <note type="enote" n="62">585–88<space rend="indent1"/><p><hi rend="italic">The ninti-nine .
+              . . He</hi><hi rend="italic"> is on</hi>. These lines refer to Jesus’s Gospel parable
+            of the lost sheep (or good shepherd), where the shepherd leaves the ninety-nine sheep
+            who have not wandered off in order to find the one that is lost (see Matthew 18:12–14,
+            Luke 15:3–7, and John 10:1–16). Lines 587–88 explain that there is no other such
+            Shepherd, nor a more merciful Lord than God.</p></note>
+        <note type="enote" n="63">591<space rend="indent1"/><p><hi rend="italic">lyk Himself wolde
+              him </hi><hi rend="italic">make</hi>. A reference to God creating humanity in his
+            image: “And he said: Let us make man to our image and likeness” (Genesis
+          1:26).</p></note>
+        <note type="enote" n="64">597–604<space rend="indent1"/><p><hi rend="italic">To Abraham . .
+              . Godes comynge wel</hi>. The poem lists a series of Old Testament prophets that
+            Christian tradition interprets as having foretold various aspects of Jesus’s birth,
+            life, death, and Resurrection: Abraham, Moses, Jonah, Habakkuk, Elijah, Daniel,
+            Jeremiah, David, Isaiah, Elisha, and Samuel. Daniel was believed to have prophesied
+            Christ’s birth, as well as the end times, including the Antichrist and Christ’s
+            thousand-year reign on earth leading up to the Last Judgment (Martin, “Daniel,” <hi
+              rend="italic">DBTEL</hi>, p. 179; compare Apocalypse 20). Some of these figures were
+            interpreted as “types” or “forerunners” of Christ, particularly Moses and Jonah.
+            Beginning with the New Testament, Christian tradition sees Moses as prefiguring Christ
+            (see Hebrews 3:1–6). Based on Matthew 12:38–41 (compare Luke 11:29–32), Jonah was
+            likewise interpreted as a precursor to Christ, particularly in the Resurrection, as
+            Jonah’s experience in the whale was connected by some church fathers to Christ’s
+            Harrowing of Hell (Summerfield et al., “Jonah,” <hi rend="italic">DBTEL</hi>, p. 409).
+            See explanatory note to lines 1339–48, below, for more on the Harrowing of
+          Hell.</p></note>
+        <note type="enote" n="65">606a<space rend="indent1"/><p><hi rend="italic">Puer natus est
+              nobis, filius datus est nobis</hi>. A paraphrase of the Latin Vulgate, “parvulus enim
+            natus est nobis, filius datus est nobis” (Isaias 9:6), which translates as “a little one
+            (i.e., a child) indeed is born to us, a son is given to us.”</p></note>
+        <note type="enote" n="66">606–14<space rend="indent1"/><p><hi rend="italic">Ac
+              herkeneth</hi><hi rend="italic"> . . . schal Him sen</hi>. A paraphrase of Isaias 9:6.
+            See explanatory note to lines 57–66, above.</p></note>
+        <note type="enote" n="67">646–47<space rend="indent1"/><p><hi rend="italic">Of the Child . .
+              . Wonderful</hi>. See explanatory note to lines 57–66, above.</p></note>
+        <note type="enote" n="68">648<space rend="indent1"/><p><hi rend="italic">soth God and soth
+              mon</hi>. This refers to Jesus’s dual nature as “true God and true man.” See
+            explanatory notes to lines 559–60, above, and 928, below.</p></note>
+        <note type="enote" n="69">650<space rend="indent1"/><p><hi rend="italic">And thorw Him is al
+              thing iwrouht</hi>. For discussion of the idea that God created everything through
+            Jesus, see explanatory notes to lines 285–88 and 559–60, above.</p></note>
+        <note type="enote" n="70">651–53<space rend="indent1"/><p><hi rend="italic">withouten
+              Him</hi><hi rend="italic"> is synne . . . wone . . . mighte lees</hi>. These three
+            lines in the English poem are an expansion of a single line in the AN: “Kar defaute
+            n’est pas fet” [Indeed sin (default) is not created] (Appendix, line 555), an expansion
+            that reveals the sophistication of the translator’s insights into the AN poem. See the
+            section Relation between <hi rend="italic">Le chasteau d</hi><hi rend="italic"
+              >’amour</hi> and <hi rend="italic">The Castle of Love</hi> in the Introduction (pp.
+            22–26) for discussion.</p></note>
+        <note type="enote" n="71">645–62<space rend="indent1"/><p><hi rend="italic">And yit . . .
+              monnes </hi><hi rend="italic">kynde bifalle</hi>. These lines emphasize the
+            theological position that Jesus was fully human. For details on this issue, see
+            explanatory note to lines 559–60, above. The poem discusses Jesus’s perfect human nature
+            but is careful to stress that he was completely human: <hi rend="italic">Thulke schaft
+              [nature] to underfonge withalle [take </hi><hi rend="italic">on completely] / That
+              ouhte to monnes kynde bifalle</hi> (lines 661–62). The narrator also explains that <hi
+              rend="italic">withouten Him is synne evere, / </hi><hi rend="italic">For wone dude He
+              nevere</hi> (lines 651–52). This lack of sin should be understood in light of Jesus’s
+            fully human nature; the fact that he could sin but did not is the reason Jesus is able
+            to redeem humanity from Adam’s sin of disobedience.</p></note>
+        <note type="enote" n="72">686<space rend="indent1"/><p><hi rend="italic">witen</hi>. Here,
+            the verb <hi rend="italic">witien</hi>, meaning “to protect” or “to defend” (see <hi
+              rend="italic">MED</hi>, <hi rend="italic">witien</hi> [v.1], sense 1a).</p></note>
+        <note type="enote" n="73">687<space rend="indent1"/><p><hi rend="italic">thre bayles</hi>.
+            The description of the castle is highly symbolic, even as it makes use of specific and
+            real architectural features. “Bailey” can refer either to the wall surrounding a castle
+            or keep, or to the courtyard within the wall (see <hi rend="italic">MW</hi>, <hi
+              rend="italic">bailey</hi> [n.]). The meaning in this case is “[t]he wall surrounding a
+            castle or fortified city” (<hi rend="italic">MED</hi>, <hi rend="italic">baille</hi>
+            [n.2], sense 1a). Here there are three baileys, one inside the other, for added
+            protection, which Whitehead explains symbolize “virginity, chastity, and matrimony” (<hi
+              rend="italic">Castles of </hi><hi rend="italic">the Mind</hi>, p. 94) and Wheatley
+            likewise identifies as “the Virgin’s concentric virtues of maidenhood, chastity and holy
+            marriage” (p. 95). For more on the general metaphor of Mary as a castle, see explanatory
+            note to lines 53–55, above.</p></note>
+        <note type="enote" n="74">690–92<space rend="indent1"/><p><hi rend="italic">Ne may . . . ne
+              mouth spelle</hi>. See also lines 99, 1158–60, and 1360–62. The idea that no tongue
+            may tell nor heart think of something is a proverbial exaggeration occurring widely in
+            both secular and religious writings. For example, in The Merchant’s Tale, Chaucer’s
+            Merchant avows that he cannot speak of the “blisse” between husband and wife, for
+            “[t]her may no tongue telle, or herte thynke” (<hi rend="italic">CT</hi> IV[E]1340–41).
+            Chaucer’s Parson uses almost the same phrase in his discussion of virginity: “she hath
+            in hire that tonge may nat telle ne herte thynke” (<hi rend="italic">CT</hi> X[I]949).
+            Boulton identifies it as “an inexpressibility formula based on 1 Cor[inthians] 2:9” (p.
+            80n113). The passage in the AN text is “De biauté i ad plus asez / Ke lange ne put
+            descrire, / Quer penser, ne bouche dire” [Of beauty it has much more / Than tongue can
+            describe, / Heart conceive, or mouth tell] (Appendix, lines 592–94).</p></note>
+        <note type="enote" n="75">695–96<space rend="indent1"/><p><hi rend="italic">the carnels so
+              stondeth upriht / Wel iplaned and feir idiht</hi>. The sense of crenels that <hi
+              rend="italic">stondeth upriht</hi> is that they “have the long axis perpendicular to”
+            the ground (<hi rend="italic">MED</hi>, <hi rend="italic">upright</hi> [adv.], sense
+            1c); the next line describes them as “completely smoothed (or made even with the ground)
+            and beautifully constructed.” Whereas the English poem describes the battlements with a
+            sense of both function and beauty, the AN poem emphasizes the decorative aspects: “aurné
+            de kerneyaus, / Bien poliz e bons et beaus” [adorned with crenels, / Well polished and
+            fine and beautiful] (Appendix, lines 597–98); see <hi rend="italic">AND</hi>, <hi
+              rend="italic">aurner</hi><hi rend="superscript">1</hi> [v.]). As with the <hi
+              rend="italic">thre bayles</hi> in line 687, the poem’s description of the castle is at
+            once symbolic and dependent on descriptions of architectural features. For more on the
+            general metaphor of Mary’s body as a castle, see explanatory note to lines 53–55,
+            above.</p></note>
+        <note type="enote" n="76">697<space rend="indent1"/><p><hi rend="italic">Seve
+            berbicans</hi>. A barbican is “an outer fortification of a city or castle; a fortified
+            gate or bridge” (<hi rend="italic">MED</hi>, <hi rend="italic">barbican</hi> [n.], sense
+            1). The poem circles back to the seven barbicans in lines 823–27, where they are
+            described as representing the seven virtues (see explanatory notes to lines 823–27 and
+            799–800, below). The extended metaphor of the castle or fortress symbolizing Mary’s body
+            protecting Jesus relies on real architectural features. For more on Mary’s body as a
+            castle, see explanatory note to lines 53–55, above.</p></note>
+        <note type="enote" n="77">719<space rend="indent1"/><p><hi rend="italic">raddore then evere
+              eny rose schal</hi>. The castle’s illumination, which makes it seem as if it is
+            burning, is described as “redder than any rose.” In comparing Mary’s body (the castle)
+            to a rose, the poem evokes both the erotic implications of the rose in the courtly love
+            tradition (discussed in explanatory note to line 123, above) and the metaphor of Mary’s
+            heart as a rose. In a sermon on the Assumption of Mary, early thirteenth-century
+            troubadour-turned-Cistercian-monk Hélinand of Froidmont describes Mary’s heart as a
+            rose, whose “delicate whiteness near the roots of the rose’s leaves is the perpetual
+            purity of the Virgin Mary’s heart,” explaining that “from the roots of the leaves [her
+            heart] shields and defends the five corporal senses, an unassailable fortification from
+            without, as well as guarding it always perfectly whole” (Hélinand of Froidmont, quoted
+            in Rubin, <hi rend="italic">Mother of God</hi>, p. 155).</p></note>
+        <note type="enote" n="78">736<space rend="indent1"/><p><hi rend="italic">a trone</hi>.
+            According to the <hi rend="italic">MED</hi>, the “throne” here is “a symbol of a virtue”
+            (see <hi rend="italic">MED</hi>, <hi rend="italic">trone</hi> [n.2], sense
+          2c).</p></note>
+        <note type="enote" n="79">761<space rend="indent1"/><p><hi rend="italic">the Maydenes
+              bodi</hi>. Mary’s body was considered the source of Jesus’s human nature, and the
+            Virgin Birth was thought to have kept Jesus from inheriting original sin (Izbicki,
+            “Immaculate Conception,” p. 396). The reference to Mary as the <hi rend="italic"
+              >Mayden</hi> (Virgin) alludes to the belief that she remained a virgin through “divine
+            intervention [whereby] Jesus was conceived not by man but by the power of the Holy
+            Spirit” (Logan, <hi rend="italic">History of the Church </hi><hi rend="italic">in the
+              Middle Ages</hi>, p. 136). The doctrine of the Virgin Birth is based on the story of
+            Jesus’s conception in the Gospels of Matthew (1:18–21) and Luke (1:26–35). As the
+            doctrine developed, theologians came to agree that Mary’s virginity remained intact even
+            after childbirth, an idea supported by apocryphal stories about Mary’s life, including
+            “the independent testimony of the midwife that after the birth of Christ Mary remained
+              <hi rend="italic">virgo intacta</hi>” (Collette, “Chaucer’s Discourse of Mariology,”
+            p. 130). Some theologians, including Ambrose, Augustine, and Gregory the Great, went
+            even further, asserting “that Mary remained a virgin through the delivery of her son,
+            which was effected ‘without opening the uterus,’ according to Gregory the Great”
+            (Klapisch-Zuber, <hi rend="italic">History of Women in the West</hi>, p. 26). Despite
+            such definitive claims, the subject of Mary’s bodily integrity during the process of
+            childbirth remained a subject of discussion and debate in the Middle Ages. For a
+            detailed cultural history of Mary’s status as virgin, see Warner, <hi rend="italic"
+              >Alone of </hi><hi rend="italic">All Her Sex</hi>. Boklund-Lagopoulou points out that
+            religious lyrics conceptualize Mary’s body “in multiple metaphors, derived from
+            centuries of patristic biblical hermeneutics,” and explains that whereas “many of the
+            poems to the Virgin make use of the language of courtly love, they never catalogue the
+            beauties of Mary’s body” (“<hi rend="italic">Yate of Heven</hi>,” p. 139). For details
+            on Mary’s body as a castle, see explanatory note to lines 53–55, above.</p><p
+            style="enote-indent">The Virgin Mary was an extremely popular figure in the Middle Ages,
+            including in vernacular literature. Although she is a frequent figure in OE works,
+            literary interest in her rises in the thirteenth century (when Grosseteste was active);
+            this popularity continues throughout the period in medieval English carols and lyrics,
+            legendary literature (e.g., the <hi rend="italic">Gesta Romanorum</hi> [<hi
+              rend="italic">Deeds</hi><hi rend="italic"> of the Romans</hi>]), and the Corpus
+            Christi cycle plays (D. Jeffrey, “Mary,” <hi rend="italic">DBTEL</hi>, pp. 491–93). For
+            a comprehensive history of the figure of Mary, see Rubin, <hi rend="italic">Mother of
+              God</hi> (especially parts 3–4, pp. 121–82).</p>
+        </note>
+        <note type="enote" n="80">761–96<space rend="indent1"/><p><hi rend="italic">This is . . .
+              hire above</hi>. This section of the allegory of the Castle of Love explains the
+            meaning of the colors in the castle’s description. Panti notes that “<hi rend="italic"
+              >The Castle of Love</hi> connects the symbolic use of light and colour with the
+            traditional numerical symbolism that Grosseteste had used since the <hi rend="italic">De
+              Luce</hi>” but adds that “in the <hi rend="italic">Castle</hi> . . . and other
+            theological writings, [Grosseteste] uses numbers to indicate the Trinity, theological
+            virtues and cardinal virtues, and employs light itself and colors to denote the
+            redemptive action of God on man” (“Robert Grosseteste’s Cosmology of Light,” p.
+          74).</p></note>
+        <note type="enote" n="81">789–96<space rend="indent1"/><p><hi rend="italic">The thridde heuh
+              . . . is hire above</hi>. The passage interprets the meaning of lines 719–20, which
+            describe the castle alight as if it were burning. Here, that burning is unpacked as
+            signifying Mary’s <hi rend="italic">clere love and briht / That </hi><hi rend="italic"
+              >heo is al with iliht / And itent with the fuir </hi><hi rend="italic">of love</hi>
+            (lines 793–95). Mary is ablaze with pure love and inflamed with the fire of love to
+            serve God. The idea of the heart being inspired by the Holy Spirit to burn with the fire
+            of love (charity) was a commonplace in medieval Christianity. See explanatory note to
+            line 719, above.</p></note>
+        <note type="enote" n="82">799<space rend="indent1"/><p><hi rend="italic">me iseoth</hi>.
+            Sajavaara identifies <hi rend="italic">iseoth</hi> as intransitive here, citing the <hi
+              rend="italic">OED</hi> (p. 386n799). The verb <hi rend="italic">isen</hi> (v.1),
+            however, does not appear to have such a usage (see the <hi rend="italic">MED</hi>
+            entry). An intransitive usage of the related verb <hi rend="italic">sen</hi> (v.1),
+            meaning “appear” or “seem,” may be possible in ME, but it is rare and questionable; the
+              <hi rend="italic">MED</hi> cites only fifteenth-century examples with the caveat that
+            they may be errors for <hi rend="italic">semen</hi> (v.2) (<hi rend="italic">MED</hi>,
+              <hi rend="italic">sen</hi> [v.1], sense 26).</p></note>
+        <note type="enote" n="83">799–800<space rend="indent1"/><p><hi rend="italic">Foure hed
+              thewes . . . / Foure vertues cardinals</hi>. The four cardinal virtues are “the four
+            chief virtues necessary to earthly life” (<hi rend="italic">MED</hi>, <hi rend="italic"
+              >cardinal</hi> [adj.], sense 1c), namely, prudence or wisdom, justice, temperance or
+            restraint, and fortitude or courage (see explanatory note to lines 801–02, below).
+            Additionally, there are three theological virtues: faith, hope, and charity (love); all
+            three of the latter are mentioned in 1 Corinthians 13, which focuses on the superiority
+            of charity. The two groups of virtues are sometimes grouped together as the seven
+            virtues or the seven moral virtues (not the same as the <hi rend="italic">seven
+              vertues</hi> identified in line 827 that specifically counter the seven deadly
+            sins).</p></note>
+        <note type="enote" n="84">801–02<space rend="indent1"/><p><hi rend="italic">Strengthe and
+              Sleihschupe, / Rihtfulnesse </hi><hi rend="italic">and Worschupe</hi>. The <hi
+              rend="italic">MED</hi> quotes these lines as an example for the word <hi rend="italic"
+              >warshipe</hi> (n.), sense 1b, “the moral virtue of prudence, the faculty of
+            discernment or discretion” but the same lines are quoted in the <hi rend="italic"
+              >MED</hi> under <hi rend="italic">sleighshipe</hi> (n.), where this is the only
+            quotation attested, and the only meaning given is “wisdom, prudence” (probably based on
+            the meanings of <hi rend="italic">sleighnesse</hi> [n.]). One of the words likely means
+            “temperance” rather than “prudence,” given that this is a list of the four cardinal
+            virtues. The corresponding lines in the AN text read, “Ceo est, Force e Temperaunce / E
+            Justize e Prudence” [That is, Fortitude and Temperance / And Justice and Prudence]
+            (Appendix, lines 705–06). Sajavaara interprets <hi rend="italic">Sleihschupe</hi> to
+            mean “skill” in his glossary (p. 428). In the marginal note to line 802,
+            Horstmann-Furnivall identifies <hi rend="italic">temperance</hi> in the AN poem as the
+            word corresponding to <hi rend="italic">Worschupe</hi> in the ME translation.</p></note>
+        <note type="enote" n="85">820<space rend="indent1"/><p><hi rend="italic">Mayden chast and
+              weddet wes</hi>. The line refers to the idea prominent in medieval Christianity that
+            Mary was married but remained a virgin. See explanatory note to line 761, above, for
+            details.</p></note>
+        <note type="enote" n="86">823–27<space rend="indent1"/><p><hi rend="italic">seve berbicans .
+              . . seven vertues</hi>. Here the poem again mentions the seven barbicans (outer
+            fortifications) from line 697 but now explains that they represent seven virtues, which
+            in subsequent lines are identified as those that counter the seven deadly sins. Boulton
+            points out the symbolic nature of the number of barbicans, given that
+            “[m]id-thirteenth-century castles had one or two” (p. 71n57). Wheatley notes
+            Grosseteste’s use of “architectural symbolism . . . echoing the treatment of Biblical
+            buildings, such as Ezekiel’s vision of the temple, with particular emphasis . . . on the
+            numerological correspondences found in such examples” (p. 95). See explanatory notes to
+            lines 799–800 and 801–02, above.</p></note>
+        <note type="enote" n="87">828<space rend="indent1"/><p><hi rend="italic">seven dedly
+              sinne</hi>. The seven deadly sins, in the order mentioned in the poem, are pride,
+            envy, gluttony, lechery (lust), covetousness (greed or avarice), wrath (anger), and
+            sloth. I capitalize them in the poem to illustrate their allegorical nature. See
+            explanatory note to lines 829–42, below, for more detail.</p></note>
+        <note type="enote" n="88">829–42<space rend="indent1"/><p><hi rend="italic">That is Pruide .
+              . . thorw alle thinge</hi>. The concept that Pride is the root of all evil, expressed
+            in the first two lines, is proverbial (see Whiting P389). To highlight the importance of
+            this section on the seven deadly sins, the scribe of the Vernon MS placed pilcrows
+            before the lines that mention each sin: <hi rend="italic">Pruide</hi> (line 829), <hi
+              rend="italic">Envye</hi> (line 833), <hi rend="italic">Glotonye</hi> (line 834), <hi
+              rend="italic">Lecherye</hi> (line 835), <hi rend="italic">Covetyse</hi> (line 837),
+              <hi rend="italic">Wraththe</hi> (line 839); there is none at line 842 for <hi
+              rend="italic">Sleuthe</hi>. Though they became an important theological concept, the
+            seven deadly sins are nevertheless not strictly biblical. For a wide-ranging look at
+            these sins in medieval literature and culture, see the essay collection edited by
+            Newhauser and Ridyard, <hi rend="italic">Sin in Medieval and Early Modern
+            Culture</hi>.</p><p style="enote-indent">In these lines, the seven deadly sins are
+            countered by seven opposing virtues, though normally sloth would be countered by
+            diligence, not spiritual joy (Boulton, p. 73n72). Where the English poem has <hi
+              rend="italic">Sleuthe</hi> (line 842), the AN poem has <hi rend="italic">la male
+              Tristesce</hi> [wicked Melancholy (i.e., Sloth)] (Appendix, line 746). <hi
+              rend="italic">AND</hi>, <hi rend="italic">tristesse</hi> (n.), defines the word in a
+            theological context as “sadness, melancholy (as one of the seven deadly sins,
+            traditionally referred to as ‘sloth’).” The idea of virtues opposing sins derives from
+            Aurelius Clemens Prudentius’s allegorical Latin poem <hi rend="italic">Psychomachia</hi>
+              [<hi rend="italic">Battle for the</hi><hi rend="italic"> Soul</hi>] (ca. 410), which
+            describes a battle between sins and virtues for the soul of the Christian; see
+            Klausner’s Introduction to <hi rend="italic">The Castle of Perseverance</hi> for more on
+            the background of this theme (pp. 1–2).</p>
+        </note>
+        <note type="enote" n="89">860<space rend="indent1"/><p><hi rend="italic">the neddre </hi><hi
+              rend="italic">on the tre</hi>. A <hi rend="italic">neddre</hi> [serpent] (Modern
+            English “adder”) is specifically associated with the Devil’s disguise as a serpent in
+            order to tempt Eve to eat the fruit of the tree of knowledge of good and evil in the
+            Garden of Eden (see Genesis 3:1–5). See <hi rend="italic">MED</hi>, <hi rend="italic"
+              >naddre</hi> (n.), sense 1c. See explanatory note to lines 1716–17, below.</p></note>
+        <note type="enote" n="90">862<space rend="indent1"/><p><hi rend="italic">al his hed
+              todryve</hi>. An allusion to Genesis 3:15, where God says to the serpent (i.e., the
+            Devil) who tempts Eve: “I will put enmities between thee and the woman, and thy seed and
+            her seed: she shall crush thy head, and thou shalt lie in wait for her heel.” Early
+            Christians saw the passage as a foreshadowing of Christ; in medieval Christian exegesis,
+            as in this poem, the woman crushing the serpent’s head was understood as an allusion to
+            the Virgin Mary.</p></note>
+        <note type="enote" n="91">874–76<space rend="indent1"/><p><hi rend="italic">the Rihtwys
+              Sonne . . . </hi><hi rend="italic">schadewede on hire in wolde / And feirede hir</hi>.
+            The metaphor of the sun overshadowing Mary and exalting her refers to God’s power
+            (through the Holy Spirit) overshadowing Mary at Christ’s conception and alludes to part
+            of the Annunciation in Luke 1:35: “The Holy Ghost shall come upon thee and the power of
+            the Most High shall overshadow thee. And therefore also the Holy which shall be born of
+            thee shall be called the Son of God.” Compare the Wycliffite Bible’s translation of Luke
+            1:35: “The Hooly Goost schal come fro aboue in to thee, and the vertu of the Hiyeste
+            schal ouerschadewe thee; and therfor that hooli thing that schal be borun of thee, schal
+            be clepid the sone of God” (Wycliffe, “John Wycliffe Bible”). The Annunciation refers to
+            the event where the archangel Gabriel comes to Mary and announces that she will bear the
+            son of God, conceived through the Holy Spirit (see Luke 1:26–38).</p></note>
+        <note type="enote" n="92">877–78<space rend="indent1"/><p><hi rend="italic">Thorw the faste
+              gat . . . lette faste beo</hi>. These lines emphasize the idea that Mary remains a
+            virgin even after she has conceived and born Jesus (the <hi rend="italic">faste gat</hi>
+            is Mary’s virginity). For more on the meanings of the <hi rend="italic">faste</hi><hi
+              rend="italic"> gat</hi>, see the Allegory of the Castle of Love section in the
+            Introduction (pp. 15–18). For more about Mary’s body as a protective castle housing
+            Jesus, see explanatory note to lines 53–55, above; for more about Mary’s virginity, see
+            explanatory note to line 761, above. Representing virginity as a gate was not only used
+            in religious writings; for example, the idea appears in the thirteenth-century
+            allegorical poem <hi rend="italic">Le</hi><hi rend="italic"> roman de la Rose</hi> [<hi
+              rend="italic">The Romance of the Rose</hi>] by Guillaume de Lorris and Jean de Meun,
+            where the attempt on virginity is represented as an assault on a castle. Whitehead
+            outlines the two competing versions of the besieged castle in medieval literature: “the
+            courtly castle of the flesh [that] is built to await violation,” and “the religious
+            castle of unbroken virtue [that] only remains perfect to the extent that it remain[s]
+            inviolate” (<hi rend="italic">Castles of the Mind</hi>, p. 98; see also pp. 89–90 and
+            97–98). See also the section of the Introduction on Courtly Romance (pp. 19–20). For
+            more contextualization of the representation of virginity in the Middle Ages, see Kelly
+            and Leslie’s edited collection <hi rend="italic">Menacing Virgins</hi>.</p></note>
+        <note type="enote" n="93">890<space rend="indent1"/><p><hi rend="italic">That gostliche
+              </hi><hi rend="italic">beoth in herte povere</hi>. Compare the first beatitude:
+            “Blessed are the poor in spirit: for theirs is the kingdom of heaven” (Matthew
+          5:3).</p></note>
+        <note type="enote" n="94">893–94<space rend="indent1"/><p><hi rend="italic">The Fend . . . ,
+              / The World, my Flesch</hi>. The reference to the World, the Flesh, and the Devil as
+            the three conventional enemies of humanity or the soul is a commonplace in Christian
+            tradition (see, e.g., <hi rend="italic">MED</hi>, <hi rend="italic">fend</hi> [n.],
+            sense 5). For a detailed discussion, see Howard, <hi rend="italic">Three
+              Temptations</hi> (pp. 61–63). The theme was popular in medieval literature. Holy
+            Church warns Piers against the three early in <hi rend="italic">Piers Plowman</hi> (see
+            Langland, <hi rend="italic">Piers the Plowman</hi>, ed. Skeat, Passus 1, lines 39–40).
+            (A version of the A-text of <hi rend="italic">Piers Plowman</hi> appears in the Vernon
+            MS, the base text of the first 1514 lines of this edition of <hi rend="italic"
+              >The</hi><hi rend="italic"> Castle of Love</hi>.) Chaucer-the-Pilgrim mentions “[t]he
+            three enemys of mankynde — that is to seyn, the flessh, the feend, and the world” in his
+            Tale of Melibee (<hi rend="italic">CT</hi> VII[B<hi rend="superscript"
+            >2</hi>]1420[*2611]). A more prominent use of these traditional enemies is the
+            personification of the three foes as characters in <hi rend="italic">The Castle of
+              Perseverance</hi>, a morality play that, like <hi rend="italic">The Castle of
+              Love</hi>, tells the story of salvation history.</p></note>
+        <note type="enote" n="95">898–903<space rend="indent1"/><p><hi rend="italic">The Fend . . .
+              And my Flesch</hi>. These lines again mention the three traditional enemies of
+            mankind: <hi rend="italic">The Fend</hi> (line 898), <hi rend="italic">The Worlde</hi>
+            (line 901), and <hi rend="italic">my Flesch</hi> (line 903). See explanatory note to
+            lines 893–94, above.</p></note>
+        <note type="enote" n="96">912<space rend="indent1"/><p><hi rend="italic">Charité</hi>. As
+            explained in the <hi rend="italic">MED</hi>, <hi rend="italic">charité</hi> (n.), sense
+            1a (a), refers to “[t]he supreme virtue of Love or Charity according to Christian
+            doctrine, comprising affection, devotion, benevolence, kindness, mercy, gratitude as
+            between God and man or man and man.”</p></note>
+        <note type="enote" n="97">917–18<space rend="indent1"/><p><hi rend="italic">Thorw this
+              laddre, God . . . into eorthe alihte</hi>. Literally, the ladder refers to the Virgin
+            Mary’s body. Theologically, the ladder symbolizes “communication between heaven and
+            earth” (see <hi rend="italic">MED</hi>, <hi rend="italic">ladder[e]</hi> [n.], sense
+            2b). This idea most likely derives from the biblical Jacob’s ladder, which he saw in a
+            dream: “And he saw in his sleep a ladder standing upon the earth, and the top thereof
+            touching heaven: the angels also of God ascending and descending by it” (Genesis
+            28:12).</p></note>
+        <note type="enote" n="98">919<space rend="indent1"/><p><hi rend="italic">nom of hire His
+              monhede</hi>. Literally, “took of her (Mary) His human nature,” but the broader sense
+            is that he became incarnate.</p></note>
+        <note type="enote" n="99">921<space rend="indent1"/><p><hi rend="italic">the </hi><hi
+              rend="italic">yard that bereth the flour</hi>. An allusion to the flowering of Aaron’s
+            rod in Numbers 17:8, which was taken by Christians as an analogy to Christ’s birth, as
+            “the budding rod is seen to prefigure the miraculous fecundity of the virgin birth of
+            Jesus” (D. Jeffrey, “Aaron,” <hi rend="italic">DBTEL</hi>, p. 2).</p></note>
+        <note type="enote" n="100">923–25<space rend="indent1"/><p><hi rend="italic">And thus . . .
+              therfore</hi>. See explanatory note to lines 57–66, above.</p></note>
+        <note type="enote" n="101">928<space rend="indent1"/><p><hi rend="italic">two kuynden</hi>.
+            This refers to the two natures of Jesus: divine and human. Whereas in lines 635–62,
+            Grosseteste focuses on Jesus’s fully human nature, in lines 927–44 he emphasizes
+            Christ’s dual nature as fully God and fully man.</p></note>
+        <note type="enote" n="102">938<space rend="indent1"/><p><hi rend="italic">That He is
+              soth</hi><hi rend="italic"> God and soth mon</hi>. After this line the translator
+            skips over lines 847–914 of the AN poem (see Appendix). The AN lines include an
+            explanation of how there was peace on earth due to the rule of Caesar Augustus, who is
+            identified in the Gospel of Luke as emperor when Jesus was born (see Luke 2:1–7;
+            Augustus established the so-called Pax Romana or Pax Augusta). The AN verses also
+            include a theological discussion involving the technical philosophical terms <hi
+              rend="italic">natura</hi><hi rend="italic"> naturans</hi> [God as the creator] and <hi
+              rend="italic">natura naturata</hi> [nature as the creation], as well as an account of
+            Jesus as a true Counselor, who found humanity lost and cast out of paradise, and who
+            will show the way to heaven. For further discussion, see the section Relation between
+              <hi rend="italic">Le chasteau</hi><hi rend="italic"> d’amour</hi> and <hi
+              rend="italic">The Castle of Love</hi> in the Introduction (pp. 22–26).</p><p
+            style="enote-indent">In the section missing from the ME poem, the AN includes the lines
+            “Loange e glorie al Tut Pussaunt!”/ E pes en terre est crié / A gent de bone volunté”
+            [“Praise and glory to the Almighty!” / And peace on earth is proclaimed / To people of
+            good will] (Appendix, lines 852–54), a paraphrase of Luke 2:14: “Glory to God in the
+            highest; and on earth peace to men of good will.”</p>
+        </note>
+        <note type="enote" n="103">941<space rend="indent1"/><p><hi rend="italic">That thou aboute
+              nouht fer se</hi>. The AN verse, “Ou circumscription n’est mie” [In which is no
+            limitation at all] (Appendix, line 917), apparently confused some scribes, as the stemma
+            that includes MSS B, O, and L has <hi rend="italic">circumspection</hi> in place of <hi
+              rend="italic">circumscription</hi> (see textual note to line 917 of the AN poem). The
+            ME translator appears to have had a manuscript with the word <hi rend="italic"
+              >circumspection</hi> and interpreted it to mean something like “the action of seeing
+            on all sides.” Compare <hi rend="italic">OED</hi>, <hi rend="italic"
+            >circumspection</hi>, sense 1a, which includes the literal action of “scanning of
+            surrounding objections or circumstances,” a meaning obsolete in Modern English and not
+            included in <hi rend="italic">AND</hi>, <hi rend="italic">circumspeccion</hi> (n.),
+            “care, attention,” or <hi rend="italic">MED</hi>, <hi rend="italic">circumspeccioun</hi>
+            (n.), “Careful consideration, or the ability to exercise it; prudence,
+          providence.”</p></note>
+        <note type="enote" n="104">959–60<space rend="indent1"/><p><hi rend="italic">Mi yok . . . to
+              beren</hi>. A paraphrase of Matthew 11:30: “For my yoke is sweet and my burden
+            light.”</p></note>
+        <note type="enote" n="105">976<space rend="indent1"/><p><hi rend="italic">todreynen</hi>.
+            This line is the only quotation attested for <hi rend="italic">MED</hi>, <hi
+              rend="italic">todereinen</hi> (v.), “To maintain (someone’s right) by battle,
+            champion.”</p></note>
+        <note type="enote" n="106">1011–14<space rend="indent1"/><p><hi rend="italic">Forthi Lucifer
+              . . . aftur him wende</hi>. This is the fourth mention of Lucifer’s fall into hell in
+            the ME poem, and the only explicit mention of him in the AN poem (compare Appendix,
+            lines 985–88). In both poems, the narrator expresses fear that worldly people who do not
+            follow Jesus’s teachings will fall into hell like Lucifer. See explanatory notes to
+            lines 97–100, 152–54, and 209–22, above, for discussion of the other references to
+            Lucifer in the ME poem.</p></note>
+        <note type="enote" n="107">1024<space rend="indent1"/><p><hi rend="italic">trewe love and
+              cler</hi>. The AN text uses <hi rend="italic">fin amur</hi> [true love] to describe
+            the love God desires from humanity (Appendix, line 998) and again to characterize God’s
+            love for humanity (Appendix, line 1376). This phrase has a dual resonance as a term for
+            courtly love in lyric poetry as well as the perfect love of God in religious contexts
+            (Boulton, p. 78n99) The phrase <hi rend="italic">fyn amur</hi> also appears in Thomas of
+            Hales’s <hi rend="italic">Love</hi><hi rend="italic"> Rune</hi> (line 91). See the
+            section on Courtly Romance in the Introduction (pp. 19–20).</p></note>
+        <note type="enote" n="108">1058<space rend="indent1"/><p><hi rend="italic">congraffet</hi>.
+            This line is the only quotation attested for <hi rend="italic">MED</hi>, <hi
+              rend="italic">congraffed</hi> (ppl.), “Written down, registered.” Perhaps coined from
+            the AN <hi rend="italic">cyrografez</hi>, past participle of <hi rend="italic">AND</hi>,
+              <hi rend="italic">cirograffer</hi> (v.trans.), “to make duplicate or triplicate copies
+            of a formal document in the form of a chirograph.”</p></note>
+        <note type="enote" n="109">1070–72<space rend="indent1"/><p><hi rend="italic">Lest he hedde
+              the miht </hi><hi rend="italic">of Gode . . . he hedde igete</hi>. These are
+            subjunctive forms used to signify a counterfactual condition: literally, “For fear that
+            he had the might of God”; “he had succeeded.” Modern English requires the modal “would”
+            in these instances: “For fear that he would have the might of God”; “he would be
+            successful.”</p></note>
+        <note type="enote" n="110">1090<space rend="indent1"/><p><hi rend="italic">He ne oughte from
+              wo disseysed be</hi>. Sajavaara emends <hi rend="italic">He</hi> to <hi rend="italic"
+              >I</hi> based in part on the AN poem: “Ne voil a tort estre deseisi” [I do not intend
+            to be wrongly dispossessed] (Appendix, line 1060). Weymouth glosses the word <hi
+              rend="italic">disseysed</hi> as “delivered,” noting the line’s “mistranslation” of AN
+            (p. 79). The <hi rend="italic">MED</hi> likewise suggests the meaning is “to deliver
+            (sb. from suffering)” (<hi rend="italic">disseisen</hi> [v.], sense 2c), although this
+            line is the only attested example for this meaning; the usual significance is “to
+            deprive (sb.) of seizin,” “to dispossess (sb.) unlawfully (of land, goods, etc.)” (sense
+            1a), “to deprive (sb.) of authority, dominion, or privileges” (sense 2a), as in the AN
+            poem. Note that the word still survives in Modern English as “to disseise,” that is, “to
+            deprive especially wrongfully of seisin: dispossess” (<hi rend="italic">MW</hi>, <hi
+              rend="italic">disseise</hi> [v.]). It seems likely the ME text reflects a corruption
+            of the AN line due to some difficulty in comprehending its meaning. The reading in H
+              (<hi rend="italic">I wot not with whom I</hi><hi rend="italic"> shuld desseysed
+              be</hi>) likewise highlights the trouble translators, scribes, and readers apparently
+            had in interpreting the line.</p></note>
+        <note type="enote" n="111">1041–1132<space rend="indent1"/><p><hi rend="italic">The Fend
+              wondrede . . . itiyed fast</hi>. The dialogue between Jesus and the Devil is full of
+            legal argumentation. The encounter alludes to the biblical account of Christ’s
+            temptation in the wilderness, detailed in the Gospels of Matthew (4:1–11) and Luke
+            (4:1–13) and mentioned in Mark (1:12–13). Marx includes a detailed discussion of the
+            scene and its theological complexity in relation to the idea of the Devil’s rights
+            theory of Christ’s redemption of humanity, which argued that “God was under an
+            obligation to respect the Devil’s right to possess humanity and that humanity could be
+            freed and reconciled to God only if the Devil abused his power, which he did by killing
+            the sinless Christ” (<hi rend="italic">Devil’s Rights and the Redemption</hi>, p. 1; see
+            pp. 69–71 for Marx’s full argument). See the discussion of this topic in the
+            Introduction (pp. 21–22 and p. 38).</p></note>
+        <note type="enote" n="112">1130–32<space rend="indent1"/><p><hi rend="italic">As </hi><hi
+              rend="italic">fisch that . . . hok itiyed fast</hi>. Proverbial; Whiting cites as an
+            example of the proverb “The Fish is taken by the bait” (F230).</p></note>
+        <note type="enote" n="113">1152<space rend="indent1"/><p><hi rend="italic">Atter heo Him
+              dude to </hi><hi rend="italic">drinke, imeynt with eisil</hi>. The vinegar was mixed
+            with something bitter; though I gloss <hi rend="italic">atter</hi> as “gall” based on
+            the account in Matthew (27:34); Mark says it was myrrh (15:23), and John (19:29) and
+            Luke have just vinegar (23:36). The <hi rend="italic">MED</hi>, <hi rend="italic"
+              >atter</hi> (n.) says the word refers to something poisonous (sense 1) or bitter
+            (sense 2).</p><p style="enote-indent">H adds the following lines after 1152: <hi
+              rend="italic">The Iewes deden þis to him </hi><hi rend="italic">for gret vylny / Bote
+              he suffred hit all pacyently</hi>. This view, that Jews participated in or were
+            outright responsible for Christ’s crucifixion, reflects a common component of
+            antisemitism present as early as the Gospel of Matthew (J. Edwards, “The Church and the
+            Jews,” p. 88). The Jews were expelled from England in 1290, thus when the ME <hi
+              rend="italic">Castle of </hi><hi rend="italic">Love</hi> was written, Jews were no
+            longer an active presence in English communities. During Grosseteste’s lifetime,
+            however, there were still Jews living in Britain, including in Leicester, where
+            Grosseteste was archdeacon until 1232, the year the earl of Leicester Simon de Montfort
+            had the Jews permanently expelled (Goering, “Grosseteste and the Jews of Leicester,” p.
+            182). Grosseteste’s views on Jews are outlined in his Letter 5, addressed to Margaret,
+            countess of Winchester, Montfort’s great-aunt, who gave the Jews of Leicester sanctuary
+            after Montfort expelled them (Watt, “Grosseteste and the Jews,” p. 201). Letter 5
+            denounced the countess’s actions, and Southern proposes that Grosseteste might have
+            instigated the Leicester removal (p. 246). For further discussion, see Goering, “Robert
+            Grosseteste and the Jews of Leicester,” and Watt, “Grosseteste and the Jews.” For an
+            edition of Letter 5, see Grosseteste, “Epistola Quinta,” ed. Luard; for a translation,
+            see Grosseteste, “Epistola Quinta: An English Translation,” trans. Mantello and Goering
+            (also available in Grosseteste, <hi rend="italic">Letters</hi>, trans. Mantello and
+            Goering, pp. 65–70). In a similar context but later in the poem, the AN witness used for
+            the text in the Appendix includes a line accusing the Jews of striking Jesus. See
+            textual note to line 1500 of the AN text.</p>
+        </note>
+        <note type="enote" n="114">1153<space rend="indent1"/><p><hi rend="italic">otewyse
+              werkes</hi>. The <hi rend="italic">MED</hi> suggests <hi rend="italic">otewyse</hi> is
+            an error for <hi rend="italic">odious</hi> (adj.) and quotes this line under sense 1d,
+            “morally reprehensible, heinous,” but it seems that the word could equally be either a
+            compound formed from <hi rend="italic">out</hi> and <hi rend="italic">wise</hi>, meaning
+            something like “outward” or a version of <hi rend="italic">MED</hi>, <hi rend="italic"
+              >outwith</hi> (adj.), meaning “worldly.” The corresponding phrase in the AN poem
+            reads, “E pur nos mauveys fez foreinz” [And for our wicked worldly deeds] (Appendix,
+            line 1129); Boulton translates “mauveys fez foreinz” as “wicked outward deeds” (p.
+            80n112) and Mackie as “wicked, alien deeds” (p. 172). In the textual note, Weymouth
+            offers an alternative translation for the AN: “And for our evil deeds which were <hi
+              rend="italic">not his own</hi>” (italics in original), further suggesting the original
+            ME reading in V and A, <hi rend="italic">as there anonden</hi>, “is evidently corrupt”
+            and “ought to mean ‘as there imputed to him’, or ‘which were not his own’, or ‘which we
+            were guilty of’” (line 1151).</p></note>
+        <note type="enote" n="115">1145–56<space rend="indent1"/><p><hi rend="italic">Fore ure
+              unwrestschupe . . . to the herte</hi>. This passage details Jesus’s suffering,
+            Crucifixion, and death, called the Passion in Christian tradition. The events are
+            related in the Gospels of Matthew (26–27), Mark (14–16), Luke (22–23), and John (18–19).
+            The Crucifixion and Passion were popular topics in literature throughout the medieval
+            period, particularly in devotional literature in OE and early ME; medieval lyrics;
+            Langland’s <hi rend="italic">Piers Plowman</hi>; and the Corpus Christi cycle plays of
+            York, Towneley, Coventry, and Chester (Quinn and Donahue, “Passion, Cross,” <hi
+              rend="italic">DBTEL</hi>, pp. 584–85). In <hi rend="italic">The Castle of Love</hi>,
+            the narrator ties each of Christ’s sufferings, leading up to and including his
+            Crucifixion, to specific sins humanity has committed; compare, for example, the <hi
+              rend="italic">Glossa</hi><hi rend="italic"> Ordinaria</hi> [<hi rend="italic">Ordinary
+              Gloss</hi>], a medieval collection of commentaries or glosses on the Bible, which
+            attributes Jesus’s suffering from the crown of thorns to humanity’s sins (<hi
+              rend="italic">PL</hi> 114.420, cited in D. Jeffrey, “Crown of Thorns,” <hi
+              rend="italic">DBTEL</hi>, p. 173). The crown of thorns, <hi rend="italic">coroune of
+              thornes on His hed</hi> (line 1146), is not specifically mentioned in Luke but is
+            described in the other three Gospels: (see Matthew 27:29, Mark 15:17, and John
+            19:2).</p></note>
+        <note type="enote" n="116">1158–60<space rend="indent1"/><p><hi rend="italic">No tongue . .
+              . pyne and wo</hi>. Proverbial; see explanatory note to lines 690–92, above. Compare
+            the AN poem, which reads, “Launge ne put taunt retrere, / Ne quer de home taunt penser,
+            / Cum il pur nus se fist pener” [Tongue cannot so relate, / Nor the heart of man so
+            conceive, / How He made Himself suffer for us] (Appendix, lines 1132–34).</p></note>
+        <note type="enote" n="117">1176<space rend="indent1"/><p><hi rend="italic">vertue</hi>. The
+              <hi rend="italic">MED</hi> translates the word in this specific quotation as “the
+            force or power which causes the functioning of the brain” (<hi rend="italic">vertu</hi>
+            [n.], sense 4a).</p></note>
+        <note type="enote" n="118">1179<space rend="indent1"/><p><hi rend="italic">felynge</hi>. The
+            AN verse has “le taster” (line 1153), which is a substantive infinitive that can be
+            translated as either the “(act of) touching, feeling” or the “(act of) tasting”; see <hi
+              rend="italic">AND</hi>, <hi rend="italic">taster</hi><hi rend="superscript">1</hi>
+            (v.), (sbst. inf.), senses 1 and 2. I have translated the AN word as “touching,”
+            following the ME translation.</p></note>
+        <note type="enote" n="119">1182<space rend="indent1"/><p><hi rend="italic">tithelynge</hi>.
+            The <hi rend="italic">MED</hi> quotes this line as the sole example of <hi rend="italic"
+              >tithelinge</hi> (n.), sense 1, “?A tenth part; ?a division into ten, decimating.” The
+            context suggests the sense is of the division of the soul from the body. For comparison,
+            the AN poem has “Nature ne put suffrir / Le alme einz del cors partir” [Nature cannot
+            allow / The soul to separate from the body before that] (Appendix, lines
+          1155–56).</p></note>
+        <note type="enote" n="120">1197–1200<space rend="indent1"/><p><hi rend="italic">Ac the
+              prophecye . . . ful bitter wounde</hi>. This passage refers to Luke 2:34–35: “And
+            Simeon blessed them and said to Mary his mother: Behold this child is set for the fall
+            and for the resurrection of many in Israel and for a sign which shall be contradicted.
+            And thy own soul a sword shall pierce, that, out of many hearts thoughts may be
+            revealed.”</p></note>
+        <note type="enote" n="121">1232<space rend="indent1"/><p><hi rend="italic">Adam</hi>. Note
+            that the AN poem reads “Eve” (Appendix, line 1205).</p></note>
+        <note type="enote" n="122">1267<space rend="indent1"/><p><hi rend="italic"
+            >Architriclyn</hi>. From the Latin <hi rend="italic">architriclinus</hi>, this refers to
+            the master of the feast or chief steward at the wedding, but the scribe capitalizes the
+            word here as a name, since in ME the word is often used as a proper name as well as a
+            common noun; see <hi rend="italic">MED</hi>, <hi rend="italic">architriclin</hi> (n.).
+            Compare the Latin Vulgate: <hi rend="italic">architriclinus</hi> (John 2:9).</p></note>
+        <note type="enote" n="123">1265–74<space rend="indent1"/><p><hi rend="italic">For</hi><hi
+              rend="italic"> atte neces . . . sothfast mon</hi>. Turning the water into wine at the
+            wedding in Cana is the first miracle that Jesus performs, mentioned only in the Gospel
+            of John (2:1–10).</p></note>
+        <note type="enote" n="124">1277–82<space rend="indent1"/><p><hi rend="italic">That fyf
+              thousend . . . ifulled ek</hi>. The miracle of the five loaves and two fishes, also
+            referred to as “the feeding of the five thousand,” is the only miracle Jesus performs
+            before his death that appears in all four Gospels: Matthew 14:13–21, Mark 6:31–44, Luke
+            9:10–17, and John 6:5–15. This is a separate miracle from the feeding of the four
+            thousand, attested in Matthew (15:32–39) and Mark (8:1–9).</p></note>
+        <note type="enote" n="125">1285–86<space rend="indent1"/><p><hi rend="italic">That foure
+              </hi><hi rend="italic">dawes he leigh along / In the buriles, that he stonk</hi>.
+            Compare John 11:39: “Jesus saith: Take away the stone. Martha, the sister of him that
+            was dead, saith to him: Lord, by this time he stinketh, for he is now of four
+          days.”</p></note>
+        <note type="enote" n="126">1283–90<space rend="indent1"/><p><hi rend="italic">Of</hi><hi
+              rend="italic"> Lazar . . . arerede him also</hi>. John 11:41–44 attests the miracle of
+            Jesus raising Lazarus from the dead.</p></note>
+        <note type="enote" n="127">1297–98<space rend="indent1"/><p><hi rend="italic">Persones threo
+              in Thrillihod / And o</hi><hi rend="italic"> God thaugh in onhod</hi>. A statement
+            affirming the idea of the Trinity, repeated in variations throughout the poem here and
+            at lines 9–10, 1241–42, and 1505–06. The repetition of concept and rhyme give the
+            couplet the flavor of a refrain. See explanatory note to lines 7–10, above.</p></note>
+        <note type="enote" n="128">1310<space rend="indent1"/><p><hi rend="italic">But </hi><hi
+              rend="italic">as a mon the rynde fleth</hi>. The literal meaning of someone peeling
+            away the bark can be understood metaphorically as going deeper than the superficial
+            meaning or the literal sense. The AN text gives a different sense: “Mes cum en rimant
+            l’escorce” [Except as if in coating the bark with hoarfrost], suggesting one can only
+            tell of God’s power and strength superficially, like hoarfrost covering the bark of a
+            tree (Appendix, line 1284). Although <hi rend="italic">AND</hi> gives only one verb <hi
+              rend="italic">rimer</hi>, meaning “to put into rhyme, versify,” I base my translation
+            on OF from Godefroy, <hi rend="italic">rimer</hi><hi rend="superscript">2</hi> (v.),
+            meaning in Modern French <hi rend="italic">geler blanc</hi> [to freeze white, to frost,
+            to rime]. Boulton translates <hi rend="italic">rimant</hi> (from Murray, line 1292) as
+            “scratch” (p. 82 and p. 82n124), and Mackie’s edition has <hi rend="italic"
+            >rongant</hi>, translated as “scratching” (Mackie-<hi rend="italic">Chasteu</hi>, line
+            1296; Mackie, p. 174).</p></note>
+        <note type="enote" n="129">1345<space rend="indent1"/><p><hi rend="italic">A gret bite He
+              bot, of helle</hi><hi rend="italic"> nom</hi>. The ME translator’s metaphor of Jesus
+            taking a bite out of hell comes from the AN, “A enfern fist un grant mors” [He took a
+            great bite out of hell] (Appendix, line 1315) and is a reference to Osee (Hosea) 13:14:
+            “O death, I will be thy death; O hell, I will be thy bite.” Based on this biblical
+            allusion, the Sarum Use for Palm Sunday describes Jesus as “Mors mortis, inferni morsus”
+            [Death of death, bite of hell] (Dickinson, <hi rend="italic">Missale Sarum</hi>, col.
+            259). (The Sarum Use was practiced in Salisbury Cathedral during the Middle Ages.) In
+              <hi rend="italic">Sermo de symbolo</hi> [<hi rend="italic">Sermon on the Creed</hi>],
+            Augustine describes Jesus taking a bite of hell: “Partim momordit infernum pro parte
+            eorum quos liberavit: partim reliquit, pro parte eorum qui pro principalibus criminibus
+            in tormentis remanserunt” [He bit off part of hell for the portion of those whom he
+            freed: he left part for the portion of those who remained in torment because of original
+            sin] (chap. 7).</p></note>
+        <note type="enote" n="130">1339–48<space rend="indent1"/><p><hi rend="italic">For thorw . .
+              . with herte trewe</hi>. This passage refers to the Harrowing of Hell, the idea that
+            Jesus descended into hell for three days, rescued those who had served God faithfully
+            before Christ’s coming, defeated the Devil, and broke the gates of hell. An influential
+            view of the topic was that of Augustine, who described the Harrowing of Hell in <hi
+              rend="italic">Sermo de symbolo</hi> [<hi rend="italic">Sermon on the Creed</hi>]: “He
+            descended into hell to free Adam the first man and the patriarchs and prophets and all
+            the righteous, who were held there through original sin, and to call them, now released
+            from the bonds of sin and redeemed by his blood, out of that same imprisonment and
+            hellish place back to their homeland above and to the joys of eternal life” (Tamburr,
+            trans., <hi rend="italic">Harrowing of Hell</hi>, p. 15). For detailed discussion, see
+            Tamburr’s <hi rend="italic">The Harrowing of Hell in </hi><hi rend="italic">Medieval
+              England</hi>.</p></note>
+        <note type="enote" n="131">1353–56<space rend="indent1"/><p><hi rend="italic">He </hi><hi
+              rend="italic">was enarmed . . . him binom</hi>. Compare Luke 11:21–22: “When a strong
+            man armed keepeth his court, those things are in peace which he possesseth. But if a
+            stronger than he come upon him, and overcome him; he will take away all his armour
+            wherein he trusted, and will distribute his spoils.” Weymouth’s note points out the
+            connection to the verses in Luke but suggests that neither the English translator nor
+            the AN scribe understood the intended allusion (line 1351).</p></note>
+        <note type="enote" n="132">1360–62<space rend="indent1"/><p><hi rend="italic">His strengthe
+              . . . His mihtful deden</hi>. Proverbial. See explanatory note to lines 690–92,
+            above.</p></note>
+        <note type="enote" n="133">1406–09<space rend="indent1"/><p><hi rend="italic">Othat . . .
+              tobrek</hi>. The lines refer to Jesus’s Resurrection on the third day after death, on
+            Easter Sunday, <hi rend="italic">Erliche uppon a Sonenday</hi> (line 1408). The
+            Resurrection specifically refers to Jesus’s bodily existence, not simply the spirit or
+            soul returning from the dead. The Gospels and other books of the New Testament do not
+            describe the Resurrection itself but rather the discovery of the empty tomb by Mary
+            Magdalene and other women (except in the Gospel of John, where she is alone), and
+            several subsequent appearances of Jesus to the disciples and other followers. See
+            Matthew 28, Mark 16, Luke 24, and John 20.</p></note>
+        <note type="enote" n="134">1409–10<space rend="indent1"/><p><hi rend="italic">Tho the niht
+              fro the day tobrek, / So seide</hi><hi rend="italic"> Seynt Austin tho he spek</hi>.
+            Augustine calculates from the Gospels that the Resurrection took place at dawn (<hi
+              rend="italic">Trinity</hi>, pp. 142–43). The word <hi rend="italic">spek</hi> can be
+            understood as “wrote” since it refers to written works by Augustine; see <hi
+              rend="italic">MED</hi>, <hi rend="italic">speken</hi> (v.), sense 10a: “To write;
+            state or declare in writing; write (in a book, gospel, letter, etc.).”</p></note>
+        <note type="enote" n="135">1415–16<space rend="indent1"/><p><hi rend="italic">To His
+              </hi><hi rend="italic">disciples . . . eode and come</hi>. In Luke 24:36–43, Jesus
+            appears among the disciples, who think they are seeing a spirit. In order to show that
+            his body is real, Jesus shows them his wounds and eats in front of them.</p></note>
+        <note type="enote" n="136">1429<space rend="indent1"/><p><hi rend="italic">For muche us dude
+              sikernesse</hi>. Where the ME text uses <hi rend="italic">sikernesse</hi> [certainty],
+            the AN has <hi rend="italic">avantance</hi> [advantage] (line 1403), which is the only
+            attested example in the <hi rend="italic">AND</hi> for <hi rend="italic"
+              >avantance</hi><hi rend="superscript">2</hi> (n); the usual meaning is a pejorative
+            one of “boasting, bragging,” or “arrogance” according to <hi rend="italic">AND</hi>, <hi
+              rend="italic">avantance</hi><hi rend="superscript">1</hi> (n.). Note that in OF, the
+            word <hi rend="italic">avantance</hi> conveys the Modern French meanings <hi
+              rend="italic">avantage</hi>, <hi rend="italic">profit</hi> [advantage, profit] are
+            typical meanings, as well as <hi rend="italic">vanité</hi> [vanity] (see Godefroy, <hi
+              rend="italic">avantance</hi> [n.]).</p></note>
+        <note type="enote" n="137">1434<space rend="indent1"/><p><hi rend="italic">Longeus</hi>.
+            Medieval tradition held that the name of the Roman soldier who pierced Jesus’s side on
+            the Cross was Longinus of Caesarea, though he is not named in the Gospel account (John
+            19:34). “Longinus” was also conflated with the centurion who avowed with others at the
+            Crucifixion, “Indeed this was the Son of God” (Matthew 27:54), and on this basis was
+            thought to have converted to Christianity. The first example of the soldier’s name
+            occurs in an illumination in a late-sixth-century manuscript (ca. 586), where the name
+            is written above the soldier piercing Jesus’s side (D. Jeffrey, “Longinus,” <hi
+              rend="italic">DBTEL</hi>, p. 461). The name also appears in the apocryphal Gospel of
+            Nicodemus, referring to both the soldier with the spear and the centurion who testified
+            (Peebles, <hi rend="italic">Legend</hi><hi rend="italic"> of Longinus</hi>, pp. 7–8).
+            According to some medieval traditions, Longinus was the blind dupe of Christ’s actual
+            tormentors, as in the stage directions of a Corpus Christi play where, after piercing
+            Jesus’s side, Longinus rubs the blood on his eyes and his sight is restored, signifying
+            his salvation (Kolve, <hi rend="italic">Play Called Corpus Christi</hi>, p.
+          219).</p></note>
+        <note type="enote" n="138">1435<space rend="indent1"/><p><hi rend="italic">woundes </hi><hi
+              rend="italic">grene</hi>. The meaning of <hi rend="italic">grene</hi> as “unhealed” is
+            given in <hi rend="italic">MED</hi>, <hi rend="italic">grene</hi> (adj.) 4b: “of a
+            wound, pain, painful memory: recent, unhealed, bitter.” A similar meaning remains in use
+            in Modern English in medical contexts, where a green wound is one “recently incurred and
+            unhealed” (see <hi rend="italic">MW</hi>, medical definition, <hi rend="italic"
+              >green</hi> [adj.] 2).</p></note>
+        <note type="enote" n="139">1430–44<space rend="indent1"/><p><hi rend="italic">Of </hi><hi
+              rend="italic">Thomas . . . not sen</hi>. This scene with “doubting Thomas” comes from
+            the Gospel of John (20:24–29). The incident was popular enough to inspire a number of
+            apocryphal works attributed to Thomas, and popularity remained strong throughout the
+            Middle Ages, with doubting Thomas appearing in works such as the <hi rend="italic"
+              >Cursor Mundi</hi> [<hi rend="italic">Runner </hi><hi rend="italic">of the World</hi>]
+            (a biblical paraphrase) and various Corpus Christi cycle plays (D. Jeffrey, “Thomas,”
+              <hi rend="italic">DBTEL</hi>, pp. 766–67).</p></note>
+        <note type="enote" n="140">1456<space rend="indent1"/><p><hi rend="italic">the Holygost,
+              that glit of Hem </hi><hi rend="italic">bo</hi>. That the Holy Spirit proceeds from
+            both the Father and the Son is a doctrinal statement. The concept is referred to in
+            shorthand as <hi rend="italic">filioque</hi> [lit., “and the Son”)] and was incorporated
+            into the Nicene Creed beginning in 589 at the Third Synod of Toledo, causing a major
+            rift between Eastern and Western Christianity (Oden, <hi rend="italic">Classic
+              Christianity</hi>, p. 521). Augustine, writing in the century before that, supported
+            the idea, though he maintained a more significant role for the Father than the Son in
+            describing the Holy Spirit’s procession (Dunham, <hi rend="italic">Trinity and Creation
+              in Augustine</hi>, p. 35). By the late sixth century, the idea of <hi rend="italic"
+              >filioque</hi> had become accepted in the West (Siecienski, <hi rend="italic"
+              >Filioque</hi>, p. 65). For further discussion of the history of how this doctrine
+            developed and its effects on the division between East and West in the church, see
+            Siecienski, <hi rend="italic">Filioque</hi>. For a nuanced discussion of Augustine’s
+            theology on the question of the Holy Spirit proceeding from the Son, see Ayres, <hi
+              rend="italic">Augustine and the Trinity</hi> (especially pp. 263–66).</p></note>
+        <note type="enote" n="141">1457–63<space rend="indent1"/><p><hi rend="italic">iboren
+              eft</hi><hi rend="italic"> . . . eft ben ibore</hi>. The idea of being “born again”
+            refers to baptism. See the Gospel of John 3:3–8 and explanatory note to lines 1464–66,
+            below.</p></note>
+        <note type="enote" n="142">1464–66<space rend="indent1"/><p><hi rend="italic">sume streon .
+              . . gostliche </hi><hi rend="italic">streneth</hi>. The passage explains what is meant
+            by being “born again.” The idea is that one must be begotten and born as a human being
+            first before being born again spiritually (i.e., baptized) by Jesus through <hi
+              rend="italic">the water of </hi><hi rend="italic">vertu</hi> (line 1465). In the
+            Bible, Jesus explains the process of being “born again” in the Gospel of John
+          3:3–8.</p></note>
+        <note type="enote" n="143">1492–93<space rend="indent1"/><p><hi rend="italic">to hevene He
+              steth, / On Holy Thoresday</hi>. The reference is to Jesus’s bodily Ascension into
+            heaven forty days after the Resurrection (celebrated at Easter), described at length in
+            Acts 1:9–11. See also Luke 24:51. The ME poem’s mention of Holy Thursday refers to
+            Ascension Day. In contrast to the more oblique reference in the ME poem, the AN poem
+            refers directly to the Ascension: “a ciel munta; / Ceo fu a la Ascensiun” [to heaven
+            ascended; / This was at the Ascension] (Appendix, lines 1462–63).</p></note>
+        <note type="enote" n="144">1496<space rend="indent1"/><p><hi rend="italic">skewes</hi>. The
+              <hi rend="italic">MED</hi> quotes this line for <hi rend="italic">skeu</hi> (n.1),
+            sense 1a, “The sky, heavens,” but sense 1b, “a cloud” (here, plural: “clouds”) more
+            accurately translates the AN “nues” [clouds] (Appendix, line 1466).</p></note>
+        <note type="enote" n="145">1497<space rend="indent1"/><p><hi rend="italic">With sothnesse
+              and wey and lif</hi>. Compare John 14:5–6: “Thomas saith to him: Lord, we know not
+            whither thou goest. And how can we know the way? Jesus saith to him: I am the way, and
+            the truth, and the life. No man cometh to the Father, but by me.”</p></note>
+        <note type="enote" n="146">1498–99<space rend="indent1"/><p><hi rend="italic">feire cumpanye
+              . . . out of helle nom</hi>. The ME softens the AN poem’s almost violent description
+            of Jesus’s action in carrying souls out of hell. Where the AN has “la bele proie . . .
+            Ke de enfern avoit ravi” [the fair prey . . . whom He had carried off (lit., ravished)
+            from hell] (Appendix, lines 1468 and 1470), the translation uses neutral language. Thus
+              <hi rend="italic">proie</hi> [prey] becomes <hi rend="italic">cumpanye</hi> and the
+            English word <hi rend="italic">nom</hi> replaces <hi rend="italic">ravi</hi>, despite
+            the Romance cognate <hi rend="italic">ravishen</hi>. Though <hi rend="italic">AND</hi>,
+              <hi rend="italic">preie</hi><hi rend="superscript">1</hi> (n.), sense 4, “flock,
+            company, group” fits with the ME translation, the use of <hi rend="italic">ravir</hi> to
+            describe the action suggests “prey” or “quarry” is the more likely intended meaning (see
+              <hi rend="italic">AND</hi>, <hi rend="italic">ravir</hi> [v.trans.], esp. senses 1 and
+            3). The changes in the ME suggest a deliberate choice to moderate the language of
+            spiritual ravishment the original poem offers.</p></note>
+        <note type="enote" n="147">1515–18<space rend="indent1"/><p><hi rend="italic">Ysayes spelle
+              . . . Prince of Pes</hi>. The poem again alludes to Isaias 9:6, though without
+            paraphrasing the whole verse as in lines 57–65 and 606–14.</p></note>
+        <note type="enote" n="148">1522–24<space rend="indent1"/><p><hi rend="italic">He shall ageyn
+              come this world to juggen . . . To deme</hi><hi rend="italic"> bothe queke and
+              dede</hi>. These lines echo the Nicene Creed, an official profession of Christian
+            faith first adopted in 325 (see explanatory note to lines 559–60, above, for more
+            detail). Compare also 2 Timothy 4:1, “Jesus Christ, who shall judge the living and the
+            dead.”</p><p style="enote-indent">Christ’s judgment of the living and the dead is the
+            central theme of the Last Judgment. Salvation history ends in a legal judgment, the same
+            way it began, an idea that Shoemaker points out was particularly stressed in the Fourth
+            Lateran Council of 1215; nevertheless, notably, this notion “elided an alternative
+            possibility, contemplated but rejected by medieval theologians, in which the redemption
+            of mankind from original sin and servitude to the devil might be accomplished through a
+            simple exercise of divine power rather than judgment” (“Devil at Law,” p. 570).</p>
+          <p style="enote-indent">Doomsday or the Last Judgment was a popular topic in the Middle
+            Ages, favored in medieval works of all types, including poetry, drama, lyrics and
+            carols, histories, as well as the more obvious sermons and other didactic and moral
+            works (Emmerson, “Last Judgment,” <hi rend="italic">DBTEL</hi>, p. 435).</p>
+        </note>
+        <note type="enote" n="149">1529<space rend="indent1"/><p><hi rend="italic">Fourti cupetys
+              heire</hi>. Forty cubits is equivalent to about sixty feet. The cubit is “A measure of
+            length [orig., the distance from the elbow to the tip of the middle finger]; usu.
+            eighteen inches” (<hi rend="italic">MED</hi>, <hi rend="italic">cubite</hi> [n.], sense
+            1a).</p></note>
+        <note type="enote" n="150">1565–67<space rend="indent1"/><p><hi rend="italic">And sey . . .
+              ne syn</hi>. These lines detailing the appeal to the mountains and earth echo Luke
+            23:30: “Then shall they begin to say to the mountains: Fall upon us; and to the hills:
+            Cover us” (see also Apocalypse 6:16). The lines occur in an earlier section of the poem
+            in the ME translation than in the AN poem (lines 1525–28 in the AN poem). See
+            explanatory note to lines 1525–1620, above.</p></note>
+        <note type="enote" n="151">1601<space rend="indent1"/><p><hi rend="italic">Hevyn and erthe
+              shull byn aleyde</hi>. Perhaps an allusion to Apocalypse 21:1: “the first heaven and
+            the first earth was gone.” The <hi rend="italic">MED</hi> has noted in the Supplemental
+            Materials section of <hi rend="italic">aleien</hi> (v.) that a new sense is to be added
+            based on this line.</p></note>
+        <note type="enote" n="152">1602<space rend="indent1"/><p><hi rend="italic">unteyede</hi>.
+            This is the only quotation attested for <hi rend="italic">MED</hi>, <hi rend="italic"
+              >unteien</hi> (v.), sense 3.</p></note>
+        <note type="enote" n="153">1610<space rend="indent1"/><p><hi rend="italic">Hevyn and
+              </hi><hi rend="italic">erthe and all hit newe maken</hi>. Compare Apocalypse 21:1:
+            “And I saw a new heaven and a new earth.”</p></note>
+        <note type="enote" n="154">1609–14<space rend="indent1"/><p><hi rend="italic">The fyftenethe
+              day . . . weryn, iwys</hi>. These lines correspond to AN lines 1543–46.</p></note>
+        <note type="enote" n="155">1617<space rend="indent1"/><p><hi rend="italic">shull in body and
+              soule aryse</hi>. The line refers to the resurrection of the faithful at the Last
+            Judgment, a core Christian belief. It is of theological importance that both body and
+            soul are resurrected at the Last Judgment, for the doctrine of resurrection “has primary
+            reference to bodies” and “is literally a ‘rising again,’” through “to judgment and
+            transformation,” distinct from reincarnation, immortality, or simple raising of the dead
+            (e.g., Lazarus) (Gooch, “Resurrection,” <hi rend="italic">DBTEL</hi>, p.
+          663).</p></note>
+        <note type="enote" n="156">1616–20<space rend="indent1"/><p><hi rend="italic">The angeles .
+              . . ryght syde stonde</hi>. These lines correspond to AN lines 1547–52, whereas AN
+            line 1553 (“A ceus dirra nostre Seignur” [To those our Lord will say]) matches ME line
+            1651 (<hi rend="italic">And sey with mylde stevyn and swete</hi>).</p></note>
+        <note type="enote" n="157">1525–1620<space rend="indent1"/><p><hi rend="italic">But fyftene
+              dayes . . . ryght syde </hi><hi rend="italic">stonde</hi>. As the opening two lines
+            indicate (<hi rend="italic">fyftene dayes before </hi><hi rend="italic">the Dome /
+              Fyftene tokyns ther shull come</hi>), the passage includes a variant of <hi
+              rend="italic">The Fifteen Signs Before Doomsday</hi> (Sajavaara, p. 393n1525–1620),
+            which listed all the terrible events that would take place in the fifteen days leading
+            up to the Last Judgment, or Doomsday. The idea of the fifteen signs was “a popular
+            [theme] both in medieval prose and poetry, which may find its origin on the apocryphal
+            Apocalypse of Thomas” (Olson, “‘Earth and Sky Will Be Ablaze,’” p. 359). Heist discusses
+            in more detail the adaptation in <hi rend="italic">The Castle of </hi><hi rend="italic"
+              >Love</hi> (<hi rend="italic">Fifteen Signs</hi>, pp. 145–49). For more about the Last
+            Judgment, see explanatory note to lines 1522–24, above.</p><p style="enote-indent">This
+            section of nearly a hundred lines in the ME poem is mostly an interpolated passage that
+            fits between lines 1494 and 1496 in the AN text (line 1495 in the AN does not appear to
+            have a parallel line in the ME). Nevertheless, the AN text includes a similar, much
+            shorter passage (detailing only that fire will purify the world before Jesus comes),
+            which comes slightly later in the poem, beginning “Apres ceo tel signes verrunt, / Par
+            laqueles tute gent murrunt” [After this they will see such signs, / By which everyone
+            will die] (Appendix, lines 1529–30). This passage in the ME poem does include a few
+            lines transposed from that later section of the AN poem: ME lines 1565–68 match AN lines
+            1525–28; ME lines 1609–14 correspond to AN lines 1543–46; and ME lines 1616–20 align
+            with AN lines 1547–52. Because this portion of the poem survives only in H, it is
+            unknown whether the scribe added the material or whether it was present in the exemplar
+            for H.</p>
+        </note>
+        <note type="enote" n="158">1621–22<space rend="indent1"/><p><hi rend="italic">Then shall . .
+              . showe to us</hi>. The ME translation picks up at line 1496 of the AN poem at this
+            point. See explanatory note to lines 1525–1620, above.</p></note>
+        <note type="enote" n="159">1632<space rend="indent1"/><p><hi rend="italic">blod and
+              watur</hi>. This detail of Jesus’s Crucifixion comes from the Gospel of John (19:34).
+            Blood and water are not mentioned in the earlier passage that details Jesus’s sufferings
+            in the Passion; there, the narrator only explains that <hi rend="italic">me [people] His
+              syde thurlede right to the herte</hi> (line 1156). The blood would signify Christ’s
+            redemption of humanity, whereas water could refer to symbolic purification or perhaps
+            baptism. Howes points out that medieval depictions of blood and water in Christ’s
+            Passion “present the intermingling of the two fluids as a passageway to the divine” (<hi
+              rend="italic">Transformative Waters</hi>, p. 139); Howes’s chapter 5 of <hi
+              rend="italic">Transformative Waters </hi>is useful for its focus on the pairing of
+            blood and water (pp. 137–68; of note is her contextualization of the cultural
+            significance of these fluids in medieval medicine, pp. 142–48). See also explanatory
+            note to line 1434, above.</p></note>
+        <note type="enote" n="160">1621–32<space rend="indent1"/><p><hi rend="italic">Then shall . .
+              . from his hert</hi>. These lines reiterate Jesus’s sufferings in the Passion. See
+            explanatory note to lines 1145–56, above.</p></note>
+        <note type="enote" n="161">1652–58<space rend="indent1"/><p><hi rend="italic">When I was
+              hongry . . . I was seke</hi>. Compare Matthew 25:35–36: “For I was hungry, and you
+            gave me to eat; I was thirsty, and you gave me to drink; I was a stranger, and you took
+            me in: Naked, and you covered me: sick, and you visited me: I was in prison, and you
+            came to me.”</p></note>
+        <note type="enote" n="162">1667<space rend="indent1"/><p><hi rend="italic">upreceyveng</hi>.
+            This line is the only quotation attested for <hi rend="italic">MED</hi>, <hi
+              rend="italic">upreceiveng</hi> (ger.), “The receiving of the dead into Heaven at the
+            Last Judgment.</p></note>
+        <note type="enote" n="163">1663–83<space rend="indent1"/><p><hi rend="italic">Then shull the
+              blessed . . . laste evermore</hi>. These lines explain the division of the saved or
+              <hi rend="italic">blessed</hi> (line 1663) and the damned or <hi rend="italic"
+              >cursede</hi> (line 1665) into heaven and hell, respectively, at the Last
+            Judgment.</p></note>
+        <note type="enote" n="164">1689–92<space rend="indent1"/><p><hi rend="italic">Ye, more joy .
+              . . loved Him here</hi>. The passage paraphrases 1 Corinthians 2:9: “But, as it is
+            written: That eye hath not seen, nor ear heard: neither hath it entered into the heart
+            of man, what things God hath prepared for them that love him.” The poem includes
+            somewhat looser and less complete paraphrases at lines 690–92, 1158–60, and
+          1360–62.</p></note>
+        <note type="enote" n="165">1707<space rend="indent1"/><p><hi rend="italic">foure</hi>. This
+            is the fourth sorrow; the ME lists the same sorrows as in the AN poem but does not
+            number the first three; the AN numbers them as follows: the first is sorrow, the second
+            darkness, the third fear, the fourth inextinguishable fire (Appendix, lines
+            1606–11).</p></note>
+        <note type="enote" n="166">1716–17<space rend="indent1"/><p><hi rend="italic">byttur
+              </hi><hi rend="italic">wormys . . . Neddris, snakys, and taddis</hi>. This menagerie
+            is expanded from a single AN verse, “vermine de male plaist” [unpleasant worms (vermin)]
+            (Appendix, line 1615). These slithering creatures can all be associated with the Devil
+            or hell. Worms might refer to vermin or “any creature that slithers, creeps, or crawls”
+            but might also be “any vile creature that torments souls in hell” (<hi rend="italic"
+              >MED</hi>, <hi rend="italic">worm</hi> [n.], senses 2a and 2b, respectively). Snakes
+            in general, and <hi rend="italic">naddres</hi> or adders in particular, were associated
+            with the Devil, specifically with the temptation of Eve in the Garden of Eden (see
+            Genesis 3:1–5). Toads could represent “a malevolent, loathsome creature of hell, a
+            creature of torment” and “a symbol of the devil” (see <hi rend="italic">MED</hi>, <hi
+              rend="italic">tode</hi> [n.], sense 1b). See also explanatory note to line 860,
+            above.</p></note>
+        <note type="enote" n="167">1721–22<space rend="indent1"/><p><hi rend="italic">systere . . .
+              brother . . . fremed . . . sybbe</hi>. The AN poem does not specify that strangers and
+            relatives curse each other, as here, but simply says, “Li un al autre donc dira” [The
+            one to the other then will say] (Appendix, line 1619).</p></note>
+        <note type="enote" n="168">1731<space rend="indent1"/><p><hi rend="italic">forstyflyd</hi>.
+            This line is the only quotation attested for <hi rend="italic">MED</hi>, ?<hi
+              rend="italic">forstifled</hi> (ppl.). See the textual note to this line for further
+            discussion.</p></note>
+        <note type="enote" n="169">1743<space rend="indent1"/><p><hi rend="italic">Long is ever, and
+              </hi><hi rend="italic">long is oo</hi>. The phrase is idiomatic, meaning “forever is a
+            long time”; see <hi rend="italic">MED</hi>, <hi rend="italic">o</hi> (adv.), sense 2a,
+              <hi rend="italic">long </hi><hi rend="italic">is ai and long is</hi> ~. Compare
+            similar lines from the anonymous lyric “Ubi sount qui ante nos fuerunt?” [Where are
+            those who were before us?]: “Long is ay, and long is ho, / Long is wy, and long is wo”
+            (Furnivall, ed., p. 762, stanza 4). The poem is also known by its first line: “Uuere beþ
+            þey biforen vs weren” (see <hi rend="italic">DIMEV</hi> 5215; <hi rend="italic"
+              >IMEV</hi>/<hi rend="italic">NIMEV</hi> 3310).</p></note>
+        <note type="enote" n="170">1699–1746<space rend="indent1"/><p><hi rend="italic">In gret
+              sorewe . . . shull be ther</hi>. The narrator describes at great length the suffering
+            sinners will experience in hell, a description that is slightly expanded from the
+            corresponding section of the AN poem (Appendix, lines 1599–1638).</p></note>
+        <note type="enote" n="171">1748<space rend="indent1"/><p><hi rend="italic">Pryns of
+            Pes</hi>. From Isaias 9:6. The poem explains how Jesus fulfills this role.</p></note>
+        <note type="enote" n="172">1751–52<space rend="indent1"/><p><hi rend="italic">Love,
+              swetnesse, and pley, . . . hit neweth fro day </hi><hi rend="italic">to day</hi>.
+            “Love, sweetness, and joy . . . begin anew from day to day.” An impersonal construction
+            that cannot be translated literally into Modern English.</p></note>
+        <note type="enote" n="173">1754–55<space rend="indent1"/><p><hi rend="italic">The blessed
+              shall hit isyn, / The</hi><hi rend="italic"> swete face of his Lorde</hi>. An allusion
+            to 1 Corinthians 13:12: “We see now through a glass in a dark manner; but then face to
+            face.”</p></note>
+        <note type="enote" n="174">1757<space rend="indent1"/><p><hi rend="italic">His
+              feyreship</hi>. Beauty is emphasized throughout the description of heaven, describing
+            Jesus or God (lines 1757, 1843, 1862), heaven (line 1764), angels (lines 1768, 1769),
+            those who have been saved (lines 1809, 1815), and the Virgin Mary (lines 1826, 1827,
+            1831,1840). See explanatory note to lines 1747–1862, above, for more discussion of this
+            theme.</p></note>
+        <note type="enote" n="175">1768–69<space rend="indent1"/><p><hi rend="italic">all the feyre
+              company / Of angels</hi>. The AN poem more specifically mentions “[l]es nuef ordres
+            des angeles” [the nine orders of angels] (Appendix, line 1659). The study of angels was
+            considered scientific in the medieval period, and the “nine orders” mentioned in the AN
+            poem refer to the organization of angels, arranged in “three hierarchies in nine
+            choirs,” according to the Neoplatonic Christian philosopher Dionysius the
+            Pseudo-Areopagite (also termed Pseudo-Dionysius) (ca. 500 CE), who ranks the angels from
+            highest to lowest as follows: “seraphim, cherubim, thrones, dominations, virtues,
+            powers, principalities, archangels, and angels”; the angels’ purpose was “the
+            transmission of the primal light by degrees to all the receptive parts of creation”
+            (McColley, “Angel,” <hi rend="italic">DBTEL</hi>, p. 40).</p></note>
+        <note type="enote" n="176">1783–84<space rend="indent1"/><p><hi rend="italic">And thei . . .
+              may be lyft</hi>. These lines reflect some of Grosseteste’s ideas about the qualities
+            of the resurrected body, which included clarity (light), agility (swiftness), subtlety
+            (thinness), and impassibility (incorruptibility) (Biernoff, <hi rend="italic">Sight and
+              Embodiment</hi>, pp. 37–38). The description of people in heaven being <hi
+              rend="italic">so </hi><hi rend="italic">lyght and swyft</hi> more specifically evokes
+            the ideas of clarity and agility. These two lines in the ME text paraphrase four AN
+            lines (Appendix, lines 1671–74), and the translator leaves out a line from the AN poem
+            that refers to subtlety: “tuz si sutils serrunt” [they all will be so insubstantial
+            (lit., subtle)] (Appendix, line 1673).</p></note>
+        <note type="enote" n="177">1809–16<space rend="indent1"/><p><hi rend="italic">He that . . .
+              that</hi><hi rend="italic"> joy here</hi>. Compare Isaias 30:26: “. . . the light of
+            the sun shall be sevenfold, as the light of seven days,” although here it is those in
+            heaven who <hi rend="italic">shull shyne seven</hi><hi rend="italic"> sythe bryght then
+              heo now is</hi> (line 1812). For more on the importance of light in this vision of
+            heaven, see explanatory note to lines 1747–1862, above.</p></note>
+        <note type="enote" n="178">1817<space rend="indent1"/><p><hi rend="italic">mony </hi><hi
+              rend="italic">wonyngis</hi>. The allusion is to John 14:2: “In my Father’s house there
+            are many mansions” (but see 14:1–3 for the broader context). Compare the AN: “taunt de
+            mansions” [so many mansions] (Appendix, line 1703).</p></note>
+        <note type="enote" n="179">1821–28<space rend="indent1"/><p><hi rend="italic">And ever
+              beholde . . . in</hi><hi rend="italic"> hyenesse</hi>. Here, “the joy of meditating on
+            the Virgin is surpassed only by the beatific vision of God himself” (Boulton, p.
+            89n159).</p></note>
+        <note type="enote" n="180">1747–1862<space rend="indent1"/><p><hi rend="italic">Jhesu
+              </hi><hi rend="italic">in hevyn . . . thenkyn owght?</hi> From this point to the end,
+            the poem details all the joys that those who are saved will experience in heaven after
+            the Last Judgment. The emphasis on joy coincides with a focus on brightness, light,
+            clarity, and beauty.</p><p style="enote-indent">It is no accident that the description
+            of heaven in <hi rend="italic">The Castle of Love</hi> emphasizes brightness, clarity,
+            and light, since light was fundamentally connected to Grosseteste’s understanding of the
+            nature of God and key to his concept of the Trinity (McEvoy, <hi rend="italic">Robert
+              Grosseteste</hi>, p. 93). Panti explains that for Grosseteste “light . . . is not at
+            all something to be signified for its intrinsic physical ‘value,’ such as its being
+            form, or energy or <hi rend="italic">species</hi> or whatever else it is and does in the
+            natural world, but something which <hi rend="italic">has</hi> an intrinsic symbolic
+            value, given that it is the best physical substance to represent God’s essence and
+            action” (“Robert Grosseteste’s Cosmology of Light,” p. 74; italics in original). The
+            vision of heaven in <hi rend="italic">The Castle </hi><hi rend="italic">of Love</hi>
+            does not focus solely on light, however, but also emphasizes beauty. Concepts of beauty
+            in the medieval period relied on both proportion and light. Grosseteste’s interest in
+            beauty privileged “the aesthetics of light” over those of proportion (McEvoy, <hi
+              rend="italic">Robert Grosseteste</hi>, p. 95). For more on medieval theories of
+            beauty, see Umberto Eco, <hi rend="italic">Art and Beauty in the </hi><hi rend="italic"
+              >Middle Ages</hi> (trans. Bredin), who includes chapters on “The Aesthetics of
+            Proportion” and “The Aesthetics of Light” (pp. 28–42 and 43–51, respectively). See also
+            explanatory note to line 1757, below.</p>
+          <p style="enote-indent">Of interest in relation to the description of heaven in <hi
+              rend="italic">The Castle of Love</hi> is Grosseteste’s Letter 6, where he describes to
+            Richard Marshall, earl of Pembroke, what he imagines heaven will be like (<hi
+              rend="italic">Letters</hi>, trans. Mantello and Goering, pp. 71–72; Boulton suggests
+            the connection [p. 88n156]). Grosseteste begins his description of “the heavenly abode”
+            in his letter by explaining that “the most precious thing will be a light combined with
+            no shadows, interrupted by no changes, restricted by no boundaries, and defined by no
+            limits” (<hi rend="italic">Letters</hi>, p. 71). Light is also connected to good: “there
+            will be the fullest possible possession of each and every good, as when several eyes
+            look upon every part of the sun without its being divided up for them” (<hi
+              rend="italic">Letters</hi>, p. 72). In addition, light is linked to both God and
+            truth: “In heaven our spirits will possess a knowledge of all truth without any
+            ignorance, for in the light that is God we shall see the light of every creature of
+            truth, just as the Psalmist says: <hi rend="italic">In your light we shall</hi><hi
+              rend="italic"> see light</hi> [Ps 35:10]” (<hi rend="italic">Letters</hi>, p. 72;
+            italics and brackets in original).</p>
+          <p style="enote-indent">Visions of heaven and hell, such as appear at the end of <hi
+              rend="italic">The Castle of Love</hi>, are common in medieval literature. The early
+              <hi rend="italic">Poema Morale</hi> (before 1200), for example, devotes more than half
+            its lines to descriptions of hell and heaven (see Fein’s edition; for date, see ed. and
+            trans. Fein, <hi rend="italic">Poema Morale</hi>, p. 344). Although the narrator of <hi
+              rend="italic">Poema Morale</hi> is careful to note that he has not been to hell and
+            therefore knows nothing about it firsthand (line 143), the genre encompasses not only
+            descriptions based on imagination but also “an extraordinarily popular literary genre”
+            of works that “purport to describe actual visions of the realm entered by souls after
+            death” (Gardiner, <hi rend="italic">Medieval Visions </hi><hi rend="italic">of Heaven
+              and Hell</hi>, p. xv). Although focused on these alleged actual visions, Gardiner’s
+            introduction to <hi rend="italic">Medieval Visions of </hi><hi rend="italic">Heaven and
+              Hell</hi> is nevertheless useful for an overview of the development, types,
+            characteristics, and tropes of medieval descriptions of the afterlife, especially given
+            the strong impact of this visionary literature on medieval literature of all kinds. For
+            further analysis of medieval visions of heaven and hell, see Pollard’s edited volume,
+              <hi rend="italic">Imagining the Medieval Afterlife</hi>, which contains a useful
+            section on theological views. For additional examination of medieval concepts of heaven,
+            see Emerson and Feiss’s edited collection <hi rend="italic">Imagining </hi><hi
+              rend="italic">Heaven in the Middle Ages</hi>.</p>
+        </note>
+        <note type="enote" n="181">1862<space rend="indent1"/><p><hi rend="italic">Of Goddis feyrenes
+            thenkyn owght?</hi> The poem’s end here is most likely due to a missing portion of the
+          MS (see the textual note to this line), leaving out the ending that would correspond to
+          the final twelve lines of the AN poem. In the AN poem, these lines explain:</p><quote
+            type="columns">
+            <lg type="columns" n="1">
+              <l>Mes kant glorifié serrum,</l>
+              <l>Dunc apertement verrum</l>
+              <l>Cum il est treis en Trinité</l>
+              <l>E un soul Deu en unité,</l>
+              <l>De ki, par ki, en ki sunt</l>
+              <l>Tutes les joies ke en ciel sunt.</l>
+              <l>Cil Prince de Pes les suens guiera,</l>
+              <l>En joie e en pes tut tens serra.</l>
+              <l>E Deu nus doint par sa merci</l>
+              <l>Nostre vie mener ici</l>
+              <l>E ses comandemenz si tenir</l>
+              <l>Ke a cele pes pussums venir.</l>
+              <l>Amen.</l>
+              <l>(Appendix, lines 1749–61)</l>
+            </lg>
+            <lg type="columns" n="2">
+              <l>But then we are glorified,</l>
+              <l>Then we will see clearly</l>
+              <l>How He is three in Trinity</l>
+              <l>And one single God in unity,</l>
+              <l>Of Whom, by Whom, and in Whom are</l>
+              <l>All the joys that are in heaven.</l>
+              <l>This Prince of Peace will guide His own,</l>
+              <l>In joy and in peace will dwell forever.</l>
+              <l>And may God grant us by His mercy</l>
+              <l>To lead our lives here</l>
+              <l>And so uphold His commandments</l>
+              <l>That we might come into this peace.</l>
+              <l>Amen.</l>
+            </lg></quote>
+          <p style="enote-noindent"><space rend="indent1"/>The idea of seeing clearly in line 1750
+            may allude to 1 Corinthians 13:12, “We see now through a glass in a dark manner; but
+            then face to face. Now I know in part; but then I shall know even as I am known.” The
+            final lines of the AN poem illustrate the literary convention of ending a devotional
+            work with a prayer. The shortened version of the ME poem that appears in the V and A MSS
+            likewise ends with a prayer, which echoes the lines from the AN poem. In V and A, the
+            lines begin with a fairly close paraphrase of lines 1757–60 of the AN poem and then move
+            to a much looser and incomplete rendition of some of the ideas in lines 1749–56 (for
+            example, in V and A the appended prayer does not mention the theological concept of the
+            Trinity). For a transcription of the final lines in V and A, see the textual note to
+            line 1514 of the ME poem.</p>
+        </note>
+      </div>
+    </body>
+  </text>
+</TEI>

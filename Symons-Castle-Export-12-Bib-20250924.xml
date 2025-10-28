@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Symons-Castle-Export-12-Bib-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliography</title>
+        <author>Symons, Dana M.</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2024-11" to="2025-01">Checked and corrected bibliographic references</resp>
+          <resp from="2024-11" to="2025-01">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-11" to="2025-01">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Fein, Susanna</persName>
+          <resp from="2024-05" to="2024-06">Copyedited and proofread</resp>
+          <resp from="2024-05" to="2024-06">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-05" to="2024-06">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-05" to="2024-06">Reviewed edition for content and scholarship</resp>
+          <resp from="2024-05" to="2024-06">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2024-11" to="2025-01">Checked and corrected bibliographic references</resp>
+          <resp from="2025-08" to="2025-08">Collected metadata</resp>
+          <resp from="2024-11" to="2025-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-08" to="2025-08">Entered corrections for digital edition</resp>
+          <resp from="2024-11" to="2025-08">Entered corrections for print edition</resp>
+          <resp from="2025-08" to="2025-08">Formatted for print edition</resp>
+          <resp from="2025-08" to="2025-08">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2024-04" to="2024-05">Copyedited and proofread</resp>
+          <resp from="2024-04" to="2024-05">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-04" to="2024-05">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-04" to="2024-05">Reviewed edition for content and scholarship</resp>
+          <resp from="2024-04" to="2024-05">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2025-04" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-04" to="2025-04">Entered corrections for print edition</resp>
+          <resp from="2025-04" to="2025-04">Formatted for print edition</resp>
+          <resp from="2025-04" to="2025-04">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2025-03" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-03" to="2025-03">Checked and corrected bibliographic references</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2024-04" to="2025-03">Copyedited and proofread</resp>
+          <resp from="2025-10" to="2025-10">Encoded TEI</resp>
+          <resp from="2024-04" to="2025-03">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-04" to="2025-03">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-04" to="2024-05">Reviewed edition for content and scholarship</resp>
+          <resp from="2025-10" to="2025-10">Uploaded / Published digital edition</resp>
+          <resp from="2024-04" to="2025-03">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Nick Anderson</persName>
+          <orgName>nander13@u.rochester.edu</orgName>
+          <resp>University of Rochester, Staff Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lindy Brady</persName>
+          <orgName>bradyli@edgehill.ac.uk</orgName>
+          <resp>Edge Hill University (UK), Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>tcoletti@umd.edu</orgName>
+          <resp>University of Maryland, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>rcopelan@sas.upenn.edu</orgName>
+          <resp>University of Pennsylvania, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>steffidelcourt@gmail.com</orgName>
+          <resp>University of Rochester, Digital Publishing Specialist</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Dewees</persName>
+          <orgName>john.dewees@rochester.edu</orgName>
+          <resp>University of Rochester, Digital Asset Management Lead</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>mdull@library.rochester.edu</orgName>
+          <resp>University of Rochester, Director of Metadata Strategies</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Juan Espinosa</persName>
+          <orgName>jespino5@ur.rochester.edu</orgName>
+          <resp>University of Rochester, Staff Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>sfein@kent.edu</orgName>
+          <resp>Kent State University, Associate Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John A. Geck</persName>
+          <orgName>jgeck@mun.ca</orgName>
+          <resp>Memorial University of Newfoundland, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>alexandra.gillespie@utoronto.ca</orgName>
+          <resp>University of Toronto, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Richard Godden</persName>
+          <orgName>rgodden1@lsu.edu</orgName>
+          <resp>Louisiana State University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>tgoodmann@miami.edu</orgName>
+          <resp>University of Miami, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>thomas.hahn@rochester.edu</orgName>
+          <resp>University of Rochester, General Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Carissa Harris</persName>
+          <orgName>carissa.harris@temple.edu</orgName>
+          <resp>Temple University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Daniel Kephart</persName>
+          <orgName>dkephart@ur.rochester.edu</orgName>
+          <resp>University of Rochester, Senior Staff Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>lawtonda@gmail.com</orgName>
+          <resp>Washington University in St. Louis, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Sierra Lomuto</persName>
+          <orgName>lomuto@rowan.edu</orgName>
+          <resp>Rowan University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>alupack@library.rochester.edu</orgName>
+          <resp>University of Rochester, Associate Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Tamsyn Mahoney-Steel</persName>
+          <orgName>TMahoney-Steel@uclan.ac.uk</orgName>
+          <resp>University of Central Lancashire, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bradley Martin</persName>
+          <orgName>bmartin@library.rochester.edu</orgName>
+          <resp>University of Rochester, IT Support Specialist</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kara McShane</persName>
+          <orgName>klmcshane@gmail.com</orgName>
+          <resp>Ursinus College, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>James Norris</persName>
+          <orgName>mnorris9@u.rochester.edu</orgName>
+          <resp>University of Rochester, Staff Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>kpapas@library.rochester.edu</orgName>
+          <resp>University of Rochester, Section Supervisor, The Robbins Library</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>eprice8@u.rochester.edu</orgName>
+          <resp>Eastman School of Music at the University of Rochester, Senior Staff Editor</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>draybin@eiu.edu</orgName>
+          <resp>Eastern Illinois University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steven Rozenski</persName>
+          <orgName>srozensk@ur.rochester.edu</orgName>
+          <resp>University of Rochester, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>eve.salisbury@wmich.edu</orgName>
+          <resp>Western Michigan University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>annasiebachlarsen@rochester.edu</orgName>
+          <resp>University of Rochester, Executive Director</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>lstaley@colgate.edu</orgName>
+          <resp>Colgate University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>jsuszczynski@library.rochester.edu</orgName>
+          <resp>Univeristy of Rochester, Web Applications Programmer</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>dwallace@english.upenn.edu</orgName>
+          <resp>University of Pennsylvania, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>bwheeler@mail.smu.edu</orgName>
+          <resp>Southern Methodist University, Member</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>pyee@ur.rochester.edu</orgName>
+          <resp>University of Rochester, Managing Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <author>Grosseteste, Robert</author>
+            <editor>Symons, Dana M.</editor>
+            <editor role="translator">Symons, Dana M.</editor>
+            <title>The Middle English Castle of Love and Robert Grosseteste's Anglo-Norman Original,
+              Le chasteau d'amour</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2025</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/symons-castle/blob/main/symons-castle-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Symons-Castle-Export-12-Bib"/>
+      <div type="text">
+        <p style="heading">Manuscripts</p>
+        <listBibl>
+          <bibl>London, British Library, MS Additional 22283, fols. 84v–87r. [Simeon MS; Middle
+            English; ca. 1400]</bibl>
+          <bibl>London, British Library, MS Cotton Appendix VII, fols. 1r–2v. [Middle English;
+            “Foure Daughters”; incomplete; ca. 1400]</bibl>
+          <bibl>London, British Library, MS Egerton 846B, fols. 1r–12v. [Anglo-Norman with Latin
+            prologue; ca. 1325]</bibl>
+          <bibl>London, British Library, MS Egerton 927, fols. 1r–28r. [Middle English; <hi
+              rend="italic">The Myrour of Lewed Men</hi>; ca. 1425]</bibl>
+          <bibl>London, Lambeth Palace Library, MS 522, fols. 1r–49v. [Anglo-Norman with Latin
+            prologue added subsequently on the verso of fol. iii; base text for Mackie-<hi
+              rend="italic">Chasteu</hi>; thirteenth century]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Additional B. 107, fols. 1r–45v. <hi rend="italic"
+              >SC</hi> 29560. Online at <ref
+              target="https://digital.bodleian.ox.ac.uk/objects/b6f6e693-efa2-4a21-a106-d2abc8010764/"
+              type="external"
+              >https://digital.bodleian.ox.ac.uk/objects/b6f6e693-efa2-4a21-a106-d2abc8010764/</ref>.
+            [Middle English; ca. 1425–50; folio 39r available online.]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Ashmole 61, fols. 78v–83r. <hi rend="italic">SC</hi>
+            6922. [Middle English; “The King and His Four Daughters”; ca. late fifteenth
+            century]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Bodley 399, fols. 104v–116r. <hi rend="italic">SC</hi>
+            2230. [Base text for Anglo-Norman <hi rend="italic">Chasteau d’amour</hi>; 1300]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Bodley 652, fols. 52r–64r. <hi rend="italic">SC</hi>
+            2306. [Anglo-Norman with Latin prologue; second half of thirteenth century]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Douce 132, fols. 23r–34v. <hi rend="italic">SC</hi>
+            21706. Online at <ref
+              target="https://digital.bodleian.ox.ac.uk/objects/c1c0bf5b-2282-4465-94fd-541bf2ba1409/surfaces/61c42648-4b6a-440c-a2f3-477de667c29d/#"
+              type="external"
+              >https://digital.bodleian.ox.ac.uk/objects/c1c0bf5b-2282-4465-94fd-541bf2ba1409/surfaces/61c42648-4b6a-440c-a2f3-477de667c29d/#</ref>.
+            [Anglo-Norman with Latin prologue added in another hand on fol. 22v; mid-thirteenth
+            century; select folios available online.]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Eng. poet. a. 1, fols. 293rc–296va. <hi rend="italic"
+              >SC</hi> 3938–3942. Online at <ref
+              target="https://digital.bodleian.ox.ac.uk/objects/52f0a31a-1478-40e4-b05b-fddb1ad076ff/"
+              type="external"
+              >https://digital.bodleian.ox.ac.uk/objects/52f0a31a-1478-40e4-b05b-fddb1ad076ff/</ref>.
+            [Vernon MS; base text for Middle English <hi rend="italic">Castle of Love</hi>; ca.
+            1390–1400]</bibl>
+          <bibl>Oxford, Bodleian Library, MS Laud Misc. 471B, fols. 94r–107v. <hi rend="italic"
+              >SC</hi> 1053. [Anglo-Norman with Latin prologue; ca. 1300]</bibl>
+          <bibl>Oxford, Corpus Christi College Library, MS 232, fols. 1r–35r. [Anglo-Norman with
+            Latin prologue; base text for Murray; ca. 1250]</bibl>
+          <bibl>Paris, Bibliothèque Nationale de France, MS français 902, fols. 99r–108v. Online at
+              <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10032105w" type="external"
+              >https://gallica.bnf.fr/ark:/12148/btv1b10032105w</ref>. [Anglo-Norman with Latin
+            prologue; <hi rend="italic">Chasteau</hi> is in part 1, fourteenth century]</bibl>
+          <bibl>Princeton, Princeton University Library, MS Taylor 1, fols. 172v–198r. Online at
+              <ref target="https://catalog.princeton.edu/catalog/9984214953506421#view"
+              type="external">https://catalog.princeton.edu/catalog/9984214953506421#view</ref>.
+            [Anglo-Norman with Latin prologue; ca. 1280]</bibl>
+        </listBibl>
+        <p style="heading">Primary Sources</p>
+        <listBibl>
+          <bibl>Aquinas, Thomas. <hi rend="italic">Summa Theologiae</hi>. Leonine ed. of Latin,
+            transcr. and rev. The Aquinas Institute. Trans. Laurence Shapcote, ed. and rev. The
+            Aquinas Institute. Online at <ref target="https://aquinas.cc/la/en/~ST.I"
+              type="external">https://aquinas.cc/la/en/~ST.I</ref>.</bibl>
+          <bibl>Augustine. <hi rend="italic">The Trinity</hi>. Trans. Stephen McKenna. Vol. 45 of
+            The Fathers of the Church: A New Translation Series. Washington, DC: The Catholic
+            University of American Press, 1963.</bibl>
+          <bibl>Augustine. <hi rend="italic">Tractates on the Gospel of John, 55–111</hi>. Vol. 90
+            of The Fathers of the Church: A New Translation Series. Trans. John W. Rettig.
+            Washington, DC: The Catholic University of America Press, 1994.</bibl>
+          <bibl>Augustine. <hi rend="italic">On the Trinity: Books 8–15</hi>. Ed. Gareth B.
+            Matthews. Trans. Stephen McKenna. Cambridge: Cambridge University Press, 2002.</bibl>
+          <bibl>Augustine. <hi rend="italic">Sermo de symbolo</hi>. Catholic Library Project. Online
+            at <ref
+              target="https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.040.html&amp;chunk.id=00003173"
+              type="external"
+              >https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.040.html&amp;chunk.id=00003173</ref>.</bibl>
+          <bibl>Boulton, Maureen B. M., ed. and trans. <hi rend="italic">Piety and Persecution in
+              the French Texts of England: Translated with Notes and Introduction</hi>. The French
+            of England Translation Series 6. Tempe, AZ: Arizona Center for Medieval and Renaissance
+            Studies, 2013.</bibl>
+          <bibl>Chaucer, Geoffrey. <hi rend="italic">The Riverside Chaucer</hi>. Gen. ed. Larry D.
+            Benson. Third ed. Boston: Houghton Mifflin Company, 1987.</bibl>
+          <bibl>Dickinson, Francis Henry, ed. <hi rend="italic">Missale Sarum: Ad usum insignis et
+              praeclarae ecclesiae</hi>. Burntisland: Prelo de Pitsligo, 1861. Online at: <ref
+              target="https://archive.org/details/dusumins00cath" type="external"
+              >https://archive.org/details/dusumins00cath</ref>.</bibl>
+          <bibl>Douay-Rheims Bible. Paul Mann, Project Director. 2001–. Online at <ref
+              target="https://www.drbo.org/" type="external">https://www.drbo.org/</ref>.</bibl>
+          <bibl>Doyle, A. I., ed. <hi rend="italic">The Vernon Manuscript: A Facsimile of Bodleian
+              Library, Oxford, MS. Eng. Poet. a.1, with an Introduction by A. I. Doyle</hi>.
+            Cambridge: D. S. Brewer, 1987.</bibl>
+          <bibl>Fein, Susanna Greer, ed. <hi rend="italic">Moral Love Songs and Laments</hi>. METS.
+            Kalamazoo, MI: Medieval Institute Publications, 1998. Online at <ref
+              target="https://metseditions.org/editions/2ppR3352I2DygFvqE2uaY5AH66P250Pje"
+              type="external"
+              >https://metseditions.org/editions/2ppR3352I2DygFvqE2uaY5AH66P250Pje</ref>.</bibl>
+          <bibl>Fein, Susanna, ed. and trans. <hi rend="italic">The Owl and the Nightingale and the
+              English Poems of Jesus College MS 29 (II)</hi>. METS. Kalamazoo, MI: Medieval
+            Institute Publications, 2022. Online at <ref
+              target="https://metseditions.org/editions/Z9dDbXAruNMVwHbW1igm5zFl2wp5jDGL"
+              type="external"
+              >https://metseditions.org/editions/Z9dDbXAruNMVwHbW1igm5zFl2wp5jDGL</ref>.</bibl>
+          <bibl>Fein, Susanna, ed. and trans. <hi rend="italic">The Owl and the Nightingale</hi>. In
+            Fein, <hi rend="italic">Owl</hi>. Pp. 70–153, 318–43, 412–21. Online at <ref
+              target="https://metseditions.org/texts/jXW3Z3w1svMbbCgaRh1kvdUA6r6XAWw8"
+              type="external"
+            >https://metseditions.org/texts/jXW3Z3w1svMbbCgaRh1kvdUA6r6XAWw8</ref>.</bibl>
+          <bibl>Fein, Susanna, ed. and trans. <hi rend="italic">Poema Morale</hi>. In Fein, <hi
+              rend="italic">Owl</hi>. Pp. 154–75, 334–50, 422–23. Online at <ref
+              target="https://metseditions.org/texts/56a4LYmfzQdVIm2QfmrQbF492dZ3kpR"
+              type="external"
+            >https://metseditions.org/texts/56a4LYmfzQdVIm2QfmrQbF492dZ3kpR</ref>.</bibl>
+          <bibl>Furnivall, F. J., ed. <hi rend="italic">The Minor Poems of the Vernon MS. Part 2.
+              With a Few from the Digby MSS. 2 and 86</hi>. EETS o.s. 117. London: Kegan Paul,
+            Trench, Trübner, 1901. Online at <ref
+              target="https://archive.org/details/minorpoemsofvern0000fjfu" type="external"
+              >https://archive.org/details/minorpoemsofvern0000fjfu</ref>.</bibl>
+          <bibl>Furnivall, F. J., ed. “Ubi sount qui ante nos fuerunt?” In Furnivall, <hi
+              rend="italic">Minor Poems</hi>. Pp. 757–63.</bibl>
+          <bibl>Gower, John. <hi rend="italic">Confessio Amantis</hi>. Ed. Russell A. Peck. 2nd. ed.
+            3 vols. METS. Kalamazoo, MI: Medieval Institute Publications, 2006–2013. Online at <ref
+              target="https://metseditions.org/editions/Q0qN0kDGCE3Nh71RTa2VgUjmgl5r94m"
+              type="external"
+              >https://metseditions.org/editions/Q0qN0kDGCE3Nh71RTa2VgUjmgl5r94m</ref>.</bibl>
+          <bibl>Grosseteste, Robert. <hi rend="italic">The Castle of Love: A Poem by Robert
+              Grosseteste, Bishop of Lincoln. Now First Printed from Inedited Manuscripts of the
+              Fourteenth Century</hi>. Ed. James Orchard Halliwell. London: C. and J. Adlard, 1849.
+            Online at <ref
+              target="https://babel.hathitrust.org/cgi/pt?id=uiug.30112076122982&amp;view=1up&amp;seq=11"
+              type="external"
+              >https://babel.hathitrust.org/cgi/pt?id=uiug.30112076122982&amp;view=1up&amp;seq=11</ref>.</bibl>
+          <bibl>Grosseteste, Robert. <hi rend="italic">Robert Grossetete’s Chasteau d’amour: To
+              Which Are Added “La vie de sainte Maire Egyptienne” and an English Version of the
+              Chasteau d’amour</hi>. Ed. M. Cooke. London: J. R. Smith for the Caxton Society, 1852.
+            Online at <ref
+              target="https://archive.org/details/anr4856.0015.001.umich.edu/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/anr4856.0015.001.umich.edu/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Grosseteste, Robert. <hi rend="italic">Castel Off Loue (Chasteau d’amour Or Carmen
+              de Creatione Mundi): An Early English Translation Of An Old French Poem by Robert
+              Grosseteste Bishop Of Lincoln: Copied And Edited From MSS. in the British Museum, and
+              in the Bodleian Library, Oxford, with Notes, Critical and Exegetical, and
+              Glossary</hi>. Edited by R. F. Weymouth. London: Asher, 1864. Online at <ref
+              target="https://archive.org/details/castelofflouecha00grosuoft" type="external"
+              >https://archive.org/details/castelofflouecha00grosuoft</ref>.</bibl>
+          <bibl>Grosseteste, Robert. <hi rend="italic">The Castel of Loue</hi>. In <hi rend="italic"
+              >The Minor Poems of the Vernon MS. Part I</hi>. Ed. Carl Horstmann, with side notes by
+            F. J. Furnivall. EETS o.s. 98. London: Kegan Paul, Trench, Trübner, 1892. Pp. 355–406.
+            Online at <ref target="https://archive.org/details/minorpoemsofvern0000carl"
+              type="external">https://archive.org/details/minorpoemsofvern0000carl</ref>.</bibl>
+          <bibl>Grosseteste, Robert. <hi rend="italic">The Castle of Love</hi>. In Furnivall, <hi
+              rend="italic">Minor Poems</hi>. Pp. 751–52.</bibl>
+          <bibl>Grosseteste, Robert. <hi rend="italic">Le Château d’Amour de Robert Grosseteste,
+              Eveque de Lincoln</hi>. Ed. J. Murray. Paris: Librarie Champion, 1918. Online at <ref
+              target="https://archive.org/details/lechateaudamoure00grosuoft/lechateaudamoure00grosuoft/"
+              type="external"
+              >https://archive.org/details/lechateaudamoure00grosuoft/lechateaudamoure00grosuoft/</ref>.</bibl>
+          <bibl>Grosseteste, Robert. <hi rend="italic">The Middle English Translations of Robert
+              Grosseteste’s Châ</hi><hi rend="italic">teau d’Amour</hi>. Ed. Kari Sajavaara.
+            Mémoires de la Société Néophilologique de Helsinki 32. Helsinki: Société
+            Néophilologique, 1967. Online at <ref
+              target="https://archive.org/details/middleenglishtra0000gros" type="external"
+              >https://archive.org/details/middleenglishtra0000gros</ref>.</bibl>
+          <bibl>Grosseteste, Robert. “Robert Grosseteste’s <hi rend="italic">Chasteu d’amour</hi>: A
+            Text in Context.” Ed. Evelyn Anne Mackie. Ph.D. Dissertation: University of Toronto,
+            2002. Online at <ref target="https://hdl.handle.net/1807/118696" type="external"
+              >https://hdl.handle.net/1807/118696</ref>.</bibl>
+          <bibl>Grosseteste, Robert. “Grosseteste’s <hi rend="italic">Dicta</hi>: A Working
+            Edition.” Ed. Edwin J. Westermann and Joseph W. Goering. <hi rend="italic">Ordered
+              Universe</hi>. 2003. Online at <ref target="https://ordered-universe.com/dicta/"
+              type="external">https://ordered-universe.com/dicta/</ref>.</bibl>
+          <bibl>Grosseteste, Robert. “Robert Grosseteste’s Anglo-Norman Treatise on the Loss and
+            Restoration of Creation, Commonly Known as <hi rend="italic">Le Château d’amour</hi>: An
+            English Prose Translation.” Trans. Evelyn Mackie. In O’Carroll, <hi rend="italic">Robert
+              Grosseteste and the Beginnings of a British Theological Tradition</hi>, Pp.
+            151–79.</bibl>
+          <bibl>Grosseteste, Robert. “Roberti Grosseteste Epistola Quinta.” Ed. H. R. Luard. In
+            O’Carroll, <hi rend="italic">Robert Grosseteste and the Beginnings of a British
+              Theological Tradition</hi>. Pp. 194–97.</bibl>
+          <bibl>Grosseteste, Robert. “Roberti Grosseteste Epistola Quinta: An English Translation.”
+            Trans. F. A. C. Mantello and J. W. Goering. In O’Carroll, <hi rend="italic">Robert
+              Grosseteste and the Beginnings of a British Theological Tradition</hi>. Pp.
+            197–200.</bibl>
+          <bibl>Grosseteste, Robert. “The King and His Four Daughters.” Ed. George Shuffelton. In
+            Shuffelton, <hi rend="italic">Codex Ashmole 61</hi>. Pp. 211–21; 501–05; 610. Online at
+              <ref target="https://metseditions.org/texts/PAzpwvEupjLLuLrPuYPxjcrqvkg0L6K"
+              type="external"
+            >https://metseditions.org/texts/PAzpwvEupjLLuLrPuYPxjcrqvkg0L6K</ref>.</bibl>
+          <bibl>Grosseteste, Robert. <hi rend="italic">The Letters of Robert Grosseteste, Bishop of
+              Lincoln</hi>. Trans. Frank A. C. Mantello and Joseph Goering. Toronto: University of
+            Toronto Press, 2010.</bibl>
+          <bibl>Grosseteste, Robert. <hi rend="italic">On the Cessation of the Laws</hi>. Trans.
+            Stephen M. Hildebrand. The Fathers of the Church, Mediaeval Continuation 13. Washington,
+            DC: Catholic University of America Press, 2012.</bibl>
+          <bibl>Grosseteste, Robert. <hi rend="italic">The Castle of Love (Le Chasteau
+            d’amour)</hi>. In Boulton, <hi rend="italic">Piety and Persecution</hi>. Pp.
+            61–89.</bibl>
+          <bibl>Guillaume de Lorris and Jean de Meun. <hi rend="italic">Le roman de la Rose [The
+              Romance of the Rose]</hi>. Ed. Félix Lecoy. 3 vols. Les Classiques Français du Moyen
+            Age 92, 95, 98. Paris: H. Champion, 1970–1974.</bibl>
+          <bibl>Guillaume de Lorris and Jean de Meun. <hi rend="italic">The Romance of the
+            Rose</hi>. Trans. Charles Dahlberg. Hanover and London: University Press of New England,
+            1986.</bibl>
+          <bibl>Hasenfratz, Robert, ed. <hi rend="italic">Ancrene Wisse</hi>. METS. Kalamazoo, MI:
+            Medieval Institute Publications, 2000. Online at <ref
+              target="https://metseditions.org/editions/rllVXVrvU9e9Ncp3VCwRkwSrmzXDX6kM"
+              type="external"
+              >https://metseditions.org/editions/rllVXVrvU9e9Ncp3VCwRkwSrmzXDX6kM</ref>.</bibl>
+          <bibl>Huber, Emily Rebekah, and Elizabeth Robertson, eds. <hi rend="italic">The Katherine
+              Group (MS Bodley 34)</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 2016.
+            Online at <ref
+              target="https://metseditions.org/editions/plEPa2NujgQpTBzVWsN8zMUZRQqZ5BXR"
+              type="external"
+              >https://metseditions.org/editions/plEPa2NujgQpTBzVWsN8zMUZRQqZ5BXR</ref>.</bibl>
+          <bibl>Huber, Emily Rebekah, and Elizabeth Robertson, eds. <hi rend="italic">Sawles
+              Warde</hi>. In Huber and Robertson, <hi rend="italic">Katherine Group</hi>. Pp.
+            249–79. Online at <ref
+              target="https://metseditions.org/texts/1vDNwbVCDyY8Ivm6uzRdYT01MYY6wEq"
+              type="external"
+            >https://metseditions.org/texts/1vDNwbVCDyY8Ivm6uzRdYT01MYY6wEq</ref>.</bibl>
+          <bibl>Klausner, David N., ed. <hi rend="italic">The Castle of Perseverance</hi>. METS.
+            Kalamazoo, MI: Medieval Institute Publications, 2010. Online at <ref
+              target="https://metseditions.org/editions/Dw3KArDfzM08ikL6C7kk5hpYQNBwNwM"
+              type="external"
+              >https://metseditions.org/editions/Dw3KArDfzM08ikL6C7kk5hpYQNBwNwM</ref>.</bibl>
+          <bibl>Latin Vulgate Bible. Paul Mann, Project Director. 2001–. Online at <ref
+              target="https://www.drbo.org/lvb/" type="external"
+            >https://www.drbo.org/lvb/</ref>.</bibl>
+          <bibl>Langland, William. <hi rend="italic">The Vision of William Concerning Piers the
+              Plowman: According to the Version Revised and Enlarged by the Author about A.D.
+              1377</hi>. Ed. Walter W. Skeat. Oxford: Clarendon Press, 1869. Online at <ref
+              target="https://archive.org/details/visionwilliamco00skeagoog/page/n2/mode/2up"
+              type="external"
+              >https://archive.org/details/visionwilliamco00skeagoog/page/n2/mode/2up</ref>.</bibl>
+          <bibl>Langland, William. <hi rend="italic">Piers Plowman</hi>. Ed. Elizabeth Robertson and
+            Stephen H. A. Shepherd. New York: W. W. Norton, 2006.</bibl>
+          <bibl>Percival, Henry R., ed. and trans. “The Nicene Creed.” In <hi rend="italic">The
+              Seven Ecumenical Councils of The Undivided Church: Their Canons and Dogmatic Decrees,
+              together with the Canons of All the Local Synods Which Have Received Ecumenical
+              Acceptance</hi>. Vol. 14 of <hi rend="italic">Nicene and Post-Nicene Fathers of the
+              Christian Church</hi>. 2nd series. Gen. ed. Philip Schaff and Henry Wace. New York:
+            Christian Literature Company, 1905. P. 3. Online at <ref
+              target="https://babel.hathitrust.org/cgi/pt?id=njp.32101063614786&amp;seq=47"
+              type="external"
+              >https://babel.hathitrust.org/cgi/pt?id=njp.32101063614786&amp;seq=47</ref>.</bibl>
+          <bibl>Rauf de Linham. <hi rend="italic">Kalender</hi>. Ed. Tony Hunt. London: Anglo-Norman
+            Text Society, 1983. Online at <ref
+              target="https://anglo-norman.net/textbase-browse/kalender" type="external"
+              >https://anglo-norman.net/textbase-browse/kalender</ref>.</bibl>
+          <bibl>Scase, Wendy, ed. <hi rend="italic">A Facsimile Edition of the Vernon Manuscript:
+              Oxford, Bodleian Library, MS Eng. Poet. A. 1</hi>. Software by Nick Kennedy. Oxford:
+            Bodleian Library Publishing, 2019. Online at <ref
+              target="https://ora.ox.ac.uk/objects/uuid:797a4c33-cb7b-4fbc-b939-2412769ead1f"
+              type="external"
+              >https://ora.ox.ac.uk/objects/uuid:797a4c33-cb7b-4fbc-b939-2412769ead1f</ref>.</bibl>
+          <bibl>Shuffelton, George, ed. <hi rend="italic">Codex Ashmole 61: A Compilation of Popular
+              Middle English Verse</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 2008.
+            Online at <ref
+              target="https://metseditions.org/editions/P1zbv5E7cpKz0hWBZAtY2D6SP5Ywl8Dwg"
+              type="external"
+              >https://metseditions.org/editions/P1zbv5E7cpKz0hWBZAtY2D6SP5Ywl8Dwg</ref>.</bibl>
+          <bibl>Shuffelton, George, ed. <hi rend="italic">Ypotis</hi>. In Shuffelton, <hi
+              rend="italic">Codex Ashmole 61</hi>. Pp. 221–32; 505–12; 610–11. Online at <ref
+              target="https://metseditions.org/texts/wmx738v3hRl8aHaLYUywwmCmG0NW7r9N"
+              type="external"
+            >https://metseditions.org/texts/wmx738v3hRl8aHaLYUywwmCmG0NW7r9N</ref>.</bibl>
+          <bibl>Thomas of Hales. <hi rend="italic">Love Rune</hi>. In Fein, <hi rend="italic"
+              >Owl</hi>. Pp. 249–54, 377–87, 428–29. Online at <ref
+              target="https://metseditions.org/texts/DMXVxMLKHzp34SNvBu7e94cB0Z62lbRM"
+              type="external"
+            >https://metseditions.org/texts/DMXVxMLKHzp34SNvBu7e94cB0Z62lbRM</ref>.</bibl>
+          <bibl>Thompson, John J., ed. <hi rend="italic">The Cursor Mundi: Poem, Texts and
+              Contexts</hi>. Medium Æevum Monographs, n.s. 19. Oxford: Society for the Study of
+            Medieval Languages and Literature, 1998.</bibl>
+          <bibl>Wycliffe, John. “John Wycliffe Bible 1382.” <hi rend="italic">Textus Receptus
+              Bibles</hi>. MasonSoft Technology, 2022. Online at <ref
+              target="https://textusreceptusbibles.com/Wycliffe" type="external"
+              >https://textusreceptusbibles.com/Wycliffe</ref>.</bibl>
+        </listBibl>
+        <p style="heading">Secondary Sources</p>
+        <listBibl>
+          <bibl>Alford, John A. “Literature and Law in Medieval England.” <hi rend="italic"
+              >PMLA</hi> 92, no. 5 (October 1977), 941–51. Online at <ref
+              target="https://www.jstor.org/stable/461847" type="external"
+              >https://www.jstor.org/stable/461847</ref>.</bibl>
+          <bibl><hi rend="italic">Anglo-Norman Dictionary</hi>. In <hi rend="italic">Anglo-Norman
+              On-Line Hub</hi>. Ed. Geert De Wilde et al. University of Aberystwyth, 2001–. Online
+            at <ref target="https://anglo-norman.net/" type="external"
+              >https://anglo-norman.net/</ref>.</bibl>
+          <bibl>Ayres, Lewis. <hi rend="italic">Nicaea and Its Legacy: An Approach to Fourth-Century
+              Trinitarian Theology</hi>. Oxford: Oxford University Press, 2004.</bibl>
+          <bibl>Ayres, Lewis. <hi rend="italic">Augustine and the Trinity</hi>. Cambridge: Cambridge
+            University Press, 2010.</bibl>
+          <bibl>Bennett, Adelaide. “A Book Designed for a Noblewoman: An Illustrated ‘Manuel des
+            Peches’ of the Thirteenth Century.” In <hi rend="italic">Medieval Book Production:
+              Assessing the Evidence: Proceedings of the Second Conference of The Seminar in the
+              History of the Book to 1500, Oxford, July 1988</hi>. Ed. Linda L. Brownrigg. Los Altos
+            Hills, CA: Anderson-Lovelace / Red Gull Press, 1990. Pp. 164–81.</bibl>
+          <bibl>Biernoff, Suzannah. <hi rend="italic">Sight and Embodiment in the Middle Ages</hi>.
+            Basingstoke and New York: Palgrave MacMillan, 2002.</bibl>
+          <bibl>Blake, N. F. “Vernon Manuscript: Contents and Organisation.” In Pearsall, <hi
+              rend="italic">Studies in the Vernon Manuscript</hi>. Pp. 45–59.</bibl>
+          <bibl>Boer, Harry R. <hi rend="italic">A Short History of the Early Church</hi>. Grand
+            Rapids, MI: Eerdmans Publishing, 1976.</bibl>
+          <bibl>Boffey, Julia, and A. S. G. Edwards. <hi rend="italic">A New Index of Middle English
+              Verse</hi>. London: The British Library, 2005.</bibl>
+          <bibl>Boklund-Lagopoulou, Karin. “<hi rend="italic">Yate of Heven</hi>: Conceptions of the
+            Female Body in the Religious Lyrics.” In Whitehead and Renevey, <hi rend="italic"
+              >Writing Religious Women</hi>. Pp. 133–54.</bibl>
+          <bibl>Boulton, Maureen B. M. “Introduction.” In Boulton, <hi rend="italic">Piety and
+              Persecution</hi>. Pp. 1–58.</bibl>
+          <bibl>Boulton, Maureen B. M. “The Fourth Lateran Council and Vernacular <hi rend="italic"
+              >Pastoralia</hi>: An Introduction.” In Boulton, <hi rend="italic">Literary Echoes of
+              the Fourth Lateran Council</hi>. Pp. 1–45.</bibl>
+          <bibl>Boulton, Maureen B. M., ed. <hi rend="italic">Literary Echoes of the Fourth Lateran
+              Council in England and France, 1215–1405</hi>. Papers in Medieval Studies 31. Toronto:
+            Pontifical Institute of Mediaeval Studies, 2019.</bibl>
+          <bibl>Boyle, Leonard E. “Robert Grosseteste and the Pastoral Care.” <hi rend="italic"
+              >Medieval and Renaissance Studies</hi> 8 (1979), 3–51. Online at <ref
+              target="https://archive.org/details/medievalrenaissa0000sout_y0k0/mode/2up"
+              type="external"
+              >https://archive.org/details/medievalrenaissa0000sout_y0k0/mode/2up</ref>.</bibl>
+          <bibl>Bradbury, Nancy Mason. <hi rend="italic">Writing Aloud: Storytelling in Late
+              Medieval England</hi>. Urbana and Chicago: University of Illinois Press, 1998.</bibl>
+          <bibl>Brown, Carleton, and Rossell Hope Robbins. <hi rend="italic">The Index of Middle
+              English Verse</hi>. New York: Columbia University Press, 1943.</bibl>
+          <bibl>Brown, Stephen F. “Trinity.” In <hi rend="italic">Encyclopedia of Medieval
+              Philosophy</hi>. 2:1337–40.</bibl>
+          <bibl>Brown, Stephen F., and Juan Carlos Flores. <hi rend="italic">The A to Z of Medieval
+              Philosophy and Theology</hi>. A to Z Guide Series 170. Lanham, MD: Scarecrow Press,
+            2010.</bibl>
+          <bibl>Campbell, William H. <hi rend="italic">The Landscape of Pastoral Care in
+              Thirteenth-Century England</hi>. Cambridge: Cambridge University Press, 2018.</bibl>
+          <bibl>Coleman, Joyce. <hi rend="italic">Public Reading and the Reading Public in Late
+              Medieval England and France</hi>. Cambridge Studies in Medieval Literature 26.
+            Cambridge: Cambridge University Press, 1996.</bibl>
+          <bibl>Collette, Carolyn P. “Chaucer’s Discourse of Mariology: Gaining the Right to Speak.”
+            In <hi rend="italic">Art and Context in Late Medieval English Narrative: Essays in Honor
+              of Robert Worth Frank, Jr</hi>. Ed. Robert R. Edwards. Cambridge: D. S. Brewer, 1994.
+            Pp. 127–47.</bibl>
+          <bibl>Cornelius, Roberta Douglas. “The Figurative Castle: A Study in the Mediæval Allegory
+            of the Edifice with Especial Reference to Religious Writings.” Ph.D. Dissertation: Bryn
+            Mawr College, 1930.</bibl>
+          <bibl>Creek, Sister Mary Immaculate. “The Sources and Influence of Robert Grosseteste’s
+              <hi rend="italic">Le Chasteau d’Amour</hi>.” Ph.D. Dissertation: Yale University,
+            1941. Online at <ref
+              target="https://www.proquest.com/openview/26bd2030222371a8ca1b7048a7605567/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"
+              type="external"
+              >https://www.proquest.com/openview/26bd2030222371a8ca1b7048a7605567/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y</ref>.
+            [First 24 pages accessible online.]</bibl>
+          <bibl>Creek, Sister Mary Immaculate. “The Four Daughters of God in the <hi rend="italic"
+              >Gesta Romanormum</hi> and the <hi rend="italic">Court of Sapience</hi>.” <hi
+              rend="italic">PMLA</hi> 57, no. 4 (December 1942), 951–65. Online at <ref
+              target="https://www.jstor.org/stable/458870" type="external"
+              >https://www.jstor.org/stable/458870</ref>.</bibl>
+          <bibl>Cunningham, Jack P., and Mark Hocknull, eds. <hi rend="italic">Robert Grosseteste
+              and the Pursuit of Religious and Scientific Learning in the Middle Ages</hi>. Studies
+            in the History of Philosophy of Mind 18. Cham: Springer, 2016.</bibl>
+          <bibl>Davis, Rebecca. <hi rend="italic">Piers Plowman and the Books of Nature</hi>. Oxford
+            and New York: Oxford University Press, 2016.</bibl>
+          <bibl>Dearnley, Elizabeth. <hi rend="italic">Translators and Their Prologues in Medieval
+              England</hi>. Cambridge: D. S. Brewer, 2016.</bibl>
+          <bibl>Dennison, Lynda. “The Artistic Origins of the Vernon Manuscript.” In Scase, <hi
+              rend="italic">Making of the Vernon Manuscript</hi>. Pp. 171–205.</bibl>
+          <bibl><hi rend="italic">A Dictionary of Biblical Tradition in English Literature</hi>.
+            Gen. ed. David L. Jeffrey. Grand Rapids, MI: Eerdmans Publishing, 1992.</bibl>
+          <bibl><hi rend="italic">The DIMEV: An Open-Access, Digital Edition of the Index of Middle
+              English Verse</hi>. Ed. Linne R. Mooney, Daniel W. Mosser, and Elizabeth Solopova,
+            with Deborah Thorpe, David Hill Radcliffe, and Len Hatfield. Online at <ref
+              target="https://www.dimev.net/index.html" type="external"
+              >https://www.dimev.net/index.html</ref>.</bibl>
+          <bibl>Doyle, A. I. “Introduction.” In Doyle, <hi rend="italic">Vernon Manuscript</hi>. Pp.
+            1–16.</bibl>
+          <bibl>Doyle, A. I. “The Shaping of the Vernon and Simeon Manuscripts.” In Pearsall, <hi
+              rend="italic">Studies in the Vernon Manuscript</hi>. Pp. 1–13.</bibl>
+          <bibl>Doyle, A. I. “Codicology, Palaeography, and Provenance.” In Scase, <hi rend="italic"
+              >Making of the Vernon Manuscript</hi>. Pp. 3–25.</bibl>
+          <bibl>Dunham, Scott. A. <hi rend="italic">The Trinity and Creation in Augustine: An
+              Ecological Analysis</hi>. Albany: State University of New York Press, 2008.</bibl>
+          <bibl>Eco, Umberto. <hi rend="italic">Art and Beauty in the Middle Ages</hi>. Trans. Hugh
+            Bredin. New Haven and London: Yale University Press, 1986.</bibl>
+          <bibl>Edwards, John. “The Church and the Jews in Medieval England.” In <hi rend="italic"
+              >The Jews in Medieval Britain: Historical, Literary, and Archaeological
+              Perspectives</hi>. Ed. Patricia Skinner. Woodbridge: Boydell Press, 2003. Pp.
+            85–95.</bibl>
+          <bibl>Emerson, Jan Swango, and Hugh Feiss, O.S.B., eds. <hi rend="italic">Imagining Heaven
+              in the Middle Ages: A Book of Essays</hi>. New York: Garland Publishing, 2000.
+            Reprint, London and New York: Taylor and Francis, 2013.</bibl>
+          <bibl>Emmerson, Richard K. “Last Judgment.” In <hi rend="italic">Dictionary of Biblical
+              Tradition in English Literature</hi>. Pp. 434–36.</bibl>
+          <bibl><hi rend="italic">Encyclopedia of Medieval Philosophy: Philosophy Between 500 and
+              1500</hi>. 2 vols. Ed. Henrik Lagerlund. Dordrecht: Springer, 2011.</bibl>
+          <bibl>Evans, G. R. <hi rend="italic">A Brief History of Heresy</hi>. Malden, MA:
+            Blackwell, 2003.</bibl>
+          <bibl>Farnham, Rebecca. “Border Artists of the Vernon Manuscript.” In Scase, <hi
+              rend="italic">Making of the Vernon Manuscript</hi>. Pp. 127–48.</bibl>
+          <bibl>Faulkner, Mark. <hi rend="italic">A New Literary History of the Long Twelfth
+              Century: Language and Literature between Old and Middle English</hi>. Cambridge:
+            Cambridge University Press, 2022.</bibl>
+          <bibl>Fenster, Thelma, and Carolyn P. Collette, eds. <hi rend="italic">The French of
+              Medieval England: Essays in Honour of Jocelyn Wogan-Browne</hi>. Cambridge: D. S.
+            Brewer, 2017.</bibl>
+          <bibl>Fenster, Thelma, and Carolyn P. Collette. “Introduction: Recognizing the French of
+            Medieval England.” In Fenster and Collette, <hi rend="italic">French of Medieval
+              England</hi>. Pp. 1–12.</bibl>
+          <bibl>Flood, John, James R. Ginther, and Joseph W. Goering, eds. <hi rend="italic">Robert
+              Grosseteste and His Intellectual Milieu: New Editions and Studies</hi>. Papers in
+            Mediaeval Studies 24. Toronto: Pontifical Institute of Medieval Studies, 2013.</bibl>
+          <bibl>Foulet, Alfred Lucien, and Mary Blakely Speer. <hi rend="italic">On Editing Old
+              French Texts</hi>. Lawrence: Regents Press of Kansas, 1979.</bibl>
+          <bibl>Friedman, Russell L. <hi rend="italic">Medieval Trinitarian Thought from Aquinas to
+              Ockham</hi>. Cambridge: Cambridge University Press, 2010.</bibl>
+          <bibl>“The Fuller Russell Library, Part 1.” <hi rend="italic">The Athenæum: Journal of
+              Literature, Science, the Fine Arts, Music, and the Drama</hi>, part 1 (Jan. to June,
+            1885), 682. Online at <ref
+              target="https://babel.hathitrust.org/cgi/pt?id=uc1.l0082553876&amp;view=1up&amp;seq=7"
+              type="external"
+              >https://babel.hathitrust.org/cgi/pt?id=uc1.l0082553876&amp;view=1up&amp;seq=7</ref>.</bibl>
+          <bibl>Gardiner, Eileen. <hi rend="italic">Medieval Visions of Heaven and Hell: A
+              Sourcebook</hi>. New York and London: Garland Publishing, 1993.</bibl>
+          <bibl>Ginther, James R. “Robert Grosseteste’s Theology of Pastoral Care.” In <hi
+              rend="italic">A Companion to Pastoral Care in the Late Middle Ages (1200–1500)</hi>.
+            Ed. Ronald J. Stansbury. Brill’s Companions to the Christian Tradition 23. Leiden and
+            Boston: Brill, 2010. Pp. 95–122.</bibl>
+          <bibl>Godefroy, Frédéric. <hi rend="italic">Lexique de l’ancien français</hi>. Ed. J.
+            Bonnard and Am. Salmon. Paris and Leipzig: H. Welter, 1901. Online at <ref
+              target="https://archive.org/details/lexiquedelancie00salmgoog/mode/2up"
+              type="external"
+            >https://archive.org/details/lexiquedelancie00salmgoog/mode/2up</ref>.</bibl>
+          <bibl>Goering, Joseph. “Robert Grosseteste and the Jews of Leicester.” In O’Carroll, <hi
+              rend="italic">Robert Grosseteste and the Beginnings of a British Theological
+              Tradition</hi>. Pp. 181–93.</bibl>
+          <bibl>Gooch, Paul W. “Resurrection.” In <hi rend="italic">Dictionary of Biblical Tradition
+              in English Literature</hi>. Pp. 662–65.</bibl>
+          <bibl>Gordon, Stephen. “Sensory Satires and the Virtues of Herbs in <hi rend="italic">Sir
+              Thopas</hi>’s Fair Forest.” <hi rend="italic">Studies in Philology</hi> 119, no. 2
+            (Spring 2022), 191–208. Online at <ref
+              target="https://www.jstor.org/stable/10.2307/27118832" type="external"
+              >https://www.jstor.org/stable/10.2307/27118832</ref>.</bibl>
+          <bibl>Gravdal, Kathryn. <hi rend="italic">Ravishing Maidens: Writing Rape in Medieval
+              French Literature and Law</hi>. Philadelphia: University of Pennsylvania Press,
+            1991.</bibl>
+          <bibl>Haenisch, Hugo. “Inquiry into the Sources of the <hi rend="italic">Cursor
+            Mundi</hi>.” Ph.D. Dissertation: Universität Breslau, 1884. Online at <ref
+              target="https://www.google.com/books/edition/_/HydAAAAAIAAJ?hl=en&amp;gbpv=1&amp;pg=PP6&amp;dq=haenisch"
+              type="external"
+              >https://www.google.com/books/edition/_/HydAAAAAIAAJ?hl=en&amp;gbpv=1&amp;pg=PP6&amp;dq=haenisch</ref>.</bibl>
+          <bibl>Hahn, Thomas. “Early Middle English.” In <hi rend="italic">The Cambridge History of
+              Medieval English Literature</hi>. Ed. David Wallace. Cambridge: Cambridge University
+            Press, 1999. Pp. 61–91.</bibl>
+          <bibl>Hastings, Adrian, Alistair Mason, and Hugh Pyper, eds. <hi rend="italic">The Oxford
+              Companion to Christian Thought: Intellectual, Spiritual, and Moral Horizons of
+              Christianity</hi>. Oxford: Oxford University Press, 2000.</bibl>
+          <bibl>Heist, William W. <hi rend="italic">The Fifteen Signs Before Doomsday</hi>. East
+            Lansing: Michigan State College Press, 1952. Online at <ref
+              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015010721762&amp;seq=7"
+              type="external"
+              >https://babel.hathitrust.org/cgi/pt?id=mdp.39015010721762&amp;seq=7</ref>.</bibl>
+          <bibl>Hill, Betty. “A Manuscript from Nuneaton: Cambridge Fitzwilliam Museum MS McLean
+            123.” <hi rend="italic">Transactions of the Cambridge Bibliographical Society</hi> 12,
+            no. 3 (2002), 191–205. Online at <ref target="https://www.jstor.org/stable/41154912"
+              type="external">https://www.jstor.org/stable/41154912</ref>.</bibl>
+          <bibl>Horobin, Simon. “The Scribes of the Vernon Manuscript.” In Scase, <hi rend="italic"
+              >Making of the Vernon Manuscript</hi>. Pp. 27–47.</bibl>
+          <bibl>Hoskin, Philippa M. <hi rend="italic">Robert Grosseteste and the 13th-Century
+              Diocese of Lincoln: An English Bishop’s Pastoral Vision</hi>. Later Medieval Europe
+            19. Leiden and Boston: Brill, 2019.</bibl>
+          <bibl>Howard, Donald Roy. <hi rend="italic">Three Temptations: Medieval Man in Search of
+              the World</hi>. Princeton: Princeton University Press, 1966.</bibl>
+          <bibl>Howes, Hetta Elizabeth. <hi rend="italic">Transformative Waters in Late-Medieval
+              Literature: From Aelred of Rievaulx to The Book of Margery Kempe</hi>. Cambridge: D.
+            S. Brewer, 2021.</bibl>
+          <bibl>Hunt, Tony. “‘The Four Daughters of God’: A Textual Contribution.” <hi rend="italic"
+              >Archives d’histoire doctrinale et littéraire du Moyen Age</hi> 48 (1981), 287–316.
+            Online at <ref target="https://www.jstor.org/stable/44403730" type="external"
+              >https://www.jstor.org/stable/44403730</ref>.</bibl>
+          <bibl>Ingham, Richard. “Mixing Languages on the Manor.” <hi rend="italic">Medium Ævum</hi>
+            78, no. 1 (2009), 80–97. Online at <ref target="https://www.jstor.org/stable/43632800"
+              type="external">https://www.jstor.org/stable/43632800</ref>.</bibl>
+          <bibl>Ingham, Richard. “The Persistence of Anglo-Norman 1230–1362: A Linguistic
+            Perspective.” In Wogan-Browne et al., <hi rend="italic">Language and Culture in Medieval
+              Britain</hi>. Pp. 44–54.</bibl>
+          <bibl>“Introduction to Medieval Books.” Manuscripts and Special Collections. Nottingham:
+            University of Nottingham, 2011. Online at <ref
+              target="https://www.nottingham.ac.uk/manuscriptsandspecialcollections/researchguidance/medievalbooks/introduction.aspx"
+              type="external"
+              >https://www.nottingham.ac.uk/manuscriptsandspecialcollections/researchguidance/medievalbooks/introduction.aspx</ref>.</bibl>
+          <bibl>Izbicki, Thomas. “Immaculate Conception, Doctrine of.” In <hi rend="italic">Women
+              and Gender in Medieval Europe: An Encyclopedia</hi>. Ed. Margaret Schaus. New York:
+            Routledge, 2006. Pp. 396–97.</bibl>
+          <bibl>Jacobs, Jonathan A., ed. <hi rend="italic">Reason, Religion, and Natural Law: From
+              Plato to Spinoza</hi>. Oxford: Oxford University Press, 2012.</bibl>
+          <bibl>Jager, Eric. <hi rend="italic">The Tempter’s Voice: Language and the Fall in
+              Medieval Literature</hi>. Ithaca, NY: Cornell University Press, 1993.</bibl>
+          <bibl>Jahner, Jennifer. <hi rend="italic">Literature and Law in the Era of Magna
+              Carta</hi>. Oxford: Oxford University Press, 2019.</bibl>
+          <bibl>Jeffrey, David L. “Aaron.” In <hi rend="italic">Dictionary of Biblical Tradition in
+              English Literature</hi>. Pp. 1–4.</bibl>
+          <bibl>Jeffrey, David L. “Crown of Thorns.” In <hi rend="italic">Dictionary of Biblical
+              Tradition in English Literature</hi>. P. 173.</bibl>
+          <bibl>Jeffrey, David L. “Longinus.” In <hi rend="italic">Dictionary of Biblical Tradition
+              in English Literature</hi>. P. 461.</bibl>
+          <bibl>Jeffrey, David L. “Mary, Mother of Jesus.” In <hi rend="italic">Dictionary of
+              Biblical Tradition in English Literature</hi>. Pp. 489–93.</bibl>
+          <bibl>Jeffrey, David L. “Thomas, Doubting.” In <hi rend="italic">Dictionary of Biblical
+              Tradition in English Literature</hi>. Pp. 766–67.</bibl>
+          <bibl>Kelly, Kathleen Coyne, and Marina Leslie, eds. <hi rend="italic">Menacing Virgins:
+              Representing Virginity in the Middle Ages and Renaissance</hi>. Newark: University of
+            Delaware Press; London: Associated University Presses, 1999.</bibl>
+          <bibl>Kendrick, Laura. <hi rend="italic">Chaucerian Play: Comedy and Control in the
+              Canterbury Tales</hi>. Berkeley and Los Angeles: University of California Press,
+            1988.</bibl>
+          <bibl>Klapisch-Zuber, Christiane., ed. <hi rend="italic">A History of Women in the
+              West</hi>. Vol 2: <hi rend="italic">Silences of the Middle Ages</hi>. Cambridge, MA:
+            Harvard University Press, 1992.</bibl>
+          <bibl>Klinefelter, Ralph A. “The Four Daughters of God: A New Version.” <hi rend="italic"
+              >The Journal of English and Germanic Philology</hi> 52, no. 1 (January 1953), 90–95.
+            Online at <ref target="https://www.jstor.org/stable/27713504" type="external"
+              >https://www.jstor.org/stable/27713504</ref>.</bibl>
+          <bibl>Kolve, V. A. <hi rend="italic">The Play Called Corpus Christi</hi>. Stanford, CA:
+            Stanford University Press, 1966.</bibl>
+          <bibl>“Lambeth Palace Library MS 522.” In <hi rend="italic">Database of Manuscripts and
+              Archives</hi>. London: Lambeth Palace Library / Church of England Record Centre.
+            Online at <ref
+              target="https://archives.lambethpalacelibrary.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&amp;id=MSS%2f522&amp;pos=2"
+              type="external"
+              >https://archives.lambethpalacelibrary.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&amp;id=MSS%2f522&amp;pos=2</ref>.</bibl>
+          <bibl>Legge, M. Dominica. “Pierre de Peckham and His <hi rend="italic">Lumiere as
+              Lais</hi>.” <hi rend="italic">Modern Language Review</hi> 24, no. 1 (January 1929),
+            37–47. Online at <ref target="https://www.jstor.org/stable/3713889" type="external"
+              >https://www.jstor.org/stable/3713889</ref>.</bibl>
+          <bibl>Legge, M. Dominica. <hi rend="italic">Anglo-Norman Literature and Its
+              Background</hi>. Oxford: Clarendon Press, 1963. Online at <ref
+              target="https://archive.org/details/anglonormanliter0000unse_c8k0/page/222/mode/2up?q=grosseteste"
+              type="external"
+              >https://archive.org/details/anglonormanliter0000unse_c8k0/page/222/mode/2up?q=grosseteste</ref>.</bibl>
+          <bibl>Logan, F. Donald. <hi rend="italic">A History of the Church in the Middle Ages</hi>.
+            2nd ed. New York: Routledge, 2013.</bibl>
+          <bibl>Loomis, Roger Sherman. “The Allegorical Siege in the Art of the Middle Ages.” <hi
+              rend="italic">American Journal of Archaeology</hi> 23, no. 3 (July–September 1919),
+            255–69. Online at <ref target="https://www.jstor.org/stable/497460" type="external"
+              >https://www.jstor.org/stable/497460</ref>.</bibl>
+          <bibl>Lusignan, Serge. “French Language in Contact with English: Social Context and
+            Linguistic Change (mid-13th–14th centuries).” In Wogan-Browne et al., <hi rend="italic"
+              >Language and Culture in Medieval Britain</hi>. Pp. 19–30.</bibl>
+          <bibl>Mackie, Evelyn A. “Scribal Intervention and the Question of Audience: Editing <hi
+              rend="italic">Le Château d’amour</hi>.” In Mackie and Goering, <hi rend="italic"
+              >Editing Robert Grosseteste</hi>. Pp. 61–78.</bibl>
+          <bibl>Mackie, Evelyn A., and Joseph Goering, eds. <hi rend="italic">Editing Robert
+              Grosseteste: Papers Given at the Thirty-Sixth Annual Conference on Editorial Problems,
+              University of Toronto, 3–4 November 2000</hi>. Toronto: University of Toronto Press,
+            2003.</bibl>
+          <bibl>Mann, Jill. “Allegorical Buildings in Mediaeval Literature.” <hi rend="italic"
+              >Medium Ævum</hi> 63, no. 2 (1994), 191–210. Online at <ref
+              target="https://www.jstor.org/stable/43629730" type="external"
+              >https://www.jstor.org/stable/43629730</ref>.</bibl>
+          <bibl><hi rend="italic">Manuscripts of the West Midlands: A Catalogue of Vernacular
+              Manuscript Books of the English West Midlands, c. 1300–c. 1475</hi>. Wendy Scase,
+            Project Director. Birmingham: University of Birmingham, 2009. Online at <ref
+              target="https://www.dhi.ac.uk/mwm/" type="external"
+            >https://www.dhi.ac.uk/mwm/</ref>.</bibl>
+          <bibl>Martin, Lawrence T. “Daniel.” In <hi rend="italic">Dictionary of Biblical Tradition
+              in English Literature</hi>. Pp. 177–80.</bibl>
+          <bibl>Marx, C. W. <hi rend="italic">The Devil’s Rights and the Redemption in the
+              Literature of Medieval England</hi>. Cambridge: D. S. Brewer, 1995.</bibl>
+          <bibl>Mayeski, Mary A. “Early Medieval Exegesis: Gregory I to the Twelfth Century.” In <hi
+              rend="italic">A History of Biblical Interpretation</hi>. Vol. 2: <hi rend="italic">The
+              Medieval Through the Reformation Periods</hi>. Ed. Alan J. Hauser and Duane F. Watson.
+            Grand Rapids, MI: Wm. B. Eerdmans Publishing, 2009. Pp. 86–112.</bibl>
+          <bibl>McColley, Diane. “Angel.” In <hi rend="italic">Dictionary of Biblical Tradition in
+              English Literature</hi>. Pp. 38–42.</bibl>
+          <bibl>McEvoy, James. <hi rend="italic">The Philosophy of Robert Grosseteste</hi>. Oxford:
+            Clarendon Press, 1982.</bibl>
+          <bibl>McEvoy, James. <hi rend="italic">Robert Grosseteste</hi>. Oxford: Oxford University
+            Press, 2000.</bibl>
+          <bibl>McEvoy, James. “Robert Grosseteste: The Man and His Legacy.” In Mackie and Goering,
+              <hi rend="italic">Editing Robert Grosseteste</hi>. Pp. 3–29.</bibl>
+          <bibl><hi rend="italic">Medieval Manuscripts in Oxford Libraries: A Catalogue of Western
+              Manuscripts at the Bodleian Libraries and Selected Oxford Colleges</hi>. Oxford:
+            University of Oxford, 2017. Online at <ref target="https://medieval.bodleian.ox.ac.uk/"
+              type="external">https://medieval.bodleian.ox.ac.uk/</ref>.</bibl>
+          <bibl>Menn, Esther Marie. <hi rend="italic">Judah and Tamar (Genesis 38) in Ancient Jewish
+              Exegesis: Studies in Literary Form and Hermeneutics</hi>. Supplements to the Journal
+            for the Study of Judaism 51. Leiden: Brill, 1997.</bibl>
+          <bibl><hi rend="italic">Merriam-Webster’s Collegiate Dictionary</hi>. 11th ed. 2024.
+            Online at <ref target="https://www.merriam-webster.com/" type="external"
+              >https://www.merriam-webster.com/</ref>.</bibl>
+          <bibl><hi rend="italic">Middle English Dictionary</hi>. In <hi rend="italic">Middle
+              English Compendium</hi>. Ed. Frances McSparran, et al. Ann Arbor: University of
+            Michigan Library, 2000–2018. Online at <ref
+              target="http://quod.lib.umich.edu/m/middle-english-dictionary/" type="external"
+              >http://quod.lib.umich.edu/m/middle-english-dictionary/</ref>.</bibl>
+          <bibl>Morey, James H. <hi rend="italic">Book and Verse: A Guide to Middle English Biblical
+              Literature</hi>. Urbana, IL: University of Illinois Press, 2000.</bibl>
+          <bibl>“Mr. Fuller Russell’s Library.” <hi rend="italic">The Athenæum: Journal of
+              Literature, Science, the Fine Arts, Music, and the Drama</hi>, part 1 (Jan. to June,
+            1885), 184. Online at <ref
+              target="https://babel.hathitrust.org/cgi/pt?id=uc1.l0082553876&amp;view=1up&amp;seq=7"
+              type="external"
+              >https://babel.hathitrust.org/cgi/pt?id=uc1.l0082553876&amp;view=1up&amp;seq=7</ref>.</bibl>
+          <bibl>“MS. Add. B. 107.” In <hi rend="italic">Medieval Manuscripts in Oxford
+              Libraries</hi>. Online at <ref
+              target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_79" type="external"
+              >https://medieval.bodleian.ox.ac.uk/catalog/manuscript_79</ref>.</bibl>
+          <bibl>“MS. Bodl. 399.” In <hi rend="italic">Medieval Manuscripts in Oxford Libraries</hi>.
+            Online at <ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1430"
+              type="external"
+            >https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1430</ref>.</bibl>
+          <bibl>“MS. Bodl. 652.” In <hi rend="italic">Medieval Manuscripts in Oxford Libraries</hi>.
+            Online at <ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1656"
+              type="external"
+            >https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1656</ref>.</bibl>
+          <bibl>“MS. Eng. poet. a. 1.” In <hi rend="italic">Medieval Manuscripts in Oxford
+              Libraries</hi>. Online at <ref
+              target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4817" type="external"
+              >https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4817</ref>.</bibl>
+          <bibl>Murchison, Krista A. “Readers of the <hi rend="italic">Manuel des péchés</hi>
+            Revisited.” <hi rend="italic">Philological Quarterly</hi> 95, no. 2 (Spring 2016),
+            161–99.</bibl>
+          <bibl>Murdoch, Brian. <hi rend="italic">Adam’s Grace: Fall and Redemption in Medieval
+              Literature</hi>. Cambridge: D. S. Brewer, 2000.</bibl>
+          <bibl>Murdoch, Brian. <hi rend="italic">The Medieval Popular Bible: Expansions of Genesis
+              in the Middle Ages</hi>. Cambridge: D. S. Brewer, 2003.</bibl>
+          <bibl>Murdoch, Brian. <hi rend="italic">The Apocryphal Adam and Eve in Medieval Europe:
+              Vernacular Translations and Adaptations of the Vita Adae et Evae</hi>. Oxford: Oxford
+            University Press, 2009.</bibl>
+          <bibl>Murphy, Michael. “Four Daughters of God.” In <hi rend="italic">Dictionary of
+              Biblical Tradition in English Literature</hi>. Pp. 290–91.</bibl>
+          <bibl>Nelson, Ingrid. “The Performance of Power in Medieval English Households: The Case
+            of the <hi rend="italic">Harrowing of Hell</hi>.” <hi rend="italic">Journal of English
+              and Germanic Philology</hi> 112, no. 1 (January 2013), 48–69. Online at <ref
+              target="https://www.jstor.org/stable/10.5406/jenglgermphil.112.1.0048" type="external"
+              >https://www.jstor.org/stable/10.5406/jenglgermphil.112.1.0048</ref>.</bibl>
+          <bibl>Newhauser, Richard G., and Susan Janet Ridyard, eds. <hi rend="italic">Sin in
+              Medieval and Early Modern Culture: The Tradition of the Seven Deadly Sins</hi>. York:
+            York Medieval Press, 2012.</bibl>
+          <bibl>O’Carroll, Maura, ed. <hi rend="italic">Robert Grosseteste and the Beginnings of a
+              British Theological Tradition</hi>. Rome: Istituto Storico Dei Cappuccini,
+            2003.</bibl>
+          <bibl>Oden, Thomas C. <hi rend="italic">Classic Christianity: A Systematic Theology</hi>.
+            New York: HarperOne, 2009.</bibl>
+          <bibl>Olson, Katherine. “‘Earth and Sky Will Be Ablaze’: The Apocalypse, Hell, and
+            Judgment in Pre-modern Ireland, Scotland, Wales, Cornwall, and Brittany.” In <hi
+              rend="italic">A Companion to the Premodern Apocalypse</hi>. Ed. Michael A. Ryan.
+            Leiden and Boston: Brill, 2016. Pp. 331–77.</bibl>
+          <bibl>“Oxford, Bodleian Library, Add. B. 107.” In <hi rend="italic">Manuscripts of the
+              West Midlands</hi>. Online at <ref
+              target="https://www.dhi.ac.uk/mwm/browse?type=ms&amp;id=92" type="external"
+              >https://www.dhi.ac.uk/mwm/browse?type=ms&amp;id=92</ref>.</bibl>
+          <bibl>“Oxford, Bodleian Library, Bodley 399.” In <hi rend="italic">JONAS: Répertoire des
+              textes et livres français et occitans</hi>. Institut de recherche et d’histoire des
+            textes du Centre national de la recherche scientifique. Online at <ref
+              target="https://jonas.irht.cnrs.fr/manuscrit/40011" type="external"
+              >https://jonas.irht.cnrs.fr/manuscrit/40011</ref>.</bibl>
+          <bibl>“Oxford, Bodleian Library, Eng. poet. a. 1.” In <hi rend="italic">Manuscripts of the
+              West Midlands</hi>. Online at <ref
+              target="https://www.dhi.ac.uk/mwm/browse?type=ms&amp;id=112" type="external"
+              >https://www.dhi.ac.uk/mwm/browse?type=ms&amp;id=112</ref>.</bibl>
+          <bibl><hi rend="italic">Oxford English Dictionary</hi>. Oxford: University of Oxford.
+            Online at <ref target="https://www.oed.com/" type="external"
+            >https://www.oed.com/</ref>.</bibl>
+          <bibl>Panti, Cecilia. “Robert Grosseteste.” In <hi rend="italic">Encyclopedia of Medieval
+              Philosophy</hi>. 2:1140–45.</bibl>
+          <bibl>Panti, Cecilia. “Robert Grosseteste’s Cosmology of Light and Light-Metaphors: A
+            Symbolic Model of Sacred Space?” In <hi rend="italic">Bishop Robert Grosseteste and
+              Lincoln Cathedral: Tracing Relationships between Medieval Concepts of Order and Built
+              Form</hi>. Ed. Nicholas Temple, John Shannon Hendrix, and Christian Frost. Burlington,
+            VT: Ashgate, 2014. Pp. 59–80.</bibl>
+          <bibl>Pearsall, Derek, ed. <hi rend="italic">Studies in the Vernon Manuscript</hi>.
+            Cambridge: D. S. Brewer, 1990.</bibl>
+          <bibl>Peebles, Rose Jeffries. <hi rend="italic">The Legend of Longinus in Ecclesiastical
+              Tradition and English Literature, and Its Connection with the Grail</hi>. Baltimore,
+            MD: J. H. Furst, 1911.</bibl>
+          <bibl>Pickstock, Catherine. <hi rend="italic">After Writing: On the Liturgical
+              Consummation of Philosophy</hi>. Challenges in Contemporary Theology. Oxford:
+            Wiley-Blackwell, 1998.</bibl>
+          <bibl>Pollard, Richard Matthew, ed. <hi rend="italic">Imagining the Medieval
+              Afterlife</hi>. Cambridge: Cambridge University Press, 2020.</bibl>
+          <bibl>Pollock, Frederick, and Frederic William Maitland. <hi rend="italic">The History of
+              English Law Before the Time of Edward I</hi>. 2nd ed. Vol. 2. Cambridge: Cambridge
+            University Press, 1898.</bibl>
+          <bibl>Quinn, Esther C., and John R. Donahue. “Passion, Cross.” In <hi rend="italic"
+              >Dictionary of Biblical Tradition in English Literature</hi>. Pp. 583–87.</bibl>
+          <bibl>Raven, James, ed. <hi rend="italic">The Oxford Illustrated History of the Book</hi>.
+            Oxford: Oxford University Press, 2020.</bibl>
+          <bibl>Reeves, Andrew. <hi rend="italic">Religious Education in Thirteenth-Century England:
+              The Creed and Articles of Faith</hi>. Education and Society in the Middle Ages and
+            Renaissance 50. Leiden and Boston: Brill, 2015.</bibl>
+          <bibl>Reeves, Andrew. “Teaching Confession in Thirteenth-Century England: Priests and
+            Laity.” In <hi rend="italic">A Companion to Priesthood and Holy Orders in the Middle
+              Ages</hi>. Ed. Greg Peters and C. Colt Anderson. Brill’s Companions to the Christian
+            Tradition 62. Leiden: Brill, 2016. Pp. 252–80.</bibl>
+          <bibl>Rhodes, Jim. <hi rend="italic">Poetry Does Theology: Chaucer, Grosseteste, and the
+              Pearl-Poet</hi>. Notre Dame, IN: University of Notre Dame Press, 2001.</bibl>
+          <bibl>Rosenbach, Anette. <hi rend="italic">Genitive Variation in English: Conceptual
+              Factors in Synchronic and Diachronic Studies</hi>. Topics in English Linguistics 42.
+            Berlin and New York: Mouton de Gruyter, 2002.</bibl>
+          <bibl>Rubin, Miri. <hi rend="italic">Mother of God: A History of the Virgin Mary</hi>. New
+            Haven and London: Yale University Press, 2009.</bibl>
+          <bibl>Sajavaara, Kari. “The Use of Robert Grosseteste’s <hi rend="italic">Château
+              d’amour</hi> as a Source of the <hi rend="italic">Cursor Mundi</hi>: Additional
+            Evidence.” <hi rend="italic">Neuphilologische Mitteilungen</hi> 68, no. 2 (1967),
+            184–93. Online at <ref target="http://www.jstor.com/stable/43342340" type="external"
+              >http://www.jstor.com/stable/43342340</ref>.</bibl>
+          <bibl>Sajavaara, Kari. “The Relationship of the Vernon and Simeon Manuscripts.” <hi
+              rend="italic">Neuphilologische Mitteilungen</hi> 68, no. 4 (1967), 428–39. Online at
+              <ref target="https://www.jstor.org/stable/43342367" type="external"
+              >https://www.jstor.org/stable/43342367</ref>.</bibl>
+          <bibl>Sajavaara, Kari. “The ‘Castle of Love’ in English Folk-Songs.” <hi rend="italic"
+              >Neuphilologische Mitteilungen</hi> 73, no. 1/3 (1972), 396–401. Online at <ref
+              target="https://www.jstor.org/stable/43345369" type="external"
+              >https://www.jstor.org/stable/43345369</ref>.</bibl>
+          <bibl>Sandler, Lucy Freeman. “The <hi rend="italic">Lumere as lais</hi> and Its Readers:
+            Pictorial Evidence from British Library MS Royal 15 D II.” In <hi rend="italic"
+              >Thresholds of Medieval Visual Culture: Liminal Spaces</hi>. Ed. Elina Gertsman and
+            Jill Stevenson. Woodbridge: Boydell Press, 2012. Pp. 73–94.</bibl>
+          <bibl>Scase, Wendy, ed. <hi rend="italic">The Making of the Vernon Manuscript: The
+              Production and Contexts of Oxford, Bodleian Library, MS Eng. poet. a. 1</hi>.
+            Turnhout: Brepols Publishers, 2013.</bibl>
+          <bibl>Scase, Wendy. “The Artists of the Vernon Initials.” In Scase, <hi rend="italic"
+              >Making of the Vernon Manuscript</hi>. Pp. 207–226.</bibl>
+          <bibl>Scase, Wendy. “The Patronage of the Vernon Manuscript.” In Scase, <hi rend="italic"
+              >Making of the Vernon Manuscript</hi>. Pp. 269–93.</bibl>
+          <bibl>Scase, Wendy. “Some Vernon Analogues and Their Patrons.” In Scase, <hi rend="italic"
+              >Making of the Vernon Manuscript</hi>. Pp. 247–68.</bibl>
+          <bibl>Schaff, Philip. <hi rend="italic">The Greek and Latin Creeds, with
+            Translations</hi>. Vol. 2 of <hi rend="italic">The Creeds of Christendom, with a History
+              and Critical Notes</hi>. New York: Harper and Brothers, 1877.</bibl>
+          <bibl>Shoemaker, Karl. “The Devil at Law in the Middle Ages.” In <hi rend="italic">L’Ordre
+              chrétien médiéval entre le droit et la foi</hi>. Special issue of <hi rend="italic"
+              >Revue de l’histoire des religions</hi> 228, no. 4 (October–December 2011), 567–86.
+            Online at <ref target="https://journals.openedition.org/rhr/7826" type="external"
+              >https://journals.openedition.org/rhr/7826</ref>.</bibl>
+          <bibl>Shoulson, Jeffrey S. “The Embrace of the Fig Tree: Sexuality and Creativity in
+            Midrash and in Milton.” <hi rend="italic">ELH</hi> 67, no. 4 (Winter 2000), 873–903.
+            Online at <ref target="http://www.jstor.org/stable/30031943" type="external"
+              >http://www.jstor.org/stable/30031943</ref>.</bibl>
+          <bibl>Siebach-Larsen, Anna. “Structures of Thought in Robert Grosseteste’s <hi
+              rend="italic">Chasteau d’amour</hi> and the Tateshal Miscellany.” In Boulton, <hi
+              rend="italic">Literary Echoes of the Fourth Lateran Council</hi>. Pp. 170–96.</bibl>
+          <bibl>Siecienski, A. Edward. <hi rend="italic">The Filioque: History of a Doctrinal
+              Controversy</hi>. Oxford Studies in Historical Theology. Oxford: Oxford University
+            Press, 2010.</bibl>
+          <bibl>Southern, R. W. <hi rend="italic">Robert Grosseteste: The Growth of an English Mind
+              in Medieval Europe</hi>. 2nd ed. Oxford: Clarendon Press, 1992.</bibl>
+          <bibl>Stones, Alison. “The Miniatures in the Vernon Manuscript.” In Scase, <hi
+              rend="italic">Making of the Vernon Manuscript</hi>. Pp. 149–70.</bibl>
+          <bibl><hi rend="italic">A Summary Catalogue of Western Manuscripts in the Bodleian Library
+              at Oxford Which Have Not Hitherto Been Catalogued in the Quarto Series: With
+              References to the Oriental and Other Manuscripts</hi>. By Falconer Madan, Richard
+            William Hunt, et al. 7 vols. in 8. Oxford: Clarendon Press, 1895–1953. Online at <ref
+              target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990101164520107026"
+              type="external"
+              >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990101164520107026</ref>.</bibl>
+          <bibl>Summerfield, Henry, Leland Ryken, and Laurence Eldredge. “Jonah.” In <hi
+              rend="italic">Dictionary of Biblical Tradition in English Literature</hi>. Pp.
+            409–11.</bibl>
+          <bibl>Tamburr, Karl. <hi rend="italic">The Harrowing of Hell in Medieval England</hi>.
+            Cambridge: D. S. Brewer, 2007.</bibl>
+          <bibl>Taylor, Andrew. “Manual to Miscellany: Stages in the Commercial Copying of
+            Vernacular Literature in England.” In Medieval and Early Modern Miscellanies and
+            Anthologies. Ed. Phillipa Hardman. Special issue of <hi rend="italic">The Yearbook of
+              English Studies</hi> 33 (2003), 1–17. Online at <ref
+              target="https://www.jstor.org/stable/3509013" type="external"
+              >https://www.jstor.org/stable/3509013</ref>.</bibl>
+          <bibl>Taylor, Andrew. “Was Grosseteste the Father of English Literature?” <hi
+              rend="italic">Revista canaria de estudios ingleses</hi> 47 (2003), 73–86.</bibl>
+          <bibl>Thomson, S. Harrison. <hi rend="italic">The Writings of Robert Grosseteste, Bishop
+              of Lincoln, 1235–1253</hi>. Cambridge: Cambridge University Press, 1940. Reprint,
+            2013.</bibl>
+          <bibl>Traver, Hope. <hi rend="italic">The Four Daughters of God: A Study of the Versions
+              of This Allegory with Special Reference to Those in Latin, French, and English</hi>.
+            Bryn Mawr College Monographs: Monograph Series 6. Bryn Mawr: Bryn Mawr College, 1907.
+            Online at <ref
+              target="https://archive.org/details/fourdaughtersgo02travgoog/page/n6/mode/2up"
+              type="external"
+              >https://archive.org/details/fourdaughtersgo02travgoog/page/n6/mode/2up</ref>.</bibl>
+          <bibl>Traver, Hope. “The Four Daughters of God: A Mirror of Changing Doctrine.” <hi
+              rend="italic">PMLA</hi> 40, no. 1 (March 1925), 44–92. Online at <ref
+              target="https://www.jstor.org/stable/457268" type="external"
+              >https://www.jstor.org/stable/457268</ref>.</bibl>
+          <bibl>Turville-Petre, Thorlac. <hi rend="italic">England the Nation: Language, Literature
+              and National Identity, 1290–1340</hi>. Oxford: Clarendon Press, 1996.</bibl>
+          <bibl>Tveitane, Mattias. “The ‘Four Daughters of God’ in the Old Norse <hi rend="italic"
+              >King’s Mirror</hi>.” <hi rend="italic">Neuphilologische Mitteilungen</hi> 73, no. 4
+            (1972), 795–804. Online at <ref target="https://www.jstor.org/stable/43342778"
+              type="external">https://www.jstor.org/stable/43342778</ref>.</bibl>
+          <bibl>Tveitane, Mattias. “The Four Daughters of God: A Supplement” <hi rend="italic"
+              >Neuphilologische Mitteilungen</hi> 81, no. 4 (1980), 409–15. Online at <ref
+              target="https://www.jstor.org/stable/43343361" type="external"
+              >https://www.jstor.org/stable/43343361</ref>.</bibl>
+          <bibl>Vitz, Evelyn Birge. <hi rend="italic">Orality and Performance in Early French
+              Romance</hi>. Cambridge: D. S. Brewer, 1999.</bibl>
+          <bibl>Wallis, Faith. “What a Medieval Diagram Shows: A Case Study of <hi rend="italic"
+              >Computus</hi>.” <hi rend="italic">Studies in Iconography</hi> 36 (2015), 1–40. Online
+            at <ref target="https://www.jstor.org/stable/44735517" type="external"
+              >https://www.jstor.org/stable/44735517</ref>.</bibl>
+          <bibl>Warner, Marina. <hi rend="italic">Alone of All Her Sex: The Myth and the Cult of the
+              Virgin Mary</hi>. New York: Alfred A. Knopf, 1976. Reprint, New York: Vintage Books,
+            1983.</bibl>
+          <bibl>Waters, Claire M. <hi rend="italic">Translating</hi> Clergie: <hi rend="italic"
+              >Status, Education, and Salvation in Thirteenth-Century Vernacular Texts</hi>.
+            Philadelphia: University of Pennsylvania Press, 2016.</bibl>
+          <bibl>Watson, Nicholas. “William Langland Reads Robert Grosseteste.” In Fenster and
+            Collette, <hi rend="italic">French of Medieval England</hi>. Pp. 140–56.</bibl>
+          <bibl>Watt, John A. “Grosseteste and the Jews: A Commentary on Letter V.” In O’Carroll,
+              <hi rend="italic">Robert Grosseteste and the Beginnings of a British Theological
+              Tradition</hi>. Pp. 201–16.</bibl>
+          <bibl>Weymouth, R. F. “Bishop Grosseteste’s <hi rend="italic">Castle of Love</hi>.” <hi
+              rend="italic">Transactions of the Philological Society</hi> 8, no. 1 (1862), 48–66.
+            Online at <ref
+              target="https://play.google.com/store/books/details?id=-rlMAAAAcAAJ&amp;rdid=book--rlMAAAAcAAJ&amp;rdot=1"
+              type="external"
+              >https://play.google.com/store/books/details?id=-rlMAAAAcAAJ&amp;rdid=book--rlMAAAAcAAJ&amp;rdot=1</ref>.</bibl>
+          <bibl>Wheatley, Abigail. <hi rend="italic">The Idea of the Castle in Medieval
+            England</hi>. Woodbridge: York Medieval Press, 2004.</bibl>
+          <bibl>Whitehead, Christiania. “A Fortress and a Shield: The Representation of the Virgin
+            in the <hi rend="italic">Château d’amour</hi> of Robert Grosseteste.” In Whitehead and
+            Renevey, <hi rend="italic">Writing Religious Women</hi>. Pp. 109–32.</bibl>
+          <bibl>Whitehead, Christiania. <hi rend="italic">Castles of the Mind: A Study of Medieval
+              Architectural Allegory</hi>. Cardiff: University of Wales Press, 2003.</bibl>
+          <bibl>Whitehead, Christiania, and Denis Renevey, eds. <hi rend="italic">Writing Religious
+              Women: Female Spiritual and Textual Practices in Late Medieval England</hi>. Toronto:
+            University of Toronto Pres, 2000.</bibl>
+          <bibl>Whiting, Bartlett Jere, with the collaboration of Helen Wescott Whiting. <hi
+              rend="italic">Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly
+              before 1500</hi>. Cambridge: Harvard University Press, 1968.</bibl>
+          <bibl>Wogan-Browne, Jocelyn. “General Introduction: What’s in a Name: The ‘French’ of
+            ‘England.’” In Wogan-Browne et al., <hi rend="italic">Language and Culture in Medieval
+              Britain</hi>. Pp. 1–13.</bibl>
+          <bibl>Wogan-Browne, Jocelyn, with Carolyn P. Collette, Maryanne Kowaleski, Linne Mooney,
+            Ad Putter, and David Trotter, eds. <hi rend="italic">Language and Culture in Medieval
+              Britain: The French of England, c. 1100–c. 1500</hi>. Woodbridge: York Medieval Press
+            and The Boydell Press, 2009. Reprint, 2013.</bibl>
+          <bibl>Wogan-Browne, Jocelyn, Nicholas Watson, Andrew Taylor, and Ruth Evans, eds. <hi
+              rend="italic">The Idea of the Vernacular: An Anthology of Middle English Literary
+              Theory, 1280–1520</hi>. University Park: Pennsylvania State University Press,
+            1999.</bibl>
+          <bibl>Zatta Jane. “The ‘Romance’ of the <hi rend="italic">Castle of Love</hi>.” <hi
+              rend="italic">Chaucer Yearbook</hi> 5 (1998), 163–85.</bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>
